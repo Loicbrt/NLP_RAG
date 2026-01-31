@@ -1,0 +1,8 @@
+openai
+rank_bm25
+jupyter
+transformers 
+sentence-transformers 
+faiss-cpu 
+torch
+accelerate

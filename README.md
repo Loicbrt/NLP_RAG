@@ -40,6 +40,20 @@ Nous avons utilisé faiss pour indexer les vecteurs, car c'était une bibliothè
 
 Nous avons d'abord télécharger le modèle mistralai/Mistral-7B-Instruct-v0.3 en local pour ne pas payer de clé api. Cependant même avec seulement 7B de paramètre, le modèle prend 5 + min pour répondre à un prompt. Nous avons ensuite utilisé une api pour accéder à  gpt-5-nano, plus rapide et performant.
 
+
+Exécution : 
+
+Pour installer les librairies : pip install -r requirements.txt
+
+Il faut avoir une clé api openai dans les variable locale de l'ordinateur pour utiliser openai ou télécharger le modèle mistral avec le fichier jupyter generative.ipynb
+
+Installer 
+
+all-MiniLM-L6-v2 et générer les vecteurs dans embedding.ipynb (le vecteurs sont déjà enregistrés dans le repos git, donc il n'y en a pas vraimet besoin sauf si vous rajouté des données)
+
+lancer depuis le fichier main.ipynb le modèle rag, il y'a plusieurs exemple d'utilisation.
+
+
 Résultat :
 
 Le jeu de données est encore très faible, et le rag a beaucoup de mal à trouver les chunks les plus pertinents. L'ajout du rag est négligeable sur le résultat, voir détrimentaire. Nos extensions n'ont pas non plus apporté d'amélioration significative.
