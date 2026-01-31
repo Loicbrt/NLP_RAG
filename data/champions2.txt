@@ -1,0 +1,350 @@
+    Roark (Oreburgh City)
+    Gardenia (Eterna City)
+    Maylene (Veilstone City)
+    Crasher Wake (Pastoria City)
+    Fantina (Hearthome City)
+    Byron (Canalave City)
+    Candice (Snowpoint City)
+    Volkner (Sunyshore City)
+
+Elite Four
+
+    Aaron
+    Bertha
+    Flint
+    Lucian
+    Cynthia
+
+Gym #1, Oreburgh City
+Roark
+
+Roark
+Coal Badge
+Rock type Pokémon
+
+Geodude#074
+Geodude
+Level 12
+Rock · Ground
+
+Onix#095
+Onix
+Level 12
+Rock · Ground
+
+Cranidos#408
+Cranidos
+Level 14
+Rock
+Gym #2, Eterna City
+Gardenia
+
+Gardenia
+Forest Badge
+Grass type Pokémon
+
+Cherubi#420
+Cherubi
+Level 19
+Grass
+
+Turtwig#387
+Turtwig
+Level 19
+Grass
+
+Roserade#407
+Roserade
+Level 22
+Grass · Poison
+Gym #3, Veilstone City
+Maylene
+
+Maylene
+Cobble Badge
+Fighting type Pokémon
+
+Meditite#307
+Meditite
+Level 27
+Fighting · Psychic
+
+Machoke#067
+Machoke
+Level 27
+Fighting
+
+Lucario#448
+Lucario
+Level 30
+Fighting · Steel
+Gym #4, Pastoria City
+Crasher Wake
+
+Crasher Wake
+Fen Badge
+Water type Pokémon
+
+Gyarados#130
+Gyarados
+Level 27
+Water · Flying
+
+Quagsire#195
+Quagsire
+Level 27
+Water · Ground
+
+Floatzel#419
+Floatzel
+Level 30
+Water
+Gym #5, Hearthome City
+Fantina
+
+Fantina
+Relic Badge
+Ghost type Pokémon
+
+Drifblim#426
+Drifblim
+Level 32
+Ghost · Flying
+
+Gengar#094
+Gengar
+Level 34
+Ghost · Poison
+
+Mismagius#429
+Mismagius
+Level 36
+Ghost
+Gym #6, Canalave City
+Byron
+
+Byron
+Mine Badge
+Steel type Pokémon
+
+Bronzor#436
+Bronzor
+Level 36
+Steel · Psychic
+
+Steelix#208
+Steelix
+Level 36
+Steel · Ground
+
+Bastiodon#411
+Bastiodon
+Level 39
+Rock · Steel
+Gym #7, Snowpoint City
+Candice
+
+Candice
+Icicle Badge
+Ice type Pokémon
+
+Snover#459
+Snover
+Level 38
+Grass · Ice
+
+Sneasel#215
+Sneasel
+Level 38
+Dark · Ice
+
+Medicham#308
+Medicham
+Level 40
+Fighting · Psychic
+
+Abomasnow#460
+Abomasnow
+Level 42
+Grass · Ice
+Gym #8, Sunyshore City
+Volkner
+
+Volkner
+Beacon Badge
+Electric type Pokémon
+
+Raichu#026
+Raichu
+Level 46
+Electric
+
+Ambipom#424
+Ambipom
+Level 47
+Normal
+
+Octillery#224
+Octillery
+Level 48
+Water
+
+Luxray#405
+Luxray
+Level 49
+Electric
+Elite Four #1
+Aaron
+
+Aaron
+Bug type Pokémon
+
+Dustox#269
+Dustox
+Level 53
+Bug · Poison
+
+Beautifly#267
+Beautifly
+Level 53
+Bug · Flying
+
+Heracross#214
+Heracross
+Level 54
+Bug · Fighting
+
+Vespiquen#416
+Vespiquen
+Level 54
+Bug · Flying
+
+Drapion#452
+Drapion
+Level 57
+Poison · Dark
+Elite Four #2
+Bertha
+
+Bertha
+Ground type Pokémon
+
+Quagsire#195
+Quagsire
+Level 55
+Water · Ground
+
+Whiscash#340
+Whiscash
+Level 55
+Water · Ground
+
+Golem#076
+Golem
+Level 56
+Rock · Ground
+
+Sudowoodo#185
+Sudowoodo
+Level 57
+Rock
+
+Hippowdon#450
+Hippowdon
+Level 59
+Ground
+Elite Four #3
+Flint
+
+Flint
+Fire type Pokémon
+
+Rapidash#078
+Rapidash
+Level 58
+Fire
+
+Steelix#208
+Steelix
+Level 57
+Steel · Ground
+
+Lopunny#428
+Lopunny
+Level 57
+Normal
+
+Drifblim#426
+Drifblim
+Level 58
+Ghost · Flying
+
+Infernape#392
+Infernape
+Level 61
+Fire · Fighting
+Elite Four #4
+Lucian
+
+Lucian
+Psychic type Pokémon
+
+Mr. Mime#122
+Mr. Mime
+Level 59
+Psychic · Fairy
+
+Girafarig#203
+Girafarig
+Level 59
+Normal · Psychic
+
+Medicham#308
+Medicham
+Level 60
+Fighting · Psychic
+
+Alakazam#065
+Alakazam
+Level 60
+Psychic
+
+Bronzong#437
+Bronzong
+Level 63
+Steel · Psychic
+Champion
+Cynthia
+
+Cynthia
+Mixed types
+
+Spiritomb#442
+Spiritomb
+Level 61
+Ghost · Dark
+
+Gastrodon#423
+Gastrodon
+Level 60
+Water · Ground
+
+Roserade#407
+Roserade
+Level 60
+Grass · Poison
+
+Milotic#350
+Milotic
+Level 63
+Water
+
+Lucario#448
+Lucario
+Level 63
+Fighting · Steel
+
+Garchomp#445
+Garchomp
+Level 66
+Dragon · Ground

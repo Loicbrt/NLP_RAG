@@ -1,0 +1,169 @@
+    Whichever Player Character goes unchosen will appear in the story not as The Rival, like Brendan or May from Pokémon Ruby and Sapphire, but as the personal aide of Professor Rowan. The assistant lives in the nearby Sandgem Town, demonstrates how to catch Pokémon to the Player Character, and helps out when Team Galactic makes their move.
+
+The following are tropes applicable to the assistant in general, while tropes specific to Lucas and Dawn are separated into dedicated folders.
+
+    Adaptational Badass: The professor's assistant takes a colossal step up in Brilliant Diamond and Shining Pearl with their new, well-trained post-game teams.
+    Bash Brothers:
+        Once the Coal Badge is won, the Player Character teams up with the assistant at the northern exit of Jubilife City to bust some Team Galactic heads after they try to harass the professor for his papers.
+        
+        After the Player Character obtains the Cobble Badge from the Veilstone Gym, Professor Rowan's assistant will beg for help reclaiming their stolen pokédex from another set of Galactic grunts. In their enthusiasm they'll describe the team-up as a Dream Team.
+        
+    Beleaguered Assistant: Professor Rowan is an Absent-Minded Professor who will occasionally make decisions without explaining his thoughts, leaving the assistant scrambling to catch up. Emphasized in the Platinum Rewrite of the Starter Pokémon scenario, where the assistant informs the Professor he has forgotten his briefcase and is beyond startled to learn he's decided to give crucial Pokémon away.
+    
+    Brutal Honesty: The assistant, either Lucas or Dawn, will be so frustrated by the stolen Pokédex incident that they let themselves call Looker weird behind his back to the player character before catching themselves.
+    
+    Bumbling Sidekick: Downplayed. The assistant is competent enough and even briefly your mentor, but they have a few goofs in the early game—once Team Galactic's plot is in full swing, however, the game never hints at further foibles.
+    
+        The assistant's dialog on Route 207 suggests they're not quite as successful on their mission to fill out the Pokédex as they would like to be.
+        In Veilstone City they reveal In-Universe that they got Sidetracked by the Gold Saucer—either via the distractions of the Game Corner or the Department Store, and then of course they drop their pokédex long enough for Team Galactic to steal it.
+        
+        In Diamond and Pearl, the assistant comes hurtling in after your first battle to recover the briefcase they forgot, only to discover you've used the professor's Pokémon, but Platinum Rewrites the Starter Pokémon scenario to remove this example and highlight what a Beleaguered Assistant they are instead.
+    Can't Catch Up: Rowan's assistant is not a rival like Barry, but isn't on the player character's level, either.
+        The type of starter used by Rowan's assistant is weak against the Player Character's.
+        
+        Both Bash Brothers battles featuring the assistant show that they have Pokémon weaker than the Player Character's. In Veilstone City, the assistant comes begging the player character for assistance to defeat members of Team Galactic that the assistant couldn't beat on their own.
+        The assistant's dad will lament his child's lack of accomplishment compared to the player character during the post-game.
+        Not so in Pokémon Brilliant Diamond and Shining Pearl, where the assistant is an Adaptational Badass with a whole team of powerful Pokémon at their disposal during the post-game.
+        
+    Contrasting Sequel Main Character:
+        The unchosen player characters of both the Hoenn games and the Sinnoh games are both Kid Sidekicks to the regional professor, but in Ruby and Sapphire, the assistant is the professor's child. Not so in Diamond and Pearl.
+        
+        In Diamond and Pearl, the professor's assistant is friendly and occasionally serves as Bash Brothers with the chosen player-character. In Ruby and Sapphire, the professor's assistant was still relatively friendly, but was also the player's rival and thus tended to get rather competitive with them.
+        
+    Demoted to Extra: Downplayed. While still a step up from the Schrödinger's Player Character of Crystal, FireRed, and LeafGreen, the unchosen protagonist's role as the Professor's Kid Sidekick is a step down from Pokémon Ruby and Sapphire, where the unchosen protagonist became The Rival; unlike all rivals up to this point, the unchosen protagonist has no character arc.
+    Dowsing Device: Rowan's assistant gives you the pokéch app for the Dowsing Machine (which in previous games was called the itemfinder).
+    
+    Identical Stranger: The assistant resembles a gender-swapped version of the player despite the fact that the two are completely unrelated in-universe.
+    Incoming Ham: In Diamond and Pearl, the player character's first direct encounter with the assistant happens when the latter comes rushing back for the briefcase they forgot, Leitmotif in full swing.
+    
+    Irony: Whenever involved in a confrontation with Team Galactic in Pokémon Diamond and Pearl, the assistant winds up needing assistance.
+    Mentor Archetype: For the early game. As the assistant, Lucas or Dawn will take it on themselves to walk you through several new mechanics as you make headway on your journey. In one of their few divergences, Dawn will make a point of officially mentoring you, while Lucas just naturally starts to show you the ropes.
+    
+    Missing Mom: The professor's assistant will belong to a Sandgem family with a father, a grandfather, and a kid sister, but no mom.
+    
+    Ship Tease:
+        In the original Pokémon Diamond and Pearl, when Professor Rowan and the assistant first pass the Player Character and Barry; the assistant will look at both of the latter before asking their pardon and passing through, but not before taking a second glance at the player character.
+        
+        When the player character plays Big Damn Heroes and rescues the assistant from Galactic Commander Mars at Lake Verity, Mars takes a jab at them by asking if they're a "lovey-dovey couple" (a more direct English translation of the double-battle trainer-class officially called the "young couple").
+
+Tropes specific to the Assistant's Pokémon or strategy are listed here.
+
+    Achilles' Heel:
+        Defied. Several Pokémon used by the assistant have items or techniques selected specifically to cover obvious weaknesses.
+            A few of the flimsier monsters (Dawn's Frosslass, Lucas's Mothim and Kabutops) have a Focus Sash to ensure they can get some necessary setup in. Dawn's Torterra is holding a Yache berry to help it stave off Ice attacks.
+            
+            Many of the Pokémon used on one of the assistant's teams have moves that specifically counter at least one superior type, such as Lucas's Glaceon, which has Water Pulse to counter the advantage Fire- and Rock-types have against it. Every Water-type on Dawn's first and second teams can use Ice Beam to handle Grass-types.
+        However, many of their Pokémon have a glaring weakness that can be easily exploited.
+        
+            Lucas's Flareon can be blown away via Water or Ground-type moves and his Cradily doesn't know anything for Ice-types.
+            Dawn has a Wormdam Grass and Wormadam Steel both of which can be roasted by a Fire-type, and her Typhlosion (which only knows Eruption) can be shut down by sending out a Pokémon with Flash Fire.
+            
+    Artificial Brilliance:
+        As with many of the opponents in Gen VIII, the professor's assistant benefits from the creator's attention to detail regarding their new post-game teams, and many monsters have carefully selected movesets lifted right from the metagame.
+        
+        At the same time, somebody failed to realize what a bad idea it was to give Lucas's Tauros the moveset of a special sweeper(with three of its moves being horrible inaccurate at that!)—Dawn's Lickilicky is in a similar situation, but has the excuse of being part of a team with a Support Party Member who can give it Super-Speed.
+        
+    Beast and Beauty: Downplayed in Gen VIII. On the assistant's second Empoleon team, there are multiple optional members that fill the two roles without actually interacting.
+        The point man on the assistant's second Empoleon team is either Dawn's Togekiss or Lucas's Gliscor.
+        The Grass-type options are the fearsome Prehistoric Monster Cradily for Lucas and the cute little hula girl Bellossom for Dawn.
+        
+        The normal-type options are Dawn's literal bunny girl Lopunny and Lucas's brutal, bullish Tauros.
+        Gender-Inverted with the Ice-type options on the team, where Dawn uses the big and bulky Mamoswine while Lucas uses the small and sleek Glaceon.
+        
+    Critical Hit Class: The assistant's second Infernape team leads with a Dark-type Pokémon that uses Night Slash, a move with a high critical hit ratio boosted even further with the Super Luck ability and a held item. Dawn's Honchkrow uses a Scope Lens, while Lucas's Absol carries a Razor Claw.
+    
+    Divergent Character Evolution:
+        In the original games, the assistant had the same team regardless of who was in the role. In the remakes, however, Lucas's and Dawn's teams both pull from different pools and follow different rules.
+        
+            Lucas's final team will have always have one starter, one fossil, one Eeveelution, one Rotom variant, an evolution that premiered in the fourth gen, and a single-stage Pokémon. He will always have a menacing looking Pokémon—Gliscor, Dusknoir, or Absol—in front.
+            
+            Dawn's final team is all evolved Pokémon; she has two starters, which will be the only regular level-up evos on her team—everything else evolves with a stone, friendship, a move, and even a held item trade. At least half of each team will be of Pokémon whose evolution lines premiered during the same generation as the second starter. She will start with a Flying-type—Togekiss, Crobat, or Honchkrow.
+            
+        Inverted with the assistant's Infernape, which had two unique moves depending on which team it was on, but in the 1.1.0 update only has one unique move for each team.
+    Explosive Overclocking:
+        Dawn's Wormadam Grass has Leaf Storm, a Grass-type move so powerful it will exhaust the user and deplete their Special Attack. Wisely, Dawn has her equipped with a White Herb, which negates stat loss and thereby affords Wormadam the chance of using the move a second time.
+        
+        Dawn's Sceptile has the exact same strategy with the added benefit of Sceptile's hidden ability Unburden, which gives Sceptile Super-Speed once it uses or loses its held item. Even better, the rest of Sceptile's moves are physical, so it remains effective even with depleted Special Attack.
+        Lucas's Heat Rotom and Mow Rotom use Overheat and Leaf Storm respectively, but rather than using a White Herb to negate the inevitable loss of stats for a second blast, Lucas has his Rotom carrying Choice Specs to give the initial blast a preemptive boost.
+        
+    Female Angel, Male Demon: On the assistant's second Empoleon team, Dawn leads with the angelic Togekiss while Lucas leads with the spooky scorpion-bat Gliscor.
+    Foil: Dawn's Milotic on her first team is a Spirited Competitor; its Competitive ability boosts its Special Attack when someone tries to lower its stats. Lucas's Empoleon, on the other hand, is Defiant to the End (at least, it was in version 1.0.0)—its Defiant ability boosts its Attack in response to lowered stats.
+    
+    Knockback: Both the Dunsparce on Lucas's second Torterra team and the Togekiss on Dawn's second Empoleon team use powerful attacks that have a chance of causing the foe to flinch, boosted with the Serene Grace and supported with a paralysis-inducing move to rob the foe of Speed and give the assistant's monster the priority it needs for the chance of flinching.
+    Last Chance Hit Point: Several of the assistant's Pokémon use Focus Sash, usually so the flimsier monsters have a guaranteed turn to set up their strategies.
+    
+        Dawn's Froslass has one, which usually means she gets at least one shot with Will-o-Wisp to burn the foe, which feeds her Hex's power in turn.
+        Dawn's substantially heftier Blastoise has one in case its Shell Smash technique opens it up to what might have been a one-hit knockout.
+        
+        Lucas's Rampardos is a Glass Cannon and carries Focus Sash to ensure that it can try and get at least one Head Smash in lest any enemies with a superior type try to take it out early.
+        Lucas's Mothim and Kabutops use Focus Sash to guarantee at least one turn to give themselves a Status Buff, and if Kabutops is hit with a physical move it will Shed Armor, Gain Speed on top of that.
+        
+    Mythology Gag: In Brilliant Diamond and Shining Pearl, the pool of Pokémon the assistant draws their team from includes direct references to Pokémon the Series: Diamond and Pearl.
+        If the assistant doesn't have Infernape, then the first team of theirs you battle will have Magmortar, the Pokémon Lucas had when he got The Cameo in Pokémon: Giratina and the Sky Warrior.
+        
+        If Dawn is the assistant and she's training Empoleon, then her second team will have Togekiss, Lopunny, Typhlosion, and Mamoswine—all of which she trained (either in this or pre-evolved form) in the anime. If she has an Infernape (one of the most important Pokémon in the show during Dawn's tenure), her second team will have an Ambipom, another Pokémon she trained.
+        
+    Opposing Combat Philosophies: Dawn's and Lucas's new teams in BDSP have a lot of zigzag between them:
+        For the assistant's first postgame battle, Lucas prefers physical attacks to Dawn's special, so much so that Lucas uses Gallade where Dawn uses Froslass.
+        In the second battle, there are two tactics used by the assistants that one assistant will implement for versatility and the other for power—Dawn and Lucas zigzag on who is the more versatile and who is the stronger, however.
+        
+            For the Critical Hit Class Dark-type lead on the second Infernape team, Lucas's Absol has more versatility in its moveset while Dawn's Honchkrow only knows Dark-type moves—Honchkrow instead taunts foes into attacking and sucker punches them for it.
+            For the Switch-Out Move, Dawn uses U-turn, which can be used at any time, while Lucas gives Volt Switch to his Rotom, whose Choice Specs may make Volt Switch more powerful or may prevent it from using Volt Switch at all (Volt Switch is also useless against Ground-types).
+            
+        Dawn and Lucas are both willing to use Explosive Overclocking moves, but Dawn tends to use White Herbs to negate the cost and try again if it doesn't work, while Lucas use a Choice item, banking on the heightened stats to wipe the enemy out in a single blow.
+        The assistant's first Torterra team has Lucas tending to a slow-and-steady defensive game while Dawn dives into Attack! Attack! Attack!, which shows in their different movesets for Milotic and Torterra.
+        
+            On Lucas's team Milotic uses Calm Mind and Substitute alongside Torterra's Synthesis and Leech Seed—even their items are geared for defense, with Milotic using a Flame Orb to stimulate its Marvel Scale and Torterra munching on Leftovers.
+            
+            Dawn's Milotic wields a Life Orb to boost its Hydro Pump, Ice Beam, and Hyper Beam, and her Torterra is prepared to whale away at anything in front of it with Earthquake, Rock Slide, and Wood Hammer. Her Milotic has the Competitive ability, which will boost its Special Attack even further if you try to lower any of its stats.
+            
+        The assistant's second Torterra team has the same general strategy of using a Support Party Member to boost the team's Speed, but the implementation differs.
+            Lucas's team features a collection of Mighty Glaciers and sluggish Glass Cannons, and the lead uses Trick Room to guarantee most of the team priority.
+            
+            Dawn uses Tailwind instead, which doesn't give quite as much security to her Mighty Glaciers but provides them and the Lightning Bruisers intermixed into the team with double their Speed.
+            Dawn's Crobat also has U-turn, improving its ability to flee a disadvantage; Lucas's Dusknoir can't maneuver likewise, but instead protects itself by crippling the opponent with Will-O-Wisp.
+            
+        The assistant's second Infernape team both feature a Normal-type, but while Lucas uses a Porygon-Z with Adaptability and a Silk Scarf to boost its already overwhelming Special Attack, Dawn uses an Ambipom that boosts multi-hit moves with Technician and Life Orb. Like the Dusknoir and Crobat contrast above, Porygon-Z supports its main strategy by crippling the foe with Status Effects, while Dawn's Ambipom uses a Switch-Out Move to flee a bad match.
+        
+    Power at a Price:
+        Any of the assistant's Pokémon holding a Life Orb gets a boost in power at the cost of damage to the user—Dawn's Milotic, Mamoswine, Arcanine, or Ambipom use one, as do Lucas's Tauros, Espeon, and Gallade.
+        
+        Many of the assistant's Pokémon use Powerful, but Inaccurate moves—Fire Blast, Blizzard, Thunder, Hydro Pump, Focus Blast, and Power Whip are all known by different Pokémon in the pool the assistants draw from. (Because most of these are special moves, there are more examples among Dawn's Pokémon than Lucas's).
+        
+        Some Pokémon used by the assistant use powerful moves that lower the user's own stats, but these Pokémon carry a White Herb to negate the stat loss for a free extra hit at full power. A couple, specifically Dawn's Sceptile and Lucas's Infernape, are able to take double advantage of the White Herb—using a held item activate's Sceptile's hidden ability Unburden and doubles the power of Infernape's move Acrobatics. In the original version, the Infernape on the second team for both assistants notably used Overheat without a White Herb.
+        
+        A few Pokémon available to the assistant use Choice items that provide a major stat boost (in Attack, Special Attack, or Speed) but lock the user to one move out of their selection. Dawn gets around this limitation in one case by giving her Typhlosion only one move at all—Eruption which means a Pokémon with Flash Fire will shut him down. Lucas's Rotom variant will always have Choice Specs.
+    
+    Shed Armor, Gain Speed: Both Lucas and Dawn can implement this strategy, but in Lucas's case it works passively, while Dawn uses it more aggressively.
+        Lucas's Kabutops has Weak Armor for its ability—every time Kabutops gets hit with a physical move, it loses Defense and gains Speed.
+        Dawn's Blastoise and Gorebyss both use Shell Smash, which sacrifices the user's defenses in exchange for a boost in their Speed and offenses, and Gorebyss can even use Baton Pass to give the Status Buff to another teammate.
+        
+    Static Role, Exchangeable Character: Whichever playable character you don't choose will become Professor Rowan's assistant. The assistant performs all the same actions regardless of who's doing the job, but there are subtle differences in how Lucas and Dawn react to the events of the game.
+    
+    Status Effects: Many Pokémon used by the assistant have a move that may cause an incidental status effect, but there are several that make status part of their strategy outright:
+        Dawn's Froslass knows Hex to take advantage of any status effect the foe is suffering and has Thunderbolt and Will-O-Wisp to inflict them herself.
+        The Lopunny on Dawn's second Empoleon team knows both Thunder Wave and Sweet Kiss to frustrate the enemy's attempt to use movesnote .
+        
+        Several Pokémon on both teams use paralysis to give necessary priority to moves that cause flinching, including Lucas's Dunsparce and Porygon-Z on the one hand and Dawn's Togekiss on the other. Dunsparce and Togekiss both have Serene Grace to boost their chances of making the target flinch, and Dunsparce carries a King's Rock to take them even further.
+        Lucas's Milotic is automatically burned by its Flame Orb to activate its Marvel Scale ability, and its Scald attack may burn the opponent, in both ways forcing a physically-oriented enemy to deal Scratch Damage.
+        
+        Lucas's Flareon knows Will o' Wisp, which can mitigate its frail Defense by burning the opponent and crippling their Attack, if the move hits.
+    Strong Girl, Smart Guy: In Gen VIII. Dawn's post-game teams are more offensively oriented, with most if not all of her support moves and items geared towards boosting the Attack and Speed of her Pokémon; Lucas, on the other hand, has more tactical variety (and is the only one either to use a Deliberate Injury Gambit by wearing Status Effect items or to use Weather of War).
+    
+    Support Party Member: The assistant's second Torterra team leads with a Pokémon with a move meant to make the Mighty Glaciers into Lightning Bruisers.
+        The Dusknoir leading Lucas's team knows Trick Room, which reverses priority so the slowest goes first, which is not only useful for its own low Speed but almost everyone else on the team as well.
+        The Crobat leading Dawn's team supports it with Tailwind, which doubles the Speed of the user and its allies, which supports the others in much the same way but also reinforces the advantages of the already quick Arcanine and Mr. Mime.
+        
+    Switch-Out Move:
+        Dawn's Infernape, Ambipom, and Crobat all know U-Turn, which hits hard and switches the user out, which can bail the user out of an unfavorable matchup.
+        Lucas's Rotom will know Volt Switch in case it needs to do the same thing, but his version of the tactic is more of a gamble than Dawn's. While Rotom's Choice Specs will buff Volt Switch's damage, the item may already have locked Rotom out of using the move; worse, the move will fail outright against Ground-types and leave Rotom on the field in danger.
+        
+    Sword and Sorcerer:
+        The assistant's first post-game team in BDSP will have a Pokémon that evolves from the Dawn Stone. Lucas uses the hard-hitting Mage Killer Gallade while Dawn fields her Fragile Speedster Froslass to play with Status Infliction Attacks.
+        
+        Lucas gives Tangrowth and Empoleon physical moves, while Dawn gives them special moves; Empoleon will keep these different movesets even on the second team.
+        In version 1.0.0, the Infernape on Lucas's team knew Close Combat, while on Dawn's team it knew Focus Blast (this example is lost in version 1.1.0, where both assistants teach Infernape all physical moves).
+        
+    Tiny Girl, Huge Guy: The Grass-type options on the assistant's second Empoleon team are the diminutive Bellossom for Dawn and the large Cradily for Lucas.
+    Tiny Guy, Huge Girl: The Fire-type Pokémon on the assistant's second Torterra team are a male Flareon for Lucas and a female Arcanine for Dawn.
+    What Happened to the Mouse?: While Rowan's assistant uses a Kadabra during the main game, in BDSP it vanishes from their team by the post-game.

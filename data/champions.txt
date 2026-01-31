@@ -1,0 +1,331 @@
+Le scénario du jeu repose sur le périple d'un jeune dresseur qui a pour but de devenir Maître Pokémon. Mais avant cela, il devra montrer qu'il est digne d'en relever le défi en remportant des combats contre les huit Champions d'Arène de la région de Sinnoh. Après chaque victoire, vous recevrez un badge attestant votre performance.
+
+Arène n°1 : Charbourg
+
+    Champion Pierrick	Badge Charbon
+    Pokémon #498	
+    Objets utilisables	CT offerte
+    Objet potion Potion x2	Objet ct-roche Piège de Roc
+
+
+    Racaillou
+    Pokémon #74 DP
+    Type roche 3G Type sol 3G
+    Niveau 12	Type roche 3G	Piège de Roc
+    Type roche 3G	Jet-Pierres
+    Cap. spé.	Objet tenu
+    Tête de Roc	Aucun
+   
+    Onix
+    Pokémon #95 DP
+    Type roche 3G Type sol 3G
+    Niveau 12	Type roche 3G	Piège de Roc
+    Type roche 3G	Jet-Pierres
+    Type normal 3G	Grincement
+    Cap. spé.	Objet tenu
+    Tête de Roc	Aucun
+    
+    Kranidos
+    Pokémon #408 DP
+    Type roche 3G
+    Niveau 14	Type normal 3G	Coup d'Boule
+    Type tenebres 3G	Poursuite
+    Type normal 3G	Groz'Yeux
+    Cap. spé.	Objet tenu
+    Brise Moule	Aucun
+
+
+Arène n°2 : Vestigion
+
+    Champion Flo	Badge Forêt
+    Pokémon #499	
+    Objets utilisables	CT offerte
+    Objet super-potion Super Potion x2	Objet ct-plante Noeud Herbe
+
+
+    Ceribou
+    Pokémon #420 DP
+    Type plante 3G
+    Niveau 19	Type plante 3G	Noeud Herbe
+    Type plante 3G	Vampigraine
+    Type normal 3G	Croissance
+    Type normal 3G	Rune Protect
+    Cap. spé.	Objet tenu
+    Chlorophyle	Aucun
+    
+    Tortipouss
+    Pokémon #387 DP
+    Type plante 3G
+    Niveau 19	Type plante 3G	Noeud Herbe
+    Type plante 3G	Tranch'Herbe
+    Type eau 3G	Repli
+    Type psy 3G	Protection
+    Cap. spé.	Objet tenu
+    Engrais	Aucun
+    
+    Roserade
+    Pokémon #407 DP
+    Type plante 3G Type poison 3G
+    Niveau 22	Type plante 3G	Noeud Herbe
+    Type plante 3G	Feuillemagik
+    Type poison 3G	Dard-Venin
+    Type plante 3G	Para-Spore
+    Cap. spé.	Objet tenu
+    Médic Nature	Baie sitrus Baie Sitrus
+
+
+Arène n°3 : Voilaroc
+
+    Champion Mélina	Badge Pavé
+    Pokémon #500	
+    Objets utilisables	CT offerte
+    Objet hyper-potion Hyper Potion x2	Objet ct-combat Vampipoing
+
+
+    Méditikka
+    Pokémon #307 DP
+    Type combat 3G Type psy 3G
+    Niveau 27	Type combat 3G	Vampipoing
+    Type psy 3G	Choc Mental
+    Type psy 3G	Yoga
+    Type combat 3G	Détection
+    Cap. spé.	Objet tenu
+    Force Pure	Aucun
+    
+    Machopeur
+    Pokémon #67 DP
+    Type combat 3G
+    Niveau 27	Type combat 3G	Casse-Brique
+    Type roche 3G	Tomberoche
+    Type normal 3G	Groz'Yeux
+    Type normal 3G	Clairvoyance
+    Cap. spé.	Objet tenu
+    Cran	Aucun
+    
+    Lucario
+    Pokémon #448 DP
+    Type combat 3G Type acier 3G
+    Niveau 30	Type combat 3G	Vampipoing
+    Type combat 3G	Forte-Paume
+    Type acier 3G	Griffe Acier
+    Type sol 3G	Charge-Os
+    Cap. spé.	Objet tenu
+    Impassible	Baie sitrus Baie Sitrus
+
+
+Arène n°4 : Verchamps
+
+    Champion Lovis	Badge Palustre
+    Pokémon #501	
+    Objets utilisables	CT offerte
+    Objet super-potion Super Potion x2	Objet ct-eau Saumure
+
+
+    Léviator
+    Pokémon #130 DP
+    Type eau 3G Type vol 3G
+    Niveau 27	Type eau 3G	Saumure
+    Type dragon 3G	Draco-Rage
+    Type tenebres 3G	Morsure
+    Type normal 3G	Vantardise
+    Cap. spé.	Objet tenu
+    Intimidation	Aucun
+    
+    Maraiste
+    Pokémon #195 DP
+    Type eau 3G Type sol 3G
+    Niveau 27	Type sol 3G	Boue-Bombe
+    Type normal 3G	Souplesse
+    Type sol 3G	Lance-Boue
+    Type normal 3G	Mimi-Queue
+    Cap. spé.	Objet tenu
+    Moiteur	Aucun
+    
+    Mustéflott
+    Pokémon #419 DP
+    Type eau 3G
+    Niveau 30	Type eau 3G	Saumure
+    Type glace 3G	Crocs Givre
+    Type tenebres 3G	Poursuite
+    Type normal 3G	Météores
+    Cap. spé.	Objet tenu
+    Glissade	Baie sitrus Baie Sitrus
+
+
+Arène n°5 : Unionpolis
+
+    Champion Kiméra	Badge Fantôme
+    Pokémon #502	
+    Objets utilisables	CT offerte
+    Objet hyper-potion Hyper Potion x2	Objet ct-spectre Griffe Ombre
+
+
+    Grodrive
+    Pokémon #426 DP
+    Type spectre 3G Type vol 3G
+    Niveau 32	Type spectre 3G	Vent Mauvais
+    Type vol 3G	Tornade
+    Type spectre 3G	Étonnement
+    Type normal 3G	Lilliput
+    Cap. spé.	Objet tenu
+    Boom Final	Aucun
+    
+    Ectoplasma
+    Pokémon #94 DP
+    Type spectre 3G Type poison 3G
+    Niveau 34	Type spectre 3G	Griffe Ombre
+    Type poison 3G	Direct Toxik
+    Type spectre 3G	Dépit
+    Type spectre 3G	Onde Folie
+    Cap. spé.	Objet tenu
+    Lévitation	Aucun
+    
+    Magirêve
+    Pokémon #429 DP
+    Type spectre 3G
+    Niveau 36	Type spectre 3G	Ball'Ombre
+    Type psy 3G	Rafale Psy
+    Type plante 3G	Feuillemagik
+    Type spectre 3G	Onde Folie
+    Cap. spé.	Objet tenu
+    Lévitation	Baie sitrus Baie Sitrus
+
+
+Arène n°6 : Joliberges
+
+    Champion Charles	Badge Mine
+    Pokémon #503	
+    Objets utilisables	CT offerte
+    Objet hyper-potion Hyper Potion x1
+    Objet guerison Guérison x1	Objet ct-acier Luminocanon
+
+
+    Archéomire
+    Pokémon #436 DP
+    Type acier 3G Type psy 3G
+    Niveau 36	Type acier 3G	Luminocanon
+    Type psy 3G	Extrasenseur
+    Type spectre 3G	Onde Folie
+    Type psy 3G	Hypnose
+    Cap. spé.	Objet tenu
+    Lévitation	Aucun
+    
+    Steelix
+    Pokémon #208 DP
+    Type acier 3G Type sol 3G
+    Niveau 36	Type acier 3G	Gyroballe
+    Type glace 3G	Crocs Givre
+    Type dragon 3G	Dracosouffle
+    Type roche 3G	Tempêtesable
+    Cap. spé.	Objet tenu
+    Tête de Roc	Aucun
+    
+    Bastiodon
+    Pokémon #411 DP
+    Type roche 3G Type acier 3G
+    Niveau 39	Type acier 3G	Luminocanon
+    Type roche 3G	Pouv.Antique
+    Type acier 3G	Mur de Fer
+    Type psy 3G	Repos
+    Cap. spé.	Objet tenu
+    Fermeté	Baie maron Baie Maron
+
+
+Arène n°7 : Frimapic
+
+    Champion Gladys	Badge Glaçon
+    Pokémon #504	
+    Objets utilisables	CT offerte
+    Objet hyper-potion Hyper Potion x1
+    Objet guerison Guérison x1	Objet ct-glace Avalanche
+
+
+    Blizzi
+    Pokémon #459 DP
+    Type plante 3G Type glace 3G
+    Niveau 38	Type glace 3G	Avalanche
+    Type plante 3G	Tranch'Herbe
+    Type plante 3G	Racines
+    Type normal 3G	Groz'Yeux
+    Cap. spé.	Objet tenu
+    Alerte Neige	Aucun
+    
+    Farfuret
+    Pokémon #215 DP
+    Type tenebres 3G Type glace 3G
+    Niveau 38	Type glace 3G	Avalanche
+    Type normal 3G	Tranche
+    Type tenebres 3G	Feinte
+    Type tenebres 3G	Provoc
+    Cap. spé.	Objet tenu
+    Attention	Aucun
+    
+    Charmina
+    Pokémon #308 DP
+    Type combat 3G Type psy 3G
+    Niveau 40	Type glace 3G	Poinglace
+    Type combat 3G	Forte-Paume
+    Type combat 3G	Détection
+    Type combat 3G	Gonflette
+    Cap. spé.	Objet tenu
+    Force Pure	Aucun
+    
+    Blizzaroi
+    Pokémon #460 DP
+    Type plante 3G Type glace 3G
+    Niveau 42	Type glace 3G	Avalanche
+    Type plante 3G	Martobois
+    Type plante 3G	Siffl'Herbe
+    Type normal 3G	Vantardise
+    Cap. spé.	Objet tenu
+    Alerte Neige	Baie sitrus Baie Sitrus
+
+
+Arène n°8 : Rivamar
+
+    Champion Tanguy	Badge Phare
+    Pokémon #505	
+    Objets utilisables	CT offerte
+    Objet hyper-potion Hyper Potion x1
+    Objet guerison Guérison x1	Objet ct-electrik Rayon Chargé
+
+
+    Raichu
+    Pokémon #26 DP
+    Type electrik 3G
+    Niveau 46	Type electrik 3G	Rayon Chargé
+    Type combat 3G	Casse-Brique
+    Type electrik 3G	Cage-Éclair
+    Type psy 3G	Mur Lumière
+    Cap. spé.	Objet tenu
+    Statik	Aucun
+    
+    Capidextre
+    Pokémon #424 DP
+    Type normal 3G
+    Niveau 47	Type electrik 3G	Onde de Choc
+    Type psy 3G	Hâte
+    Type tenebres 3G	Machination
+    Type normal 3G	Relais
+    Cap. spé.	Objet tenu
+    Technicien	Aucun
+    
+    Octillery
+    Pokémon #224 DP
+    Type eau 3G
+    Niveau 47	Type electrik 3G	Rayon Chargé
+    Type eau 3G	Octazooka
+    Type glace 3G	Onde Boréale
+    Type plante 3G	Balle Graine
+    Cap. spé.	Objet tenu
+    Ventouse	Aucun
+    
+    Luxray
+    Pokémon #405 DP
+    Type electrik 3G
+    Niveau 49	Type electrik 3G	Rayon Chargé
+    Type electrik 3G	Crocs Éclair
+    Type tenebres 3G	Mâchouille
+    Type electrik 3G	Cage-Éclair
+    Cap. spé.	Objet tenu
+    Rivalité	Baie sitrus

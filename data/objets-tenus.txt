@@ -1,0 +1,149 @@
+Listes des objets
+Restes (Leftovers) - Restaure 6,25% des PV max du porteur à la fin de chaque tour.
+
+Masse Os (Thick Club) - Double la stat d'Attaque d'Ossatueur (ou d'Osselait).
+
+Bandeau Choix
+
+Bandeau Choix (Choice Band) - Augmente la stat d'Attaque du porteur de 50% mais l'empêche de changer de capacité jusqu'à ce qu'il soit switché.
+Herbe Mental
+
+Herbe Mental (Mental Herb) - Le Pokémon est soigné de l'effet d'Attraction. Usage unique. À partir de la 5G, soigne également des effets de Corps Maudit, Encore, Entrave, Provoc et Tourmente.
+Herbe Blanche
+
+Herbe Blanche (White Herb) - Restaure les statistiques du Pokémon à leur valeur d'origine lorsqu'elles subissent une baisse, que ce soit par le biais d'une capacité comme Exuviation ou par l'intermédiaire d'un talent adverse comme Intimidation. Usage unique.
+Rosée Âme
+
+Rosée Âme (Soul Dew) - Augmente l'Attaque Spéciale et la Défense Spéciale de Latios et Latias de 50%. À partir de la 7ème génération, booste uniquement les capacités de types Dragon et Psy de Latios et Latias de 20%.
+Bracelet Macho
+
+Brac. Macho (Macho Brace) - Divise par 2 la Vitesse du porteur.
+
+Les Baies font leur apparition en 3G. Néanmoins, une grande partie d'entre elles n'ont pas d'effet lorsqu'elles sont consommées en combat. Seules quelques unes présentent donc un intérêt stratégique (usage unique) :
+Baie Prine
+
+Baie Prine (Lum Berry) - Soigne n'importe quelle altération de statut.
+Baie Sailak
+
+Baie Sailak (Salac Berry) - Aumgente d'un cran la Vitesse du porteur lorsqu'il arrive à 1/4 de ses PV max ou moins.
+Baie Pitaye
+
+Baie Pitaye (Petaya Berry) - Augmente d'un cran l'Attaque Spéciale du porteur lorsqu'il arrive à 1/4 de ses PV max ou moins.
+Baie Lichii
+
+Baie Lichii (Liechi Berry) - Augmente d'un cran l'Attaque du porteur lorsqu'il arrive à 1/4 de ses PV max ou moins.
+Baie Sitrus
+
+Baie Sitrus (Sitrus Berry) - Restaure 30 PV au lanceur lorsqu'il arrive à la moitié de ses PV max ou moins. À partir de la 4ème génération, restaure 1/4 des PV max.
+Baie Maron
+
+Baie Maron (Chesto Berry) - Permet au porteur de se réveiller s'il est endormi (utilisée uniquement sur les Pokémon jouant la capacité Repos).
+Baie Mepo
+
+Baie Mepo (Leppa Berry) - Restaure 10 PP de la première capacité qui tombe à 0 PP.
+
+Les Baies suivantes restaurent 12,5% des PV du porteur lorsqu'il arrive à la moitié de ses PV max ou moins. Elles ne seront cependant utilisées en stratégie qu'en 7G puisqu'elles restaurent alors la moitié des PV max du porteur lorsqu'il arrive à 1/4 de ses PV max ou moins. À partir de la 8G, le porteur ne récupère plus que 1/3 de ses PV max :
+Baie Figuy
+
+Baie Figuy (Figy Berry) - Rend confus le porteur s'il a une nature négative en Attaque.
+Baie Wiki
+
+Baie Wiki (Wiki Berry) - Rend confus le porteur s'il a une nature négative en Attaque Spéciale.
+Baie Mago
+
+Baie Mago (Mago Berry) - Rend confus le porteur s'il a une nature négative en Vitesse.
+Baie Gowav
+
+Baie Gowav (Aquav Berry) - Rend confus le porteur s'il a une nature négative en Défense Spéciale.
+Baie Papaya
+
+Baie Papaya (Iapapa Berry) - Rend confus le porteur s'il a une nature négative en Défense.
+
+Ceinture Force
+
+Ceinture Force (Focus Sash) - Permet au porteur de tenir à 1 PV s'il dispose de tous ses PV avant de subir une attaque. Usage Unique. L'effet est identique à celui du talent Fermeté.
+Mouchoir Choix
+
+Mouchoir Choix (Choice Scarf) - Augmente la stat de Vitesse du porteur de 50% mais l'empêche de changer de capacité jusqu'à ce qu'il soit switché.
+Lunettes Choix
+
+Lunettes Choix (Choice Specs) - Augmente la stat d'Attaque Spéciale du porteur de 50% mais l'empêche de changer de capacité jusqu'à ce qu'il soit switché.
+Orbe Vie
+
+Orbe Vie (Life Orb) - Augmente la puissance des attaques du porteur de 30%, mais lui fait perdre 10% de ses PV max à chaque fois qu'une attaque atteint sa cible.
+Herbe Pouvoir
+
+Herbe Pouvoir (Power Herb) - Permet au porteur d'effectuer une capacité comprenant un tour de chargement (comme Lance-Soleil) sur un seul tour. Usage unique.
+Ceinture Pro
+
+Ceinture Pro (Expert Belt) - Les attaques super-efficaces voient leur puissance augmenter de 20%.
+Boue Noire
+
+Boue Noire (Black Sludge) - Restaure 6,25% des PV max du porteur à la fin de chaque tour s'il est de type Poison. Si le porteur n'est pas de type Poison, lui retire 12,5%.
+Orbe Toxique
+
+Orbe Toxique (Toxic Orb) - Inflige le statut empoisonnement grave à son porteur à la fin de son premier tour sur le terrain. Utilisée en conjonction avec avec les talents Soin Poison ou Cran.
+Orbe Flamme
+
+Orbe Flamme (Flame Orb) - Inflige le statut brûlure à son porteur à la fin de son premier tour sur le terrain. Utilisée en conjonction avec la capacité Façade ou le talent Cran.
+Lumargile
+
+Lumargile (Light Clay) - Fait passer la durée des capacités Mur Lumière et Protection de 5 à 8 tours si lancées par le porteur. Fonctionne également avec la capacité Voile Aurore à partir de la 7ème génération.
+Roche Lisse
+
+Roche Lisse (Smooth Rock) - Si le porteur utilise la capacité Tempête de Sable ou s'il possède le talent Sable Volant, la durée de la tempête de sable passe de 5 à 8 tours.
+Roche Humide
+
+Roche Humide (Damp Rock) - Si le porteur utilise la capacité Danse Pluie ou s'il possède le talent Crachin, la durée de la pluie passe de 5 à 8 tours.
+Roche Chaude
+
+Roche Chaude (Heat Rock) - Si le porteur utilise la capacité Zénith ou s'il possède le talent Sécheresse, la durée du soleil passe de 5 à 8 tours.
+Roche Glace
+
+Roche Glace (Icy Rock) - Si le porteur utilise la capacité Grêle ou s'il possède le talent Alerte Neige, la durée de la grêle passe de 5 à 8 tours.
+Métronome
+
+Métronome (Metronome) - Augmente la puissance de la capacité utilisée de 10% à chaque utilisation successive, 20% à partir de la 5G. La prise de boost ne peut dépasser 100% et est remise à 0 si la capacité échoue, par exemple si l'adversaire se protège (via Abri, Blockhaus etc.) ou s'il y est immunisé.
+Carapace Mue
+
+Carapace Mue (Shed Shell) - Permet au Pokémon d'être switché quoi qu'il arrive, même si une capacité (Vortex Magma, Siphon...) ou un talent (Piège, Magnépiège) est censé l'en empêcher.
+Piquants
+
+Piquants (Sticky Barb) - Fait perdre au porteur 1/8ème de ses PV max chaque tour. Si un Pokémon sans objet utilise une attaque de contact (même Sabotage) sur un porteur de Piquants, ces derniers lui sont tranférés.
+Balle Fer
+
+Balle Fer (Iron Ball) - Divise par 2 la Vitesse du porteur et le fait devenir sensible aux capacités de type Sol (perte du type Vol et du talent Lévitation + sensibilité aux Entry Hazards comme les Picots, les Pics Toxik et la Toile Gulante).
+Loupe
+
+Loupe (Wide Lens) - Augmente la précision des capacités du porteur de 10%.
+Baie Chérim
+
+Baie Chérim (Custap Berry) - Permet au porteur d'agir en priorité lorsqu'il arrive à 1/4 de ses PV max ou moins. Usage unique.
+
+De nouvelles Baies divisant par deux les dégâts super-efficaces de chaque type font leur apparition en 4G. Les plus utilisées en stratégie sont les suivantes (usage unique) :
+Baie Jouca
+
+Baie Jouca (Shuca Berry) - Divise par 2 les dégâts super-efficaces de type Sol.
+Baie Chocco
+
+Baie Chocco (Occa Berry) - Divise par 2 les dégâts super-efficaces de type Feu.
+Baie Lampou
+
+Baie Lampou (Colbur Berry) - Divise par 2 les dégâts super-efficaces de type Ténèbres.
+Baie Pomroz
+
+Baie Pomroz (Chople Berry) - Divise par 2 les dégâts super-efficaces de type Combat.
+Baie Pocpoc
+
+Baie Pocpoc (Passho Berry) - Divise par 2 les dégâts super-efficaces de type Eau.
+Baie Nanone
+
+Baie Nanone (Yache Berry) - Divise par 2 les dégâts super-efficaces de type Glace.
+Baie Parma
+
+Baie Parma (Wacan Berry) - Divise par 2 les dégâts super-efficaces de type Électrik.
+Baie Yapap
+
+Baie Yapap (Iapapa Berry) - Divise par 2 les dégâts super-efficaces de type Psy.
+
+Sont également apparues les Plaques (Plates). Il en existe une pour chaque type, à l'exception du type Normal. Elles augmentent la puissance des attaques du type correspondant de 20%.

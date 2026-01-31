@@ -1,0 +1,428 @@
+La Ligue Pokémon est le challenge ultime pour tout Dresseur qui souhaite obtenir le titre de Maître Pokémon.
+
+
+Vous ne pouvez y accéder qu'une fois les 8 badges de la région en votre possession.
+Vous devez affronter les membres du Conseil 4 à la suite, puis vaincre le Maître. Attention, si vous perdez un combat, vous devrez recommencer du début du défi !
+
+Conseil 4 Aaron
+	Aaron
+Objets
+Objet guerison Guérison x2
+
+    Papinox
+    Pokémon #269
+    Type insecte DEPS
+    Type poison DEPS
+    Niveau 53	Type poison DEPS
+    Toxik
+    Type insecte DEPS
+    Bourdon
+    Type fee DEPS
+    Rayon Lune
+    Type psy DEPS
+    Mur Lumière
+    Talent	Objet tenu
+    Écran Poudre	Objet boue-noire Boue Noire
+    
+    Charmillon
+    Pokémon #267
+    Type insecte DEPS
+    Type vol DEPS
+    Niveau 53	Type insecte DEPS
+    Bourdon
+    Type spectre DEPS
+    Ball'Ombre
+    Type psy DEPS
+    Psyko
+    Type insecte DEPS
+    Papillodanse
+    Talent	Objet tenu
+    Essaim	Objet lunettes-sages Lunettes Sages
+    
+    Apireine
+    Pokémon #416
+    Type insecte DEPS
+    Type vol DEPS
+    Niveau 54	Type vol DEPS
+    Acrobatie
+    Type insecte DEPS
+    Appel Attaque
+    Type vol DEPS
+    Aéropique
+    Type insecte DEPS
+    Appel Défense
+    Talent	Objet tenu
+    Tension	Baie sitrus Baie Sitrus
+    
+    Scarhino
+    Pokémon #214
+    Type insecte DEPS
+    Type combat DEPS
+    Niveau 54	Type sol DEPS
+    Séisme
+    Type roche DEPS
+    Éboulement
+    Type normal DEPS
+    Façade
+    Type combat DEPS
+    Casse-Brique
+    Talent	Objet tenu
+    Cran	Objet orbe-flamme Orbe Flamme
+    
+    Drascore
+    Pokémon #452
+    Type poison DEPS
+    Type tenebres DEPS
+    Niveau 57	Type poison DEPS
+    Poison Croix
+    Type tenebres DEPS
+    Tranche-Nuit
+    Type sol DEPS
+    Séisme
+    Type insecte DEPS
+    Plaie Croix
+    Talent	Objet tenu
+    Sniper	Objet lentilscope Lentilscope
+
+
+
+Conseil 4 Terry
+	Terry
+Objets
+Objet guerison Guérison x2
+
+    Maraiste
+    Pokémon #195
+    Type eau DEPS
+    Type sol DEPS
+    Niveau 55	Type normal DEPS
+    Soin
+    Type poison DEPS
+    Toxik
+    Type sol DEPS
+    Séisme
+    Type eau DEPS
+    Surf
+    Talent	Objet tenu
+    Absorbe-Eau	Objet restes Restes
+    
+    Simularbre
+    Pokémon #185
+    Type roche DEPS
+    -
+    Niveau 56	Type normal DEPS
+    Damoclès
+    Type roche DEPS
+    Fracass'Tête
+    Type tenebres DEPS
+    Coup Bas
+    Type combat DEPS
+    Balayage
+    Talent	Objet tenu
+    Tête de Roc	Baie sitrusBaie Sitrus
+    
+    Grolem
+    Pokémon #76
+    Type roche DEPS
+    Type sol DEPS
+    Niveau 56	Type roche DEPS
+    Poliroche
+    Type acier DEPS
+    Tacle Lourd
+    Type sol DEPS
+    Séisme
+    Type roche DEPS
+    Lame de roc
+    Talent	Objet tenu
+    Fermeté	Objet sable-doux Sable Doux
+    
+    Barbicha
+    Pokémon #340
+    Type eau DEPS
+    Type sol DEPS
+    Niveau 55	Type sol DEPS
+    Piétisol
+    Type glace DEPS
+    Laser Glace
+    Type poison DEPS
+    Éructation
+    Type eau DEPS
+    Hydrocanon
+    Talent	Objet tenu
+    Hydratation	Baie ratamBaie Ratam
+    
+    Hippodocus
+    Pokémon #450f
+    Type sol DEPS
+    -
+    Niveau 59	Type glace DEPS
+    Crocs Givre
+    Type sol DEPS
+    Séisme
+    Type tenebres DEPS
+    Mâchouille
+    Type psy DEPS
+    Repos
+    Talent	Objet tenu
+    Sable Volant	Baie maron Baie Maron
+
+
+
+Conseil 4 Adrien
+	Adrien
+Objets
+Objet guerison Guérison x2
+
+    Galopa
+    Pokémon #78
+    Type feu DEPS
+    -
+    Niveau 58	Type feu DEPS
+    Nitrocharge
+    Type acier DEPS
+    Queue de Fer
+    Type poison DEPS
+    Direct Toxik
+    Type psy DEPS
+    Hypnose
+    Talent	Objet tenu
+    Corps Ardent	Objet loupe Loupe
+    
+    Steelix
+    Pokémon #208
+    Type acier DEPS
+    Type sol DEPS
+    Niveau 57	Type electrik DEPS
+    Crocs Éclair
+    Type feu DEPS
+    Crocs Feu
+    Type acier DEPS
+    Queue de Fer
+    Type tenebres DEPS
+    Mâchouille
+    Talent	Objet tenu
+    Sans Limite	Objet Orbe Vie
+    
+    Grodrive
+    Pokémon #426
+    Type spectre DEPS
+    Type vol DEPS
+    Niveau 58	Type plante DEPS
+    Vole-Force
+    Type normal DEPS
+    Lilliput
+    Type normal DEPS
+    Relais
+    Type feu DEPS
+    Feu Follet
+    Talent	Objet tenu
+    Délestage	Baie sitrusBaie Sitrus
+    
+    Lockpin
+    Pokémon #428
+    Type normal DEPS
+    -
+    Niveau 57	Type psy DEPS
+    Voile Miroir
+    Type combat DEPS
+    Pied Voltige
+    Type normal DEPS
+    Vive-Attaque
+    Type feu DEPS
+    Poing Feu
+    Talent	Objet tenu
+    Joli Sourire	Objet restes Restes
+    
+    Simiabraz
+    Pokémon #392
+    Type feu DEPS
+    Type combat DEPS
+    Niveau 61	Type feu DEPS
+    Poing Feu
+    Type electrik DEPS
+    Poing Éclair
+    Type combat DEPS
+    Close Combat
+    Type combat DEPS
+    Mach Punch
+    Talent	Objet tenu
+    Poing de Fer	Objet ceinture-force Ceinture Force
+
+
+
+Conseil 4 Lucio
+	Lucio
+Objets
+Objet guerison Guérison x2
+
+    M. Mime
+    Pokémon #122
+    Type psy DEPS
+    Type fee DEPS
+    Niveau 59	Type psy DEPS
+    Mur Lumière
+    Type psy DEPS
+    Protection
+    Type psy DEPS
+    Psyko
+    Type fee DEPS
+    Éclat Magique
+    Talent	Objet tenu
+    Filtre	Objet lumargile Lumargile
+    
+    Girafarig
+    Pokémon #203
+    Type normal DEPS
+    Type psy DEPS
+    Niveau 59	Type psy DEPS
+    Mur Lumière
+    Type psy DEPS
+    Psyko
+    Type electrik DEPS
+    Tonnerre
+    Type psy DEPS
+    Distorsion
+    Talent	Objet tenu
+    Herbivore	Objet herbe-mental Herbe Mental
+    
+    Charmina
+    Pokémon #308
+    Type combat DEPS
+    Type psy DEPS
+    Niveau 60	Type psy DEPS
+    Psykoud'Boul
+    Type combat DEPS
+    Pied Voltige
+    Type electrik DEPS
+    Poing Éclair
+    Type glace DEPS
+    Poing Glace
+    Talent	Objet tenu
+    Force Pure	Objet bandeau-muscle Bandeau Muscle
+    
+    Alakazam
+    Pokémon #65
+    Type psy DEPS
+    -
+    Niveau 60	Type tenebres DEPS
+    Machination
+    Type psy DEPS
+    Psyko
+    Type psy DEPS
+    Prescience
+    Type electrik DEPS
+    Onde de Choc
+    Talent	Objet tenu
+    Garde Magik	Objet Orbe Vie
+    
+    Archéodong
+    Pokémon #437
+    Type acier DEPS
+    Type psy DEPS
+    Niveau 63	Type acier DEPS
+    Gyroballe
+    Type sol DEPS
+    Séisme
+    Type tenebres DEPS
+    Représailles
+    Type psy DEPS
+    Distorsion
+    Talent	Objet tenu
+    Lévitation	Baie sitrus Baie Sitrus
+
+
+
+Maître Cynthia
+	Cynthia
+Objets
+Objet guerison Guérison x4
+
+    Spiritomb
+    Pokémon #442
+    Type spectre DEPS
+    Type tenebres DEPS
+    Niveau 61	Type spectre DEPS
+    Ball'Ombre
+    Type tenebres DEPS
+    Vibrobscur
+    Type psy DEPS
+    Psyko
+    Type tenebres DEPS
+    Coup Bas
+    Talent	Objet tenu
+    Pression	Baie sitrus Baie Sitrus
+    
+    Roserade
+    Pokémon #407
+    Type plante DEPS
+    Type poison DEPS
+    Niveau 60	Type fee DEPS
+    Éclat Magique
+    Type spectre DEPS
+    Ball'Ombre
+    Type poison DEPS
+    Bombe Beurk
+    Type plante DEPS
+    Éco-Sphère
+    Talent	Objet tenu
+    Point Poison	Objet ceinture-pro Ceinture Pro
+    
+    Tritosor
+    Pokémon #423
+    Type eau DEPS
+    Type sol DEPS
+    Niveau 60	Type eau DEPS
+    Ébullition
+    Type sol DEPS
+    Séisme
+    Type poison DEPS
+    Bombe Beurk
+    Type roche DEPS
+    Tomberoche
+    Talent	Objet tenu
+    Lavabo	Objet restes Restes
+    
+    Lucario
+    Pokémon #448
+    Type combat DEPS
+    Type acier DEPS
+    Niveau 63	Type combat DEPS
+    Aurasphère
+    Type dragon DEPS
+    Draco-Choc
+    Type acier DEPS
+    Luminocanon
+    Type tenebres DEPS
+    Machination
+    Talent	Objet tenu
+    Attention	Objet lunettes-sages Lunettes Sages
+    
+    Milobellus
+    Pokémon #350
+    Type eau DEPS
+    -
+    Niveau 63	Type normal DEPS
+    Soin
+    Type psy DEPS
+    Voile Miroir
+    Type glace DEPS
+    Laser Glace
+    Type eau DEPS
+    Ébullition
+    Talent	Objet tenu
+    Écaille Spéciale	Objet orbe-flamme Orbe Flamme
+    
+    Carchacrok
+    Pokémon #445
+    Type dragon DEPS
+    Type sol DEPS
+    Niveau 66	Type dragon DEPS
+    Draco-Griffe
+    Type sol DEPS
+    Séisme
+    Type normal DEPS
+    Danse Lames
+    Type poison DEPS
+    Direct Toxik
+    Talent	Objet tenu
+    Peau Dure	Baie nanone Baie Nanone

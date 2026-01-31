@@ -1,0 +1,19 @@
+Type;Faiblesses (x2);Résistances (x0.5)
+Normal;Combat;Aucune (immunité Spectre)
+Feu;Eau, Sol, Roche;Feu, Plante, Glace, Insecte, Acier, Fée
+Eau;Plante, Électrik;Feu, Eau, Glace, Acier
+Électrik;Sol;Électrik, Vol, Acier
+Plante;Feu, Glace, Poison, Vol, Insecte;Eau, Électrik, Plante, Sol
+Glace;Feu, Combat, Roche, Acier;Glace
+Combat;Vol, Psy, Fée;Insecte, Roche, Ténèbres
+Poison;Sol, Psy;Plante, Combat, Poison, Insecte, Fée
+Sol;Eau, Plante, Glace;Poison, Roche (immunité Électrik)
+Vol;Électrik, Glace, Roche;Plante, Combat, Insecte (immunité Sol)
+Psy;Insecte, Spectre, Ténèbres;Combat, Psy
+Insecte;Feu, Vol, Roche;Plante, Combat, Sol
+Roche;Eau, Plante, Combat, Sol, Acier;Normal, Feu, Poison, Vol
+Spectre;Spectre, Ténèbres;Poison, Insecte (immunité Normal, Combat)
+Dragon;Glace, Dragon, Fée;Feu, Eau, Électrik, Plante
+Ténèbres;Combat, Insecte, Fée;Spectre, Ténèbres (immunité Psy)
+Acier;Feu, Combat, Sol;Normal, Plante, Glace, Vol, Psy, Insecte, Roche, Dragon, Acier, Fée (immunité Poison)
+Fée;Poison, Acier;Combat, Insecte, Ténèbres (immunité Dragon)

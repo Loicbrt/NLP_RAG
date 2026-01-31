@@ -1,0 +1,1266 @@
+Pokédex régional
+
+No.	Pokémon	Type(s)	Localisations
+No. 001 	-
+
+Tortipouss
+	- - 	
+
+- Pokémon de départ (Lac Vérité)
+
+- Grands Souterrains
+No. 002 	-
+
+Boskara
+	- - 	
+
+- Faire évoluer Tortipouss au niveau 18
+No. 003 	-
+
+Torterra
+	- - 	
+
+- Faire évoluer Boskara au niveau 32
+No. 004 	-
+
+Ouisticram
+	- - 	
+
+- Pokémon de départ (Lac Vérité)
+
+- Grands Souterrains
+No. 005 	-
+
+Chimpenfeu
+	- - 	
+
+- Faire évoluer Ouisticram au niveau 14
+No. 006 	-
+
+Simiabraz
+	- - 	
+
+- Faire évoluer Chimpenfeu au niveau 36
+No. 007 	-
+
+Tiplouf
+	- - 	
+
+- Pokémon de départ (Lac Vérité)
+
+- Grands Souterrains
+No. 008 	-
+
+Prinplouf
+	- - 	
+
+- Faire évoluer Tiplouf au niveau 16
+No. 009 	-
+
+Pingoléon
+	- - 	
+
+- Faire évoluer Prinplouf au niveau 36
+No. 010 	-
+
+Étourmi
+	- - 	
+
+- Route 201, Route 202, Route 203, Route 204, Route 209, Route 212
+
+- Grand Marais, Lac Vérité
+No. 011 	-
+
+Étourvol
+	- - 	
+
+- Route 209, Route 212
+
+- Grand Marais, Jardin Trophée, Lac Courage, Rive Lac Courage, Source des Adieux
+
+- Faire évoluer Étourmi au niveau 14
+No. 012 	-
+
+Étouraptor
+	- - 	
+
+- Faire évoluer Étourvol au niveau 34
+No. 013 	-
+
+Keunotor
+	- - 	
+
+- Route 201, Route 202, Route 203, Route 204, Route 205, Route 208, Route 211
+
+- Grand Marais, Lac Vérité, Parc Éolien
+
+- Grands Souterrains
+No. 014 	-
+
+Castorno
+	- - 	
+
+- Route 208, Route 209, Route 210, Route 212
+
+- Grand Marais, Lac Courage, Lac Savoir, Rive Lac Courage, Source des Adieux
+
+- Grands Souterrains
+
+- Faire évoluer Keunotor au niveau 15
+No. 015 	-
+
+Crikzik
+	- - 	
+
+- Route 202, Route 203, Route 204, Route 206, Route 207
+
+- Grands Souterrains
+No. 016 	-
+
+Mélokrik
+	- - 	
+
+- Route 206, Route 210, Route 212, Route 214, Route 215
+
+- Jardin Trophée, Rive Lac Courage
+
+- Faire évolier Crikzik au niveau 10
+No. 017 	-
+
+Lixy
+	- - 	
+
+- Route 202, Route 203, Route 204
+
+- Forge Fuego
+
+- Grands Souterrains
+No. 018 	-
+
+Luxio
+	- - 	
+
+- Forge Fuego
+
+- Grands Souterrains
+
+- Faire évoluer Lixy au niveau 15
+No. 019 	-
+
+Luxray
+	- - 	
+
+- Faire évoluer Luxio au niveau 30
+No. 020 	-
+
+Abra
+	- - 	
+
+- Route 203, Route 215
+
+- Charbourg (échange interne)
+
+No. 021 	-
+
+Kadabra
+	- - 	
+
+- Route 215
+
+- Route Victoire
+
+- Grands Souterrains
+
+- Faire évoluer Abra au niveau 16
+No. 022 	-
+
+Alakazam
+	- - 	
+
+- Faire évoluer Kadabra par échange
+No. 023 	-
+
+Magicarpe
+	- - 	
+
+- Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 213, Route 214, Route 218, Route 219, Chenal 220, Route 221, Route 222, Chenal 223, Route 224, Route 225, Chenal 226, Route 227, Route 228, Route 229, Chenal 230
+
+- Aire de Détente, Bonaugure, Chemin Rocheux, Célestia, Entrée Charbourg, Forge Fuego, Grand Marais, Joliberges, Lac Courage, Lac Savoir, Lac Vérité, Ligue Pokémon, Mont Couronné, Parc Éolien, Rivamar, Route Victoire, Source des Adieux, Verchamps, Vestigion, Île de Fer
+No. 024 	-
+
+Léviator
+	- - 	
+
+- Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 213, Route 214, Route 218, Route 219, Chenal 220, Route 221, Route 222, Chenal 223, Route 224, Route 225, Chenal 226, Route 227, Route 228, Route 229, Chenal 230
+
+- Aire de Détente, Bonaugure, Chemin Rocheux, Célestia, Entrée Charbourg, Forge Fuego, Grand Marais, Joliberges, Lac Courage, Lac Savoir, Lac Vérité, Ligue Pokémon, Mont Couronné, Parc Éolien, Rivamar, Route Victoire, Source des Adieux, Verchamps, Vestigion, Île de Fer
+
+- Faire évoluer Magicarpe au niveau 20
+No. 025 	-
+
+Rozbouton
+	- - 	
+
+- Route 204, Route 212
+
+- Forêt Vestigion, Grand Marais
+
+- Grands Souterrains
+
+- Faire un Œuf de Rosélia/Roserade tenant un Encens Fleur
+No. 026 	-
+
+Rosélia
+	- - 	
+
+- Route 212, Route 221, Route 224, Route 225, Route 229
+
+- Grand Marais, Jardin Trophée
+
+- Grands Souterrains
+
+- Faire évoluer Rozbouton par Bonheur de jour
+No. 027 	-
+
+Roserade
+	- - 	
+
+- Faire évoluer Rosélia avec une Pierre Éclat
+No. 028 	-
+
+Nosferapti
+	- - 	
+
+- Route 203, Route 204, Route 206, Route 207, Route 208, Route 209, Route 211, Route 216, Route 217
+
+- Chemin Rocheux, Entrée Charbourg, Grotte Revêche, Mine Charbourg, Mont Couronné, Rive Lac Savoir, Tour Perdue, Île de Fer
+
+- Grands Souterrains
+No. 029 	-
+
+Nosferalto
+	- - 	
+
+- Route 227
+
+- Chemin Rocheux, Entrée Charbourg, Grotte Retour, Mont Abrupt, Mont Couronné, Route Victoire, Temple Frimapic, Tour Perdue, Île de Fer
+
+- Grands Souterrains
+
+- Faire évoluer Nosferapti au niveau 22
+No. 030 	-
+
+Nostenfer
+	- - 	
+
+- Faire évoluer Nosferalto par Bonheur de jour
+No. 031 	-
+
+Racaillou
+	- - 	
+
+- Route 206, Route 207, Route 210, Route 211, Route 214, Route 215, Tunnel Ruinemaniac, Île de Fer
+
+- Chemin Rocheux, Entrée Charbourg, Grotte Revêche, Mine Charbourg, Mont Abrupt, Mont Couronné, Rive Lac Courage, Tunnel Ruinemaniac, Île de Fer
+
+- Grands Souterrains
+No. 032 	-
+
+Gravalanch
+	- - 	
+
+- Route 211, Route 214, Route 216, Route 227
+
+- Mont Abrupt, Mont Couronné, Rive Lac Courage, Route Victoire, Temple Frimapic, Île de Fer
+
+- Grands Souterrains
+
+- Faire évoluer Racaillou au niveau 25
+No. 033 	-
+
+Grolem
+	- - 	
+
+- Faire évoluer Gravalanch par échange
+No. 034 	-
+
+Onix
+	- - 	
+
+- Mine Charbourg, Mont Abrupt, Route Victoire, Temple Frimapic, Île de Fer
+
+- Grands Souterrains
+No. 035 	-
+
+Steelix
+	- - 	
+
+- Route Victoire, Temple Frimapic, Île de Fer
+
+- Faire évoluer Onix tenant une Peau Métal par échange
+No. 036 	-
+
+Kranidos
+	- - 	
+
+- Réanimer le Fossile Crâne à Charbourg (DE)
+No. 037 	-
+
+Charkos
+	- - 	
+
+- Faire évoluer Kranidos au niveau 30
+No. 038 	-
+
+Dinoclier
+	- - 	
+
+- Réanimer le Fossile Armure à Charbourg (PS)
+No. 039 	-
+
+Bastiodon
+	- - 	
+
+- Faire évoluer Dinoclier au niveau 30
+No. 040 	-
+
+Machoc
+	- - 	
+
+- Route 207, Route 208, Route 210
+
+- Mont Couronné
+
+- Grands Souterrains
+No. 041 	-
+
+Machopeur
+	- - 	
+
+- Route 210, Route 211, Route 216, Route 217, Route 225, Chenal 226
+
+- Mont Abrupt, Mont Couronné, Rive Lac Savoir, Route Victoire
+
+- Grands Souterrains
+
+- Faire évoluer Machoc au niveau 2
+No. 042 	-
+
+Mackogneur
+	- - 	
+
+- Faire évoluer Machopeur par échange
+No. 043 	-
+
+Psykokwak
+	- - 	
+
+- Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 214
+
+- Bonaugure, Chemin Rocheux, Célestia, Entrée Charbourg, Grand Marais, Lac Courage, Lac Savoir, Lac Vérité, Vestigion
+
+- Grands Souterrains
+No. 044 	-
+
+Akwakwak
+	- - 	
+
+- Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 214, Route 225, Chenal 226, Chenal 230
+
+- Aire de Détente, Bonaugure, Chemin Rocheux, Célestia, Entrée Charbourg, Grand Marais, Lac Courage, Lac Savoir, Lac Vérité, Source des Adieux, Vestigion
+
+- Faire évoluer Psykokwak au niveau 33
+No. 045 	-
+
+Cheniti
+	- - 	
+
+- Arbres à Miel
+No. 046 	-
+
+Cheniselle
+	- - 	
+
+- Faire évoluer un Cheniti femelle au niveau 20
+No. 047 	-
+
+Papilord
+	- - 	
+
+- Faire évoluer un Cheniti mâle au niveau 20
+No. 048 	-
+
+Chenipotte
+	- - 	
+
+- Forêt de Vestigion
+
+- Arbres à Miel
+
+- Grands Souterrains
+No. 049 	-
+
+Armulys
+	- - 	
+
+- Forêt de Vestigion (DE)
+
+- Arbres à Miel
+
+- Grands Souterrains (DE)
+
+- Faire évoluer un Chenipotte au niveau 7
+
+No. 050 	-
+
+Charmillon
+	- - 	
+
+- Route 224, Chenal 230 (DE)
+
+- Forêt de Vestigion (DE)
+
+- Faire évoluer Armulys au niveau 10
+No. 051 	-
+
+Blindalys
+	- - 	
+
+- Forêt de Vestigion (PS)
+
+- Arbres à Miel
+
+- Grands Souterrains (PS)
+
+- Faire évoluer un Chenipotte au niveau 7
+
+No. 052 	-
+
+Papinox
+	- - 	
+
+- Chenal 230 (PS)
+
+- Forêt de Vestigion (PS)
+
+- Faire évoluer Armulys au niveau 10
+No. 053 	-
+
+Apitrini
+	- - 	
+
+- Arbres à Miel
+
+- Grands Souterrains
+
+No. 054 	-
+
+Apireine
+	- - 	
+
+- Faire évoluer un Apitrini femelle au niveau 21
+No. 055 	-
+
+Pachirisu
+	- - 	
+
+- Route 205
+
+- Forge Fuego, Parc Éolien
+
+- Grands Souterrains
+No. 056 	-
+
+Mustébouée
+	- - 	
+
+- Route 205, Route 213, Route 224
+
+- Parc Éolien
+
+- Grands Souterrains
+
+No. 057 	-
+
+Mustéflott
+	- - 	
+
+- Route 213, Route 218, Route 221, Route 222, Route 224, Chenal 230
+
+- Forge Fuego, Route Victoire
+
+- Faire évoluer Mustébouée au niveau 26
+No. 058 	-
+
+Ceribou
+	- - 	
+
+- Arbres à Miel
+
+- Grands Souterrains
+No. 059 	-
+
+Ceriflor
+	- - 	
+
+- Faire évoluer Ceribou au niveau 25
+No. 060	-
+
+Sancoki
+	- - 	
+
+- Route 205, Route 218, Route 221
+
+- Forge Fuego, Parc Éolien
+
+- Grands Souterrains
+
+-
+
+Sancoki
+	- - 	
+
+- Route 213, Route 224
+No. 061	-
+
+Tritosor
+	- - 	
+
+- Route 218, Route 221
+
+- Forge Fuego
+
+- Grands Souterrains
+
+- Faire évoluer Sancoki au niveau 30
+-
+
+Tritosor
+	- - 	
+
+- Route 222, Route 224, Chenal 230
+
+- Faire évoluer Sancoki au niveau 30
+No. 062 	-
+
+Scarhino
+	- - 	
+
+- Arbre à Miel
+No. 063 	-
+
+Capumain
+	- - 	
+
+- Arbres à Miel
+
+- Grands Souterrain
+No. 064 	-
+
+Capidextre
+	- - 	
+
+- Faire évoluer Capumain connaissant l'attaque Coup Double par prise d'un niveau
+No. 065 	-
+
+Baudrive
+	- - 	
+
+- Parc Éolien (le vendredi)
+No. 066 	-
+
+Grodrive
+	- - 	
+
+- Faire évoluer Baudrive au niveau 28
+No. 067 	-
+
+Laporeille
+	- - 	
+
+- Forêt de Vestigion
+
+- Grands Souterrain
+No. 068 	-
+
+Lockpin
+	- - 	
+
+- Faire évoluer Laporeille par Bonheur
+No. 069 	-
+
+Fantominus
+	- - 	
+
+- Route 209
+
+- Tour Perdue, Vieux Château
+
+- Grands Souterrains
+No. 070 	-
+
+Spectrum
+	- - 	
+
+- Frimapic (échange interne), Grotte Retour
+
+- Faire évoluer Fantominus au niveau 25
+No. 071 	-
+
+Ectoplasma
+	- - 	
+
+- Faire évoluer Spectrum par échange
+No. 072 	-
+
+Feuforêve
+	- - 	
+
+- Forêt de Vestigion, Tour Perdue (PS)
+
+- Grands Souterrains (PS)
+
+No. 073 	-
+
+Magirêve
+	- - 	
+
+- Faire évoluer Feuforêve en utilisant une Pierre Nuit
+No. 074 	-
+
+Cornèbre
+	- - 	
+
+- Forêt de Vestigion, Tour Perdue (DE)
+
+- Grands Souterrains (DE)
+
+No. 075 	-
+
+Corboss
+	- - 	
+
+- Faire évoluer Cornèbre en utilisant une Pierre Nuit
+No. 076 	-
+
+Chaglam
+	- - 	
+
+- Route 218, Route 222 (PS)
+
+- Grands Souterrains (PS)
+No. 077 	-
+
+Chaffreux
+	- - 	
+
+- Route 222 (PS)
+
+- Grands Souterrains (PS)
+
+- Faire évoluer Chaglam au niveau 38
+
+No. 078 	-
+
+Poissirène
+	- - 	
+
+- Route 203, Route 204, Route 209, Route 212, Route 214
+
+- Aire de Détente, Bonaugure, Lac Courage, Lac Savoir, Lac Vérité, Source des Adieux
+No. 079 	-
+
+Poissoroy
+	- - 	
+
+- Route 203, Route 204, Route 209, Route 212, Route 214
+
+- Aire de Détente, Bonaugure, Lac Courage, Lac Savoir, Lac Vérité, Source des Adieux
+
+- Faire évoluer Poissirène au niveau 33
+No. 080 	-
+
+Barloche
+	- - 	
+
+- Route 205, Route 208, Route 210, Route 212, Route 227, Route 228
+
+- Chemin Rocheux, Célestia, Entrée Charbourg, Grand Marais, Mont Couronné, Vestigion
+
+- Grands Souterrains
+No. 081 	-
+
+Barbicha
+	- - 	
+
+- Route 205, Route 208, Route 210, Route 212, Route 227, Route 228
+
+- Chemin Rocheux, Célestia, Entrée Charbourg, Grand Marais, Mont Couronné, Vestigion
+
+- Grands Souterrains
+
+- Faire évoluer Barloche au niveau 30
+No. 082 	-
+
+Korillon
+	- - 	
+
+- Route 211
+
+- Lac Courage, Lac Savoir, Mont Couronné
+
+- Grands Souterrains
+
+- Faire un Œuf d'Éoko tenant un Encens Pur
+No. 083 	-
+
+Éoko
+	- - 	
+
+- Mont Couronné, Source des Adieux
+
+- Faire évoluer Korillon par Bonheur de nuit
+No. 084 	-
+
+Moufouette
+	- - 	
+
+- Route 206, Route 214, Route 221 (DE)
+
+- Grands Souterrains (DE)
+No. 085 	-
+
+Moufflair
+	- - 	
+
+- Route 221, Route 225 (DE)
+
+- Grands Souterrains (DE)
+
+- Faire évolluer Moufouette au niveau 34
+No. 086 	-
+
+Méditikka
+	- - 	
+
+- Route 208, Route 210, Route 211, Route 216, Route 217
+
+- Mont Couronné, Rive Lac Savoir
+
+- Grands Souterrains
+No. 087 	-
+
+Charmina
+	- - 	
+
+- Route 217
+
+- Mont Couronné, Rive Lac Savoir, Route Victoire
+
+- Faire évoluer Méditikka au niveau 37
+No. 088 	-
+
+Archéomire
+	- - 	
+
+- Route 206
+
+- Grotte Retour, Grotte Revêche, Mont Couronné
+
+- Grands Souterrains
+No. 089 	-
+
+Archéodong
+	- - 	
+
+- Grotte Retour, Mont Couronné
+
+- Faire évoluer Archéomire au niveau 33
+No. 090 	-
+
+Ponyta
+	- - 	
+
+- Route 206, Route 210, Route 211, Route 214, Route 215
+
+- Grands Souterrains
+No. 091 	-
+
+Galopa
+	- - 	
+
+- Faire évoluer Ponyta au niveau 40
+No. 092 	-
+
+Manzaï
+	- - 	
+
+- Route 209, Route 210 (DE)
+
+- Jardin Trophée
+No. 093 	-
+
+Simularbre
+	- - 	
+
+- Faire évoluer Manzaï connaissant l'attaque Copie par prise d'un niveau
+No. 094 	-
+
+Mime Jr.
+	- - 	
+
+- Route 209, Route 210 (PS)
+
+- Jardin Trophée
+No. 095 	-
+
+M. Mime
+	- - 	
+
+- Faire évoluer Mime Jr. connaissant l'attaque Copie par prise d'un niveau
+No. 096 	-
+
+Ptiravi
+	- - 	
+
+- Jardin Trophée, Unionpolis (Œuf reçu du Montagnard)
+
+- Faire un Œuf de Leveinard/Leuphorie tenant un Encens Veine
+No. 097 	-
+
+Leveinard
+	- - 	
+
+- Route 209, Route 210
+
+- Jardin Trophée
+
+- Faire évoluer Ptiravi tenant une Pierre Ovale par prise d'un niveau de jour
+No. 098 	-
+
+Leuphorie
+	- - 	
+
+- Faire évoluer Leveinard par Bonheur
+No. 099 	-
+
+Mélo
+	- - 	
+
+- Jardin Trophée, Mont Couronné
+
+- Faire un Œuf de Mélofée/Mélodelfe
+No. 100 	-
+
+Mélofée
+	- - 	
+
+- Jardin Trophée, Mont Couronné
+
+- Faire évoluer Mélo par Bonheur
+No. 101 	-
+
+Mélodelfe
+	- - 	
+
+- Faire évoluer Mélofée avec une Pierre Lune
+No. 102 	-
+
+Pijako
+	- - 	
+
+- Route 222, Route 224
+
+- Vestigion (échange interne)
+No. 103 	-
+
+Pichu
+	- - 	
+
+- Jardin Trophée
+
+- Faire un Œuf de Pikachu/Raichu
+No. 104 	-
+
+Pikachu
+	- - 	
+
+- Jardin Trophée
+
+- Faire évoluer Pichu par Bonheur
+No. 105 	-
+
+Raichu
+	- - 	
+
+- Faire évoluer Pikachu avec une Pierre Foudre
+No. 106 	-
+
+Hoothoot
+	- - 	
+
+- Route 210, Route 211
+
+- Grand Marais
+
+- Grands Souterrains
+No. 107 	-
+
+Noarfang
+	- - 	
+
+- Route 210, Route 211, Route 216, Route 217,
+
+- Grand Marais, Lac Courage, Lac Savoir, Mont Couronné, Rive Lac Savoir, Source des Adieux
+
+- Faire évoluer Hoothoot au niveau 20
+No. 108 	-
+
+Spiritomb
+	- - 	
+
+- Route 209
+No. 109 	-
+
+Griknot
+	- - 	
+
+- Grotte Revêche (entrée secrète)
+
+- Grands Souterrains
+No. 110 	-
+
+Carmache
+	- - 	
+
+- Grands Souterrains
+
+- Faire évoluer Griknot au niveau 24
+No. 111 	-
+
+Carchacrok
+	- - 	
+
+- Faire évoluer Carmache au niveau 48
+No. 112 	-
+
+Goinfrex
+	- - 	
+
+- Arbres à Miel
+
+- Grands Souterrains
+
+- Faire un Œuf de Ronflex tenant un Encens Plein
+No. 113 	-
+
+Ronflex
+	- - 	
+
+- Faire évoluer Goinfrex par Bonheur
+No. 114 	-
+
+Zarbi
+	- - 	
+
+- Ruines Bonville
+No. 115 	-
+
+Riolu
+	- - 	
+
+- Île de Fer (Œuf donné par Armand)
+
+- Faire un Œuf de Lucario
+No. 116 	-
+
+Lucario
+	- - 	
+
+- Faire évoluer Riolu par Bonheur de jour
+No. 117 	-
+
+Axoloto
+	- - 	
+
+- Route 212
+
+- Grand Marais
+
+- Grands Souterrains
+No. 118 	-
+
+Maraiste
+	- - 	
+
+- Route 212
+
+- Grand Marais
+
+- Grands Souterrains
+
+- Faire évoluer Axoloto au niveau 20
+No. 119 	-
+
+Goélise
+	- - 	
+
+- Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Route 229, Chenal 220,
+
+- Forge Fuego, Verchamps, Île de Fer, Joliberges, Parc Éolien
+
+- Grands Souterrains
+No. 120 	-
+
+Bekipan
+	- - 	
+
+- Route 205, Route 213, Route 218, Route 219, Chenal 220, Route 221, Route 222, Chenal 223, Route 224, Chenal 226, Route 229, Chenal 230
+
+- Forge Fuego, Joliberges, Ligue Pokémon, Parc Éolien, Rivamar, Verchamps, Île de Fer
+
+- Grands Souterrains
+
+- Faire évoluer Goélise au niveau 25
+
+No. 121 	-
+
+Girafarig
+	- - 	
+
+- Route 214
+
+- Rive Lac Courage
+
+- Grands Souterrains
+
+No. 122 	-
+
+Hippopotas
+	- - 	
+
+- Tunnel Ruinemaniac, Île de Fer
+
+- Grands Souterrains
+No. 123 	-
+
+Hippodocus
+	- - 	
+
+- Route 228
+
+- Faire évoluer Hippopotas au niveau 34
+No. 124 	-
+
+Azurill
+	- - 	
+
+- Grand Marais, Jardin Trophée
+
+- Faire un Œuf de Marill/Azumarill tenant un Encens Mer
+No. 125 	-
+
+Marill
+	- - 	
+
+- Grand Marais, Jardin Trophée
+
+- Faire évoluer Azurill par Bonheur
+No. 126 	-
+
+Azumarill
+	- - 	
+
+- Faire évoluer Marill au niveau 18
+No. 127 	-
+
+Rapion
+	- - 	
+
+- Grand Marais
+
+- Grands Souterrains
+No. 128 	-
+
+Drascore
+	- - 	
+
+- Grand Marais
+
+- Faire évoluer Rapion au niveau 40
+No. 129 	-
+
+Cradopaud
+	- - 	
+
+- Grand Marais
+
+- Grands Souterrains
+No. 130 	-
+
+Coatox
+	- - 	
+
+- Grand Marais
+
+- Faire évoluer Cradopaud au niveau 37
+No. 131 	-
+
+Vortente
+	- - 	
+
+- Grand Marais
+No. 132 	-
+
+Rémoraid
+	- - 	
+
+- Route 213, Route 222, Chenal 223, Route 224, Chenal 230
+
+- Ligue Pokémon, Rivamar, Verchamps
+No. 133 	-
+
+Octillery
+	- - 	
+
+- Route 213, Route 222, Chenal 223, Route 224, Chenal 230
+
+- Ligue Pokémon, Rivamar, Verchamps
+
+- Grands Souterrains
+
+- Faire évoluer Rémoraid au niveau 25
+No. 134 	-
+
+Écayon
+	- - 	
+
+- Route 205, Route 218, Route 219, Chenal 220, Route 221
+
+- Forge Fuego, Joliberges, Parc Éolien, Île de Fer
+No. 135 	-
+
+Luminéon
+	- - 	
+
+- Route 205, Route 218, Route 219, Chenal 220, Route 221
+
+- Forge Fuego, Joliberges, Parc Éolien, Île de Fer
+
+- Faire évoluer Écayon au niveau 31
+No. 136 	-
+
+Tentacool
+	- - 	
+
+- Route 205, Route 213, Route 218, Route 219, Chenal 220, Route 221, Route 222
+
+- Forge Fuego, Joliberges, Parc Éolien, Verchamps, Île de Fer
+
+- Grands Souterrains
+No. 137 	-
+
+Tentacruel
+	- - 	
+
+- Route 205, Route 213, Route 218, Route 219, Chenal 220, Route 221, Route 222, Chenal 223, Route 224, Chenal 226, Chenal 230
+
+- Forge Fuego, Joliberges, Ligue Pokémon, Parc Éolien, Rivamar, Verchamps, Île de Fer
+
+- Grands Souterrains
+
+- Faire évoluer Tentacool au niveau 30
+No. 138 	-
+
+Barpau
+	- - 	
+
+- Mont Couronné
+No. 139 	-
+
+Milobellus
+	- - 	
+
+- Faire évoluer Barpau tenant une Bel'Écaille par échange
+No. 140 	-
+
+Babimanta
+	- - 	
+
+- Chenal 223
+
+- Rivamar
+
+- Grands Souterrains
+
+- Faire un Œuf de Démanta tenant un Encens Vague
+No. 141 	-
+
+Démanta
+	- - 	
+
+- Faire évoluer Babimanta par prise d'un niveau avec Rémoraid dans l'équipe
+No. 142 	-
+
+Blizzi
+	- - 	
+
+- Route 216, Route 217
+
+- Mont Couronné, Rive Lac Savoir
+
+- Grands Souterrains
+No. 143 	-
+
+Blizzaroi
+	- - 	
+
+- Mont Couronné
+
+- Faire évoluer Blizzi au niveau 40
+No. 144 	-
+
+Farfuret
+	- - 	
+
+- Route 216, Route 217
+
+- Lac Savoir, Rive Lac Savoir, Temple Frimapic
+
+- Grands Souterrains
+No. 145 	-
+
+Dimoret
+	- - 	
+
+- Faire évoluer Farfuret tenant une Griffe Rasoir par prise de niveau durant la nuit
+No. 146 	-
+
+Créhelf
+	- - 	
+
+- Lac Savoir
+No. 147 	-
+
+Créfollet
+	- - 	
+
+- Lac Vérité
+No. 148 	-
+
+Créfadet
+	- - 	
+
+- Lac Courage
+No. 149 	-
+
+Dialga
+	- - 	
+
+- Colonnes Lances (DE)
+No. 150 	-
+
+Palkia
+	- - 	
+
+- Colonnes Lances (PS)

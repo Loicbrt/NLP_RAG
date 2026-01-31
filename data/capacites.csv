@@ -1,0 +1,468 @@
+Nom français;Nom anglais;Description;Type;PP;Puis.;Préc.;Classe;CT/CS Rubis Saphire Emeraude Rouge Feu et Vert Feuille;CT/CS Diamant Perle
+Abime;Fissure;Fait tomber l'ennemi dans une crevasse et le met K.O.;Sol;5;-;30;Phys.;-;-
+Abri;Protect;Esquive l'attaque, mais peut échouer si réutilisé.;Normal;10;-;100;Autre;CT 17;CT 17
+Acidarmure;Acid Armor;Augmente la Défense du lanceur de deux niveaux.;Poison;40;-;-;Autre;-;-
+Acide;Acid;Pulvérise un acide. Peut baisser la DEFENSE SPECIALE ennemie.;Poison;30;40;100;Spéc.;-;-
+Acupression;Acupressure;Augmente de 2 niveaux une statistique du lanceur au hasard.;Normal;30;-;-;Autre;-;-
+Adaptation;Conversion;Change le type du lanceur en celui d'une capacité.;Normal;30;-;-;Autre;-;-
+Aeroblast;Aeroblast;Implosion à taux de coups critiques élevé.;Vol;5;100;95;Spéc.;-;-
+Aeropique;Aerial Ace;Attaque extrêmement rapide et inévitable.;Vol;20;60;-;Phys.;CT 40;CT 40
+Affutage;Sharpen;Réduit les polygones et augmente l'ATTAQUE.;Normal;30;-;-;Autre;-;-
+Aile D'Acier;Steel Wing;Frappe l'ennemi en déployant ses ailes d'acier.;Acier;25;70;90;Phys.;CT 47;CT 47
+Air Veinard;Lucky Chant;L'adversaire ne peut pas faire de coup critique pendant 5 tours;Normal;30;-;-;Autre;-;-
+Amnesie;Amnesia;Augmente la défense spéciale de 2 niveaux.;Psy;20;-;-;Autre;-;-
+Ampleur;Magnitude;Un tremblement de terre d'intensité variable.;Sol;30;-;100;Phys.;-;-
+Anneau Hydro;Aqua Ring;Restaure 1/16ème des PV max à la fin de chaque tour.;Eau;20;-;-;Autre;-;-
+Anti-Brume;Defog;Diminue l'esquive de l'adversaire;Vol;15;-;-;Autre;-;CS 5
+Anti-Soin;Heal Block;L'adversaire ne peut pas restaurer ses PV pendant 5 tours;Psy;15;-;100;Autre;-;-
+Appel Attak;Attack Order;Haut taux de Coup Critique. (+1);Insecte;15;90;100;Phys.;-;-
+Appel Defens;Defend Order;Augmente la défense et la défense spéciale du lanceur.;Insecte;10;-;-;Autre;-;-
+Appel Soins;Heal Order;Restaure la moitié des PV Max.;Insecte;10;-;-;Autre;-;-
+Aqua-Jet;Aqua Jet;Attaque toujours en premier (prioritré +1);Eau;20;40;100;Phys.;-;-
+Armure;Harden;Contracte les muscles pour augmenter la Défense du lanceur d'un niveau.;Normal;30;-;-;Autre;-;-
+Aromatherapi;Aromatherapy;Parfum apaisant soignant les changements de statut.;Plante;5;-;-;Autre;-;-
+Assistance;Assist;Attaque au hasard avec un coup d'un des partenaires.;Normal;20;-;100;Autre;-;-
+Assurance;Assurance;La puissance double si l'adversaire a déjà reçu des dégâts pendant le tour;Ténèbres;10;50;100;Phys.;-;-
+Astuce Force;Power Trick;Echange l'attaque et la défense du lanceur;Psy;10;-;-;Autre;-;-
+Atout;Trump Card;La puissance augmente lorsque les PP diminuent;Normal;5;1;-;Spéc.;-;-
+Atterrissage;Roost;Restaure la moitié des PV;Vol;10;-;-;Autre;-;CT 51
+Attraction;Attract;Le genre opposé a moins de chances d'attaquer.;Normal;15;-;100;Autre;CT 45;CT 45
+Aurasphere;Aura Sphere;Ne peut pas échouer;Combat;20;90;-;Spéc.;-;-
+Aurore;Morning Sun;Restaure les PV. Varie suivant le temps.;Normal;5;-;-;Autre;-;-
+Avalanche;Avalanche;La puissance double si le lanceur reçoit des dégâts le premier;Glace;10;60;100;Phys.;-;CT 72
+Avale;Swallow;Absorbe la puissance accumulée et restaure les PV.;Normal;10;-;-;Autre;-;-
+Babil;Chatter;Rend confus l'adversaire;Vol;20;60;100;Spéc.;-;-
+Baillement;Yawn;Fait bâiller l'ennemi, qui s'endort au tour suivant.;Normal;10;-;100;Autre;-;-
+Balance;Pain Split;Ajoute les PV des deux combattants et les partage.;Normal;20;-;100;Autre;-;-
+Balayage;Low Kick;Un coup de pied faisant plus mal aux ennemis lourds.;Combat;30;-;100;Phys.;-;-
+Ball'Brume;Mist Ball;Envoie une rafale de duvet. Peut baisser ATQ. SPE.;Psy;5;70;100;Spéc.;-;-
+Ball'Glace;Ice Ball;Une attaque en 5 tours de plus en plus puissante.;Glace;20;30;90;Phys.;-;-
+Ball'Meteo;Weather Ball;Type et puissance de l'attaque selon le climat.;Normal;10;50;100;Spéc.;-;-
+Ball'Ombre;Shadow Ball;Projette une grand tache qui peut baisser la DEF. SPE.;Spectre;15;80;100;Spéc.;CT 30;CT 30
+Balle Graine;Bullet Seed;Mitraille l'ennemi avec 2 à 5 rafales à la suite.;Plante;30;10;100;Phys.;CT 09;CT 09
+Barrage;Block;Bloque la route de l'ennemi pour empêcher sa fuite.;Normal;5;-;100;Autre;-;-
+Baston;Beat Up;Appelle un POKéMON qui se joint à l'attaque.;Ténèbres;10;10;100;Phys.;-;-
+Bec Vrille;Drill Peck;Une attaque utilisant le bec comme une perceuse.;Vol;20;80;100;Phys.;-;-
+Belier;Take Down;Une charge violente qui blesse aussi le lanceur.;Normal;20;90;85;Phys.;-;-
+Berceuse;Sing;Berceuse plongeant l'ennemi dans un profond sommeil.;Normal;15;-;55;Autre;-;-
+Blabla Dodo;Sleep Talk;Utilise un coup au hasard en dormant.;Normal;10;-;-;Autre;-;CT 82
+Blizzard;Blizzard;Déclenche une tempête pouvant geler l'ennemi.;Glace;5;120;70;Spéc.;CT 14;CT 14
+Bluff;Fake Out;Une attaque en début de bataille pour apeurer.;Normal;10;40;100;Phys.;-;-
+Bomb'Oeuf;Egg Bomb;Envoie violemment un oeuf en direction de l'ennemi.;Normal;10;100;75;Phys.;-;-
+Bomb-Beurk;Sludge Bomb;Envoie des détritus pour blesser. Peut empoisonner.;Poison;10;90;100;Spéc.;CT 36;CT 36
+Bombaimant;Magnet Bomb;Ne peut pas échouer;Acier;20;60;-;Phys.;-;-
+Boost;Psych Up;Copie les effets de l'ennemi et les passe au lanceur.;Normal;10;-;-;Autre;-;CT 77
+Bouclier;Barrier;Crée une barrière pour augmenter la DEFENSE de deux niveaux.;Psy;30;-;-;Autre;-;-
+Boue-Bombe;Mud Bomb;Peut diminuer la précision de l'adversaire;Sol;10;65;85;Spéc.;-;-
+Boul'Armure;Defense Curl;S'enroule, cache ses points faibles. Monte la DEFENSE et double (une seule fois !) la puissance de l'attaque Roulade si le lanceur bénéfic [...];Normal;40;-;-;Autre;-;-
+Boule Roc;Rock Blast;Projette des rochers sur l'ennemi 2 à 5 fois de suite.;Roche;10;25;80;Phys.;-;-
+Bourdon;Bug Buzz;Peut diminuer la défense spéciale du Pokémon defenseur.;Insecte;10;90;100;Spéc.;-;-
+Boutefeu;Flare Blitz;Le lanceur subit des dégâts;Feu;15;120;100;Phys.;-;-
+Brouhaha;Uproar;Brouhaha de 2 à 5 tours. Empêche de dormir.;Normal;10;50;100;Spéc.;-;-
+Brouillard;Smokescreen;Baisse la précision ennemie utilisant fumée, encre, etc.;Normal;20;-;100;Autre;-;-
+Brume;Mist;Crée une brume stoppant la réduction des capacités.;Glace;30;-;-;Autre;-;-
+Buee Noire;Haze;Crée un nuage noir annulant tout changement de statistique;Glace;30;-;-;Autre;-;-
+Bulles D'O;Bubblebeam;Envoie des bulles pouvant baisser la VITESSE.;Eau;20;65;100;Spéc.;-;-
+Cadeau;Present;Cadeau en forme de bombe. Peut restaurer des PV.;Normal;15;0;90;Phys.;-;-
+Cage-Eclair;Thunder Wave;Un faible choc électrique qui paralyse l'ennemi.;Electrik;20;-;100;Autre;-;CT 73
+Camouflage;Camouflage;Change le type du POKéMON selon le lieu.;Normal;20;-;100;Autre;-;-
+Canicule;Heat Wave;Un souffle ardent ayant 10 % de chance de brûler l'ennemi.;Feu;10;100;90;Spéc.;-;-
+Canon Graine;Seed Bomb;Attaque normale;Plante;15;80;100;Phys.;-;-
+Carnareket;Doom Desire;Récupère la lumière pour frapper 2 tours plus tard.;Acier;5;120;85;Spéc.;-;-
+Cascade;Waterfall;Charge rapide permettant de franchir des cascades.;Eau;15;80;100;Phys.;CS 7;CS 7
+Casse-Brique;Brick Break;Détruit les barrières comme PROTECTION et blesse.;Combat;15;75;100;Phys.;CT 31;CT 31
+Cauchemar;Nightmare;Inflige 1/4 de dégâts à un ennemi endormi chaque tour.;Spectre;15;-;100;Autre;-;-
+Charge;Tackle;Charge l'ennemi avec un violent plaquage.;Normal;35;35;95;Phys.;-;-
+Charge-Os;Bone Rush;Frappe l'ennemi 2 à 5 fois avec un os.;Sol;10;25;80;Phys.;-;-
+Chargeur;Charge;Double la puissance de la prochaine attaque électrique utilisée.;Electrik;20;-;100;Autre;-;-
+Charme;Charm;Charme l'ennemi et baisse brusquement son ATTAQUE.;Normal;20;-;100;Autre;-;-
+Chatouille;Tickle;Fait rire l'ennemi et baisse son ATTAQUE et sa DEFENSE.;Normal;20;-;100;Autre;-;-
+Choc Mental;Confusion;Une attaque PSY pouvant rendre l'ennemi confus.;Psy;25;50;100;Spéc.;-;-
+Clairvoyance;Foresight;Empêche l'ennemi d'améliorer son esquive.;Normal;40;-;100;Autre;-;-
+Claquoir;Clamp;Piège l'ennemi et l'écrase pendant 2 à 5 tours.;Eau;10;35;75;Phys.;-;-
+Clonage;Substitute;Prends 1/4 de la vie max du lanceur pour créer un leurre.;Normal;10;-;-;Autre;-;CT 90
+Close Combat;Close Combat;Diminue la défense et la défense spéciale du lanceur;Combat;5;120;100;Phys.;-;-
+Cogne;Arm Thrust;Coups de poing qui frappent 2 à 5 fois dans le tour.;Combat;20;15;100;Phys.;-;-
+Cognobidon;Belly Drum;Sacrifie la moitié de ses PV pour maximiser l'ATTAQUE.;Normal;10;-;-;Autre;-;-
+Colere;Outrage;Une attaque furieuse sur 2 à 3 tours. Lanceur confus à la fin de l'attaque.;Dragon;15;120;100;Phys.;-;-
+Combo-Griffe;Fury Swipes;Ecorche l'ennemi avec des griffes de 2 à 5 fois.;Normal;15;18;80;Phys.;-;-
+Constriction;Constrict;Etrangle pour blesser. Peut baisser la VITESSE.;Normal;20;10;100;Phys.;-;-
+Contre;Reversal;Inflige plus de dégâts quand les PV sont faibles.;Combat;15;-;100;Phys.;-;-
+Conversion 2;Conversion 2;Permet de résister au type de la dernière attaque.;Normal;30;-;100;Autre;-;-
+Copie;Mimic;Imite une des attaques utilisées par l'ennemi.;Normal;10;-;100;Autre;-;-
+Corps Perdu;Vital Throw;L'attaque dure longtemps, mais n'échoue jamais.;Combat;10;70;100;Phys.;-;-
+Coud'Boue;Mud-Slap;Envoie de la boue au visage pour baisser la précision.;Sol;10;20;100;Spéc.;-;-
+Coud'Krane;Skull Bash;Rentre la tête et attaque au tour suivant.;Normal;15;100;100;Phys.;-;-
+Coup Bas;Sucker Punch;Attaque toujours en premier mais échoue si la cible n'utilise pas d'attaque offensive;Ténèbres;5;80;100;Phys.;-;-
+Coup D'Boule;Headbutt;Une charge qui peut apeurer l'ennemi.;Normal;15;70;100;Phys.;-;-
+Coup d'jus;Discharge;30 % de chance de paralyser;Electrik;15;80;100;Spéc.;-;-
+Coup D'Main;Helping Hand;Améliore la puissance d'attaque du receveur.;Normal;20;-;100;Autre;-;-
+Coup Double;Double Hit;Attaque deux fois en un seul tour.;Normal;10;35;90;Phys.;-;-
+Coup-Croix;Cross Chop;2 attaques tranchantes. Taux de Coups Critiques élevé (+1).;Combat;5;100;80;Phys.;-;-
+Coupe;Cut;Coupe l'ennemi avec des lames, des griffes, etc.;Normal;30;50;95;Phys.;CS 1;CS 1
+Coupe Psycho;Psycho Cut;Haut taux de coups critiques (+1);Psy;20;70;100;Phys.;-;-
+Coupe-Vent;Razor Wind;Une attaque en 2 tours qui frappe au 2e tour. Haut taux de Coups Critiques (+1).;Normal;10;80;100;Spéc.;-;-
+Croc De Mort;Hyper Fang;Blesse d'un coup de croc. Peut apeurer l'ennemi.;Normal;15;80;90;Phys.;-;-
+Croc Fatal;Super Fang;Coup de croc qui fait baisser les PV de moitié.;Normal;10;-;90;Phys.;-;-
+Crochetvenin;Poison Fang;Morsure pouvant sérieusement empoisonner l'ennemi.;Poison;15;50;100;Phys.;-;-
+Croco Larme;Fake Tears;Fait semblant de pleurer pour baisser la DEF. SPE.;Ténèbres;20;-;100;Autre;-;-
+Crocs Eclair;Thunder Fang;Peut paralyser et apeurer l'adversaire;Electrik;15;65;95;Phys.;-;-
+Crocs Feu;Fire Fang;Peut brûler et apeurer l'adversaire;Feu;15;65;95;Phys.;-;-
+Crocs Givre;Ice Fang;Peut geler et apeurer l'adversaire;Glace;15;65;95;Phys.;-;-
+Croissance;Growth;Augmente l'Attaque Spéciale du lanceur d'un niveau.;Normal;40;-;-;Autre;-;-
+Cru-Aile;Wing Attack;Frappe l'ennemi en déployant les ailes.;Vol;35;60;100;Phys.;-;-
+Cyclone;Whirlwind;Envoie une rafale de vent et met fin au combat.;Normal;20;-;100;Autre;-;-
+Damocles;Double-Edge;Une dangereuse charge qui blesse aussi le lanceur.;Normal;15;120;100;Phys.;-;-
+Danse Draco;Dragon Dance;Danse mystique augmentant l'ATTAQUE et la VITESSE.;Dragon;20;-;-;Autre;-;-
+Danse Pluie;Rain Dance;Améliore les attaques EAU pendant 5 tours. Pendant que Danse Pluie agit, la précision de Fatal-Foudre monte à 100%.;Eau;5;-;-;Autre;CT 18;CT 18
+Danse-Fleur;Petal Dance;Une attaque furieuse de 2 à 3 tours. Lanceur confus.;Plante;20;90;100;Spéc.;-;-
+Danse-Folle;Teeter Dance;Rend tous les POKéMON engagés confus.;Normal;20;-;100;Autre;-;-
+Danse-Lames;Swords Dance;Une danse de combat qui booste l'ATTAQUE de deux niveaux.;Normal;30;-;-;Autre;-;CT 75
+Danse-Lune;Lunar Dance;Le lanceur tombe KO et le pokémon qui le remplace est totalement soigné (statut, PV et PP);Psy;10;-;-;Autre;-;-
+Danse-Plume;Featherdance;Enveloppe l'ennemi de duvet et baisse l'Attaque de l'adversaire de deux niveaux.;Vol;15;-;100;Autre;-;-
+Danseflamme;Fire Spin;Encercle l'ennemi de flammes pendant 2 à 5 tours.;Feu;15;15;70;Spéc.;-;-
+Dard-Nuee;Pin Missile;Envoie des dards qui frappent 2 à 5 fois.;Insecte;20;14;85;Phys.;-;-
+Dard-Venin;Poison Sting;Une attaque de dards, etc., pouvant empoisonner.;Poison;35;15;100;Phys.;-;-
+Deflagration;Fire Blast;Une explosion qui carbonise tout. Peut brûler l'ennemi.;Feu;5;120;85;Spéc.;CT 38;CT 38
+Degommage;Fling;La puissance dépend de l'objet tenu;Ténèbres;10;1;100;Phys.;-;CT 56
+Demi-Tour;U-turn;Le lanceur change de pokémon automatiquement après l'attaque;Insecte;20;70;100;Phys.;-;CT 89
+Depit;Spite;Réduit méchamment les PP de la dernière att. ennemie.;Spectre;10;-;100;Autre;-;-
+Dernierecour;Last Resort;Ne peut être utilisée que si toutes les autres attaques ont été utilisées.;Normal;5;130;100;Phys.;-;-
+Destruction;Selfdestruct;Inflige de sérieux dégâts, mais met le lanceur K.O. La défense du Pokémon défenseur n'est prise en compte qu'à moitié.;Normal;5;200;100;Phys.;-;-
+Detection;Detect;Esquive l'attaque, mais peut échouer si réutilisé.;Combat;5;-;-;Autre;-;-
+Detricanon;Gunk Shot;Possède 30% de chance d'empoisonner l'adversaire.;Poison;5;120;70;Phys.;-;-
+Detritus;Sludge;Blesse en envoyant des détritus. Peut empoisonner.;Poison;20;65;100;Spéc.;-;-
+Devoreve;Dream Eater;Aspire la moitié des dégâts infligés à l'ennemi endormi.;Psy;15;100;100;Spéc.;-;CT 85
+Direct Toxik;Poison Jab;Peut empoisonner l'adversaire;Poison;20;80;100;Phys.;-;CT 84
+Distorsion;Trick Room;Le pokémon le plus lent attaque en premier pendant 5 tours;Psy;5;-;-;Autre;-;CT 92
+Don naturel;Natural Gift;La puissance et le type dépend de la baie tenue;Normal;15;1;100;Phys.;-;CT 83
+Double Pied;Double Kick;Attaque deux fois en un seul tour.;Combat;30;30;100;Phys.;-;-
+Double-Dard;Twineedle;Les dards des pattes avant frappent deux fois.;Insecte;20;25;100;Phys.;-;-
+Doux Baiser;Sweet Kiss;Demande un bisou grimaçant. Rend l'adversaire confus.;Normal;10;-;75;Autre;-;-
+Doux Parfum;Sweet Scent;Séduit l'ennemi pour baisser son esquive.;Normal;20;-;100;Autre;-;-
+Draco Meteor;Draco Meteor;Diminue beaucoup l'attaque spéciale du lanceur;Dragon;5;140;90;Spéc.;-;-
+Draco-Rage;Dragon Rage;Envoie des ondes de choc infligeant 40 PV de dégâts.;Dragon;10;-;100;Spéc.;-;-
+Dracocharge;Dragon Rush;Peut apeurer l'adversaire;Dragon;10;100;75;Phys.;-;-
+Dracochoc;Dragon Pulse;Attaque normale;Dragon;10;90;100;Spéc.;-;CT 59
+Dracogriffe;Dragon Claw;Tranche l'ennemi avec des griffes acérées.;Dragon;15;80;100;Phys.;CT 02;CT 02
+Dracosouffle;Dragonbreath;Frappe l'ennemi grâce à un souffle super puissant.;Dragon;20;60;100;Spéc.;-;-
+Dynamopoing;Dynamicpunch;Puissant et rend confus, mais pas très précis.;Combat;5;100;50;Phys.;-;-
+E-Coque;Softboiled;Regagne jusqu'à la moitié des PV max du lanceur.;Normal;10;-;100;Autre;-;-
+Eboulement;Rock Slide;Envoie de gros rochers. Peut apeurer l'ennemi.;Roche;10;75;90;Phys.;-;CT 80
+Ebullilave;Lava Plume;30 % de chance de brûler le Pokémon défenseur.;Feu;15;80;100;Spéc.;-;-
+Echange;Skill Swap;Le lanceur et la cible échangent leurs cap. spéc.;Psy;10;-;100;Autre;CT 48;CT 48
+Echange Psy;Psycho Shift;Donne le statut du lanceur à l'adversaire;Psy;10;-;90;Autre;-;-
+Eclair;Thundershock;Une attaque électrique pouvant paralyser l'ennemi.;Electrik;30;40;100;Spéc.;-;-
+Eclate-Roc;Rock Smash;50 % de chance de baisser la DEFENSE adverse d'un niveau.;Combat;15;40;100;Phys.;CS 6;CS 6
+Eclategriffe;Crush Claw;Lacère avec des griffes. Peut baisser la DEFENSE.;Normal;10;75;95;Phys.;-;-
+Eclats Glace;Ice Shard;Attaque en premier dans le tour (priorité +1).;Glace;30;40;100;Phys.;-;-
+Eco-Sphere;Energy Ball;Peut diminuer la défense spéciale de l'adversaire;Plante;10;80;100;Spéc.;-;CT 53
+Ecras'Face;Pound;Ecrase l'ennemi avec les pattes avant ou la queue.;Normal;35;40;100;Phys.;-;-
+Ecrasement;Stomp;Ecrase avec un énorme pied. Peut apeurer l'ennemi.;Normal;20;65;100;Phys.;-;-
+Ecume;Bubble;Une attaque de bulles pouvant baisser la VITESSE.;Eau;30;20;100;Spéc.;-;-
+Effort;Endeavor;Gagne en puissance si PV inférieurs aux PV ennemis.;Normal;5;-;100;Phys.;-;-
+Elecanon;Zap Cannon;Puissant et paralysant, mais pas très précis.;Electrik;5;120;50;Spéc.;-;-
+Electacle;Volt Tackle;Une dangereuse charge qui blesse aussi le lanceur.;Electrik;15;120;100;Phys.;-;-
+Embargo;Embargo;L'adversaire ne peut plus utiliser l'objet porté;Ténèbres;15;-;100;Autre;-;CT 63
+Empal'Korne;Horn Drill;Empale l'ennemi d'un coup de corne. Met K.O. en un coup.;Normal;5;-;30;Phys.;-;-
+Encore;Encore;Oblige l'ennemi à répéter sa dernière action 4 à 8 tours.;Normal;5;-;100;Autre;-;-
+Entrave;Disable;Neutralise la dernière attaque lancée par la cible de 4 à 7 tours. Une seule attaque peut-être neutralisée par Pokémon.;Normal;20;0;80;Autre;-;-
+Eruption;Eruption;Inflige plus de dégâts si PV du lanceur sont élevés.;Feu;5;150;100;Spéc.;-;-
+Escalade;Rock Climb;Peut rendre confus;Normal;20;90;85;Phys.;-;CS 8
+Essorage;Wring Out;La puissance dépend des PV restants de l'adversaire;Normal;5;1;100;Spéc.;-;-
+Etincelle;Spark;Une charge électrique qui peut paralyser l'ennemi.;Electrik;20;65;100;Phys.;-;-
+Etonnement;Astonish;Une attaque qui peut choquer et apeurer l'ennemi.;Spectre;15;30;100;Phys.;-;-
+Etreinte;Bind;Ligote l'ennemi et l'écrase pendant 2 à 5 tours.;Normal;35;15;75;Phys.;-;-
+Exploforce;Focus Blast;Peut diminuer la défense spéciale de l'adversaire;Combat;5;120;70;Spéc.;-;CT 52
+Explosion;Explosion;Inflige de sérieux dégâts, mais met le lanceur K.O. La défense du Pokémon défenseur n'est prise en compte qu'à moitié.;Normal;5;250;100;Phys.;-;CT 64
+Extrasenseur;Extrasensory;Pouvoir singulier qui peut apeurer l'ennemi.;Psy;30;80;100;Spéc.;-;-
+Facade;Facade;Améliore l'ATTAQUE si brûlé, paralysé ou empoisonné.;Normal;20;70;100;Phys.;CT 42;CT 42
+Fatal-Foudre;Thunder;Une attaque foudroyante pouvant paralyser l'ennemi.;Electrik;10;120;70;Spéc.;CT 25;CT 25
+Faux-Chage;False Swipe;Une attaque qui laisse au moins 1 PV à l'ennemi.;Normal;40;40;100;Phys.;-;CT 54
+Feinte;Faint Attack;Attire l'ennemi et frappe sans jamais échouer.;Ténèbres;20;60;-;Phys.;-;-
+Feu Follet;Will-O-Wisp;Inflige une douloureuse brûlure à l'ennemi.;Feu;15;-;75;Autre;-;CT 61
+Feu Sacre;Sacred Fire;Une attaque de feu mystique avec 50% de chance de brûler.;Feu;5;100;95;Phys.;-;-
+Feuillemagik;Magical Leaf;Envoie des feuilles ne pouvant être esquivées.;Plante;20;60;-;Spéc.;-;-
+Flair;Odor Sleuth;Empêche l'ennemi d'augmenter son esquive.;Normal;40;-;100;Autre;-;-
+Flammeche;Ember;Une faible attaque de feu pouvant brûler l'ennemi.;Feu;25;40;100;Spéc.;-;-
+Flash;Flash;Explosion lumineuse qui fait baisser la précision.;Normal;20;-;100;Autre;CS 5;CT 70
+Flatterie;Flatter;Rend l'ennemi confus, mais augmente son Attaque Spéciale d'un niveau.;Ténèbres;15;-;100;Autre;-;-
+Fleau;Flail;Inflige plus de dégâts quand les PV sont faibles.;Normal;15;-;100;Phys.;-;-
+Force;Strength;Accumule de la puissance puis frappe l'ennemi.;Normal;15;80;100;Phys.;CS 4;CS 4
+Force Cachee;Secret Power;Les effets de l'attaque dépendent du lieu.;Normal;20;70;100;Phys.;CT 43;CT 43
+Force Cosmik;Cosmic Power;Pouvoir mystique qui monte la DEFENSE et la DEF. SPE.;Psy;20;-;-;Autre;-;-
+Force Poigne;Vicegrip;Empoigne l'ennemi avec de puissantes pinces.;Normal;30;55;100;Phys.;-;-
+Force-Nature;Nature Power;Le type de l'attaque change selon le lieu du combat.;Normal;20;-;95;Autre;-;-
+Forte-Paume;Force Palm;Possède 30% de chance de paralyser l'adversaire.;Combat;10;60;100;Phys.;-;-
+Fouet Lianes;Vine Whip;Fouette l'ennemi avec de fines lianes.;Plante;10;35;100;Phys.;-;-
+Fracass'Tete;Head Smash;Le lanceur subit des dégâts;Roche;5;150;80;Phys.;-;-
+Frappe Atlas;Seismic Toss;Inflige des dégâts selon le niveau du lanceur.;Combat;20;-;100;Phys.;-;-
+Frenesie;Rage;Augmente l'Attaque du lanceur d'un niveau à chaque coup reçu.;Normal;20;20;100;Phys.;-;-
+Frustration;Frustration;Attaque plus puissante si le DRESSEUR est mal aimé.;Normal;20;-;100;Phys.;CT 21;CT 21
+Fulmifer;Metal Burst;Inflige 150% des dégâts causés par l'adversaire.;Acier;10;1;100;Phys.;-;-
+Fulmigraine;Seed Flare;Diminue la défense spéciale de l'adversaire;Plante;5;120;85;Spéc.;-;-
+Furie;Fury Attack;Frappe l'ennemi 2 à 5 fois avec des cornes, etc.;Normal;20;15;85;Phys.;-;-
+Gaz Toxik;Poison Gas;Enveloppe l'ennemi d'un gaz toxique. Empoisonne l'adversaire.;Poison;40;-;55;Autre;-;-
+Gicledo;Water Spout;Inflige plus de dégâts si le lanceur a beaucoup de PV.;Eau;5;150;100;Spéc.;-;-
+Giga Impact;Giga Impact;Le lanceur ne peut pas attaquer au tour suivant;Normal;5;150;90;Phys.;-;CT 68
+Giga-Sangsue;Giga Drain;Une attaque qui absorbe la moitié des dégâts infligés.;Plante;10;60;100;Spéc.;CT 19;CT 19
+Glaciation;Sheer Cold;Attaque glacée qui met K.O. quand elle est réussie.;Glace;5;-;30;Spéc.;-;-
+Glas De Soin;Heal Bell;Carillon apaisant qui soigne tout changement de statut de l'équipe.;Normal;5;-;-;Autre;-;-
+Gonflette;Bulk Up;Se gonfle pour booster l'ATTAQUE et la DEFENSE.;Combat;20;-;-;Autre;CT 08;CT 08
+Gravite;Gravity;Durant les 5 prochains tours : - Les Pokémon de type Vol ou disposant de la capacité Lévitation deviennent vulnérables aux attaques de [...];Psy;5;-;-;Autre;-;-
+Grele;Hail;Tempête de grêle qui frappe à chaque tour.;Glace;10;-;-;Autre;CT 07;CT 07
+Gribouille;Sketch;Copie en permanence la dernière attaque ennemie.;Normal;1;-;-;Autre;-;-
+Griffe;Scratch;Lacère l'ennemi avec des griffes acérées.;Normal;35;40;100;Phys.;-;-
+Griffe Acier;Metal Claw;Attaque avec des griffes. Peut augmenter l'ATTAQUE.;Acier;35;50;95;Phys.;-;-
+Griffe Ombre;Shadow Claw;Haut taux de coups critiques;Spectre;15;70;100;Phys.;-;CT 65
+Grimace;Scary Face;Effraye avec une grimace pour baisser la VITESSE.;Normal;10;-;90;Autre;-;-
+Grincement;Screech;Cri strident qui baisse la DEFENSE ennemie.;Normal;40;-;85;Autre;-;-
+Grobisou;Lovely Kiss;Demande un bisou tout mignon. Endort l'adversaire.;Normal;10;-;75;Autre;-;-
+Grondement;Howl;Grogne pour se rassurer et booster l'Attaque d'un niveau.;Normal;40;-;-;Autre;-;-
+Groz'Yeux;Leer;Lance un regard noir et baisse d'un niveau la Défense de l'adversaire.;Normal;30;-;100;Autre;-;-
+Guillotine;Guillotine;Un puissant coup de pince qui peut mettre K.O.;Normal;5;-;30;Phys.;-;-
+Gyroballe;Gyro Ball;La puissance dépend de la vitesse de l'adversaire et du lanceur.;Acier;5;1;100;Phys.;-;CT 74
+Hâte;Agility;Relaxation du corps pour booster la VITESSE de 2 niveaux.;Psy;30;-;-;Autre;-;-
+Hurle-Temps;Roar Of Time;Le lanceur ne peut pas attaquer au tour suivant;Dragon;5;150;90;Spéc.;-;-
+Hurlement;Roar;Fait fuir l'ennemi pour mettre fin au combat.;Normal;20;-;100;Autre;CT 05;CT 05
+Hydroblast;Hydro Cannon;Puissant, mais immobilise le lanceur le tour suivant.;Eau;5;150;90;Spéc.;-;-
+Hydrocanon;Hydro Pump;Envoie un puissant jet d'eau pour frapper l'ennemi.;Eau;5;120;80;Spéc.;-;-
+Hydroqueue;Aqua Tail;Attaque normale;Eau;10;90;90;Phys.;-;-
+Hypnose;Hypnosis;Une attaque hypnotique pouvant endormir l'ennemi.;Psy;20;-;60;Autre;-;-
+Imitation;Role Play;Imite la cible et copie sa capacité spéciale.;Psy;10;-;100;Autre;-;-
+Implore;Covet;Demande gentiment un objet détenu par l'ennemi.;Normal;40;40;100;Phys.;-;-
+Intimidation;Glare;Intimide l'ennemi et le paralyse de terreur.;Normal;30;-;75;Autre;-;-
+Jackpot;Pay Day;Lance des pièces. L'argent est récupéré plus tard.;Normal;20;40;100;Phys.;-;-
+Jet De Sable;Sand-Attack;Lance du sable et baisse la précision de l'ennemi.;Sol;15;-;100;Autre;-;-
+Jet-Pierres;Rock Throw;Envoie des cailloux pour frapper l'ennemi.;Roche;15;50;90;Phys.;-;-
+Jugement;Judgment;Le type dépend de la plaque tenue.;Normal;10;100;100;Spéc.;-;-
+Koud'Korne;Horn Attack;Frappe l'ennemi d'un coup de corne pointue.;Normal;25;65;100;Phys.;-;-
+Lait A Boire;Milk Drink;Regagne jusqu'à la moitié des PV max du lanceur.;Normal;10;-;-;Autre;-;-
+Lame d'Air;Air Slash;30% de chance d'apeurer l'ennemi.;Vol;20;75;95;Spéc.;-;-
+Lame de Roc;Stone Edge;Haut taux de coups critiques;Roche;5;100;80;Phys.;-;CT 71
+Lame-Feuille;Leaf Blade;Tranche avec une feuille. Taux de critiques élevé (+1).;Plante;15;90;100;Phys.;-;-
+Lance-Boue;Mud Sport;Couvre le lanceur de boue. Augmente résist. électr.;Sol;15;-;100;Autre;-;-
+Lance-Flamme;Flamethrower;10 % de chance de brûler le Pokémon défenseur.;Feu;15;95;100;Spéc.;CT 35;CT 35
+Lance-Soleil;Solarbeam;Absorbe la lumière et attaque le tour suivant.;Plante;10;120;100;Spéc.;CT 22;CT 22
+Larcin;Thief;Peut voler l'objet tenu par l'ennemi pendant l'attaque.;Ténèbres;10;40;100;Phys.;CT 46;CT 46
+Laser Glace;Ice Beam;Envoie un rayon de glace pouvant geler l'ennemi.;Glace;10;95;100;Spéc.;CT 13;CT 13
+Lechouille;Lick;Blesse avec un long coup de langue. Peut paralyser.;Spectre;30;20;100;Phys.;-;-
+Ligotage;Wrap;Ligote l'ennemi et l'étouffe 2 à 5 fois avec des lianes.;Normal;20;15;85;Phys.;-;-
+Lilliput;Minimize;Rapetisse le lanceur pour augmenter l'esquive.;Normal;20;-;-;Autre;-;-
+Lire-Esprit;Mind Reader;Pressent l'action pour réussir l'attaque suivante.;Normal;5;-;100;Autre;-;-
+Lumi-Eclat;Luster Purge;Envoie une lueur intense. Peut baisser DEF. SPE.;Psy;5;70;100;Spéc.;-;-
+Luminocanon;Flash Cannon;Peut diminuer la défense spéciale de l'adversaire;Acier;10;80;100;Spéc.;-;CT 91
+Lumiqueue;Tail Glow;Flash lumineux qui booste l'ATQ. SPE.;Insecte;20;-;100;Autre;-;-
+Lutte;Struggle;Fonctionne s'il ne reste plus de PP. Blesse un peu mais fait perdre 1/4 des PV du Pokémon attaquant.;-;0;50;100;Phys.;-;-
+Mach Punch;Mach Punch;Coup de poing fulgurant. Attaque à priorité (+1).;Combat;30;40;100;Phys.;-;-
+Machination;Nasty Plot;Augmente l'attaque spéciale de 2 niveaux.;Ténèbres;20;-;-;Autre;-;-
+Machouille;Crunch;20 % de chance de baisser la DEFENSE.;Ténèbres;15;80;100;Phys.;-;-
+Malediction;Curse;Augmente l'ATTAQUE et la DEFENSE, mais diminue la VITESSE. Coup qui fonctionne autrement pour les SPECTRES.;-;10;-;-;Autre;-;-
+Mania;Thrash;Une attaque furieuse de 2 à 3 tours. Lanceur confus.;Normal;20;90;100;Phys.;-;-
+Marto-Poing;Hammer Arm;Diminue d'un niveau la Vitesse du lanceur.;Combat;10;100;90;Phys.;-;-
+Martobois;Wood Hammer;Le lanceur subit des dégâts;Plante;15;120;100;Phys.;-;-
+Massd'Os;Bone Club;Cogne l'ennemi avec un os. Peut apeurer l'ennemi.;Sol;20;65;85;Phys.;-;-
+Mawashi Geri;Rolling Kick;Un coup de pied tournoyant et extrêmement rapide.;Combat;15;60;85;Phys.;-;-
+Mega-Sangsue;Mega Drain;Une attaque absorbant la moitié des dégâts infligés.;Plante;15;40;100;Spéc.;-;-
+Megacorne;Megahorn;Une charge violente, toutes cornes en avant.;Insecte;10;120;85;Phys.;-;-
+Megafouet;Power Whip;Attaque sans effet particulier.;Plante;10;120;85;Phys.;-;-
+Megaphone;Hyper Voice;Attaque bruyante blessant avec des ondes sonores.;Normal;10;90;100;Spéc.;-;-
+Meteores;Swift;Envoie des rayons en forme d'étoile. Touche toujours.;Normal;20;60;-;Spéc.;-;-
+Metronome;Metronome;Remue un doigt et lance une attaque POKéMON au hasard.;Normal;10;-;-;Autre;-;-
+Mimi-Queue;Tail Whip;Remue la queue pour baisser la DEFENSE de l'ennemi.;Normal;30;-;100;Autre;-;-
+Mimique;Mirror Move;Contre l'attaque de l'ennemi avec la même attaque.;Vol;20;-;-;Autre;-;-
+Miroi-Tir;Mirror Shot;Peut diminuer la précision de l'adversaire;Acier;10;65;85;Spéc.;-;-
+Mitra-Poing;Focus Punch;Lanceur apeuré si touché. Attaque puissante.;Combat;20;150;100;Phys.;CT 01;CT 01
+Moi d'abord;Me First;Si l'adversaire utilise une attaque offensive et que le lanceur de Moi d'Abord est plus rapide, alors il lancera l'attaque ennemie avec une [...];Normal;20;-;-;Autre;-;-
+Morphing;Transform;Modifie ses cellules pour copier l'ennemi.;Normal;10;-;-;Autre;-;-
+Morsure;Bite;Mord méchamment l'ennemi et peut l'apeurer.;Ténèbres;25;60;100;Phys.;-;-
+Mur De Fer;Iron Defense;Endurcit le corps pour booster la Défense du lanceur de 2 niveaux.;Acier;15;-;-;Autre;-;-
+Mur Lumiere;Light Screen;Crée un mur lumineux et réduit les dégâts d'ATQ. SP.;Psy;30;-;-;Autre;CT 16;CT 16
+Noeud'Herbe;Grass Knot;La puissance augmente si l'adversaire est lourd;Plante;20;1;100;Spéc.;-;CT 86
+Ocroupi;Muddy Water;Attaque d'eau croupie. Peut baisser la précision.;Eau;10;95;85;Spéc.;-;-
+Octazooka;Octazooka;Jet d'encre qui blesse et baisse la précision.;Eau;10;65;85;Spéc.;-;-
+Oeil Miracle;Miracle Eye;Supprime l'insensibilité des pokémon ténèbres aux attaques psy et remet l'esquive à zéro;Psy;40;-;-;Autre;-;-
+Ombre Portee;Shadow Sneak;Attaque de priorité +1. Attaque toujours en premier si l'adversaire ne lance pas une attaque de priorité supérieure ou égale.;Spectre;30;40;100;Phys.;-;-
+Onde Boreale;Aurora Beam;Envoie un rayon arc-en-ciel pouvant baisser l'ATTAQUE.;Glace;20;65;100;Spéc.;-;-
+Onde De Choc;Shock Wave;Attaque électrique rapide et impossible à esquiver.;Electrik;20;60;-;Spéc.;CT 34;CT 34
+Onde Folie;Confuse Ray;Un horrible rayon qui rend l'ennemi confus.;Spectre;10;-;100;Autre;-;-
+Onde Vide;Vacuum Wave;Attaque toujours en premier.;Combat;30;40;100;Spéc.;-;-
+Osmerang;Bonemerang;Lance un boomerang en os qui frappe deux fois.;Sol;10;50;90;Phys.;-;-
+Ouragan;Twister;Déclenche un terrible ouragan blessant l'ennemi.;Dragon;20;40;100;Spéc.;-;-
+Par Ici;Follow Me;Attire l'attention. Les adv. n'attaquent que le lanceur.;Normal;20;-;100;Autre;-;-
+Para-Spore;Stun Spore;Répand une poudre pouvant paralyser l'ennemi.;Plante;30;-;75;Autre;-;-
+Paresse;Slack Off;Se détend et récupère la moitié des PV maximum.;Normal;10;-;100;Autre;-;-
+Passe-Passe;Switcheroo;Echange les objets tenus avec l'adversaire;Ténèbres;10;-;100;Autre;-;-
+Patience;Bide;Encaisse les attaques sur 2 tours et renvoie le double.;Normal;10;-;100;Phys.;-;-
+Permucoeur;Heart Swap;Echange les statistiques modifiées avec l'adversaire.;Psy;10;-;-;Autre;-;-
+Permuforce;Power Swap;Echange les boost d'Attaque et d'Attaque Spéciale avec l'adversaire.;Psy;10;-;-;Autre;-;-
+Permugarde;Guard Swap;Echange les boost de Défense et Défense Spéciale avec l'adversaire.;Psy;10;-;-;Autre;-;-
+Photocopie;Copycat;Copie la dernière attaque de l'adversaire;Normal;20;-;-;Autre;-;-
+Picanon;Spike Cannon;Lance des pointes qui frappent 2 à 5 fois.;Normal;15;20;100;Phys.;-;-
+Picore;Pluck;La puissance est doublée si l'adversaire tient une baie;Vol;20;60;100;Phys.;-;CT 88
+Picots;Spikes;Pointes blessant lors d'un changement d'adversaire.;Sol;20;-;-;Autre;-;-
+Picpic;Peck;Attaque l'ennemi avec un bec pointu, etc.;Vol;35;35;100;Phys.;-;-
+Pics Toxik;Toxic Spikes;Inflige l'altération Poison lorsque l'adversaire change de pokémon;Poison;20;-;-;Autre;-;-
+Pied Bruleur;Blaze Kick;Haut taux de Coup Critique (+1). 10 % de chance de brûlure.;Feu;10;85;90;Phys.;-;-
+Pied Saute;Jump Kick;Un coup de pied sauté. Peut blesser le lanceur si raté.;Combat;25;70;95;Phys.;-;-
+Pied Voltige;Hi Jump Kick;Coup de pied sauté. S'il est raté, le lanceur se blesse.;Combat;20;100;90;Phys.;-;-
+Piege de Roc;Stealth Rock;Inflige des dégâts lorsque l'adversaire change de pokémon;Roche;20;-;-;Autre;-;CT 76
+Pilonnage;Barrage;Projette 2 à 5 fois des objets vers l'ennemi.;Normal;20;15;85;Phys.;-;-
+Pince-Masse;Crabhammer;Cogne avec une pince. Haut taux de Coup Critique (+1).;Eau;10;90;85;Phys.;-;-
+Pique;Sky Attack;Cherche les points faibles et frappe au tour suivant.;Vol;5;140;90;Phys.;-;-
+Piqure;Bug Bite;Vole les effets de la baie tenue par l'adversaire.;Insecte;20;60;100;Phys.;-;-
+Pisto-Poing;Bullet Punch;Attaque toujours en premier;Acier;30;40;100;Phys.;-;-
+Pistolet A O;Water Gun;Attaque l'ennemi en projetant de l'eau.;Eau;25;40;100;Spéc.;-;-
+Plaie-Croix;X-scissor;Attaque normale;Insecte;15;80;100;Phys.;-;CT 81
+Plaquage;Body Slam;30 % de chance de paralyser le Pokémon défenseur.;Normal;15;85;100;Phys.;-;-
+Plenitude;Calm Mind;Méditation pour augmenter l'ATQ. SPE. et la DEF. SPE.;Psy;20;-;-;Autre;CT 04;CT 04
+Plongee;Dive;Plonge en apnée au premier tour et frappe au second.;Eau;10;60;100;Phys.;CS 8;-
+Poing Comete;Comet Punch;Frappe rapidement l'ennemi de 2 à 5 fois.;Normal;15;18;85;Phys.;-;-
+Poing Dard;Needle Arm;Attaque avec bras épineux. Peut apeurer.;Plante;15;60;100;Phys.;-;-
+Poing De Feu;Fire Punch;Un poing de feu pouvant brûler l'ennemi.;Feu;15;75;100;Phys.;-;-
+Poing Meteor;Meteor Mash;Coup de poing météore. Peut augmenter l'ATTAQUE.;Acier;10;100;85;Phys.;-;-
+Poing Ombre;Shadow Punch;Un coup de poing inévitable sortant de l'ombre.;Spectre;20;60;-;Phys.;-;-
+Poing-Eclair;Thunderpunch;10 % de chance de paralyser le Pokémon défenseur.;Electrik;15;75;100;Phys.;-;-
+Poing-Karate;Karate Chop;Une attaque tranchante à taux de critiques élevé (+1).;Combat;25;50;100;Phys.;-;-
+Poinglace;Ice Punch;Un poing de glace pouvant geler l'ennemi.;Glace;15;75;100;Phys.;-;-
+Poison-Croix;Cross Poison;Haut taux de coups critiques, peut empoisonner le Pokémon défenseur.;Poison;20;70;100;Phys.;-;-
+Poliroche;Rock Polish;Augmente beaucoup la vitesse du lanceur;Roche;20;-;-;Autre;-;CT 69
+Possessif;Imprison;Empêche les ennemis d'utiliser les coups du lanceur.;Psy;10;-;100;Autre;-;-
+Poudre Dodo;Sleep Powder;Répand une poudre pouvant endormir l'ennemi.;Plante;15;-;75;Autre;-;-
+Poudre Toxik;Poisonpowder;Répand une poudre toxique pouvant empoisonner.;Poison;35;-;75;Autre;-;-
+Poudreuse;Powder Snow;Envoie une rafale de neige. Peut geler l'ennemi.;Glace;25;40;100;Spéc.;-;-
+Poursuite;Pursuit;Inflige de sérieux dégâts lorsque l'ennemi change.;Ténèbres;20;40;100;Phys.;-;-
+Pouv.Antique;Ancientpower;Une attaque pouvant augmenter toutes les stats.;Roche;5;60;100;Spéc.;-;-
+Prescience;Future Sight;Accumule de l'énergie pour frapper 2 tours plus tard.;Psy;15;80;90;Spéc.;-;-
+Presse;Crush Grip;La puissance dépend des PV restants de l'adversaire;Normal;5;1;100;Phys.;-;-
+Prlvt Destin;Destiny Bond;Si le lanceur est mis K.O., l'ennemi le sera également.;Spectre;5;-;-;Autre;-;-
+Protection;Reflect;Crée un mur lumineux. Affaiblit att. physiques.;Psy;20;-;-;Autre;CT 33;CT 33
+Provoc;Taunt;Provoque l'ennemi. L'oblige à utiliser ses attaques.;Ténèbres;20;-;100;Autre;CT 12;CT 12
+Psycho Boost;Psycho Boost;Attaque à pleine puissance, mais baisse ATQ. SPE.;Psy;5;140;90;Spéc.;-;-
+Psyko;Psychic;Une puissante attaque PSY pouvant baisser la DEF. SPE.;Psy;10;90;100;Spéc.;CT 29;CT 29
+Psykoud'Boul;Zen Headbutt;20 % de chance d'apeurer le Pokémon défenseur.;Psy;15;80;90;Phys.;-;-
+Puis. Cachee;Hidden Power;L'efficacité de l'attaque dépend du lanceur.;Normal;15;-;100;Spéc.;CT 10;CT 10
+Puissance;Focus Energy;Augmente le taux de Coups Critiques de deux niveaux. Effet transmis par Relais.;Normal;30;-;-;Autre;-;-
+Punition;Punishment;La puissance dépend des statistiques de l'adversaire;Ténèbres;5;1;100;Phys.;-;-
+Puredpois;Smog;Un gaz nocif pouvant empoisonner l'ennemi.;Poison;20;20;70;Spéc.;-;-
+Queue De Fer;Iron Tail;Attaque avec sa queue. Peut baisser la DEFENSE.;Acier;15;100;75;Phys.;CT 23;CT 23
+Queue-Poison;Poison Tail;Haut taux de critiques. Peut aussi empoisonner.;Poison;25;50;100;Phys.;-;-
+Racines;Ingrain;Plante des racines, regagne PV, ne peut plus changer.;Plante;20;-;100;Autre;-;-
+Rafale Feu;Blast Burn;Puissant, mais immobilise le lanceur le tour suivant.;Feu;5;150;90;Spéc.;-;-
+Rafale Psy;Psybeam;Etrange rayon pouvant rendre l'ennemi confus.;Psy;20;65;100;Spéc.;-;-
+Rancune;Grudge;Si mis K.O., supprime les PP du coup ennemi.;Spectre;5;-;100;Autre;-;-
+Rapace;Brave Bird;Le lanceur subit des dégâts;Vol;15;120;100;Phys.;-;-
+Rayon Charge;Charge Beam;Augmente souvent l'attaque spéciale du lanceur.;Electrik;10;50;90;Spéc.;-;CT 57
+Rayon Gemme;Power Gem;Attaque normale;Roche;20;70;100;Spéc.;-;-
+Rayon Lune;Moonlight;Restaure les PV. Varie suivant le temps.;Normal;5;-;-;Autre;-;-
+Rayon Signal;Signal Beam;Un étrange rayon qui peut rendre l'ennemi confus.;Insecte;15;75;100;Spéc.;-;-
+Rebond;Bounce;Saute et tombe le tour suivant. 30 % de chance de paralyser.;Vol;5;85;85;Phys.;-;-
+Recyclage;Recycle;Recycle un objet pour l'utiliser une fois de plus.;Normal;10;-;100;Autre;-;CT 67
+Reflet;Double Team;Crée des images-miroirs pour augmenter l'esquive.;Normal;15;-;-;Autre;CT 32;CT 32
+Reflet Magik;Magic Coat;Renvoie les effets spéciaux vers le lanceur.;Psy;15;-;100;Autre;-;-
+Regard Noir;Mean Look;Lance un regard méchant pour empêcher la fuite.;Normal;5;-;100;Autre;-;-
+Regeneration;Refresh;Soigne un empoisonnement, une paralysie, une brûlure.;Normal;20;-;100;Autre;-;-
+Relache;Spit Up;Libère la puissance précédemment accumulée.;Normal;10;100;100;Spéc.;-;-
+Relais;Baton Pass;Changement de Pokémon, transfère les altérations de statut.;Normal;40;-;-;Autre;-;-
+Repli;Withdraw;Se recroqueville dans sa carapace. Monte la DEFENSE.;Eau;40;-;-;Autre;-;-
+Repos;Rest;Le lanceur dort 2 tours et regagne PV et statut.;Psy;10;-;-;Autre;CT 44;CT 44
+Represailles;Payback;La puissance double si la cible a déjà attaqué / switché pendant le tour.;Ténèbres;10;50;100;Phys.;-;CT 66
+Requiem;Perish Song;Un POKéMON qui entend ce requiem est K.O. en 3 tours.;Normal;5;-;-;Autre;-;-
+Retour;Return;Attaque dont la puissance dépend de l'amitié.;Normal;20;-;100;Phys.;CT 27;CT 27
+Reveil Force;Wake-up Slap;La puissance est doublée si l'adversaire est endormi, soigne le sommeil;Combat;10;60;100;Phys.;-;-
+Revenant;Shadow Force;Disparaît au premier tour puis attaque au second, l'adversaire ne peut pas se protéger;Spectre;5;120;100;Phys.;-;-
+Riposte;Counter;Renvoie toute attaque physique, 2 fois plus fort.;Combat;20;-;100;Phys.;-;-
+Roc-Boulet;Rock Wrecker;Le lanceur ne peut pas attaquer au tour suivant;Roche;5;150;90;Phys.;-;-
+Ronflement;Snore;Attaque sonore qui ne peut être lancée qu'endormi.;Normal;15;40;100;Spéc.;-;-
+Roue De Feu;Flame Wheel;Une charge enflammée qui peut brûler l'ennemi.;Feu;25;60;100;Phys.;-;-
+Roulade;Rollout;Une attaque sur 5 tours, de plus en plus puissante.;Roche;20;30;90;Phys.;-;-
+Rugissement;Growl;Rugit gentiment et baisse l'Attaque de l'ennemi d'un niveau.;Normal;40;-;100;Autre;-;-
+Rune Protect;Safeguard;Force mystique empêchant tout changement de statut.;Normal;25;-;-;Autre;CT 20;CT 20
+Ruse;Feint;Ne marche que si l'adversaire lance Abri ou Détection;Normal;10;50;100;Phys.;-;-
+Sabotage;Knock Off;Frappe l'objet tenu pour le rendre inutilisable.;Ténèbres;20;20;100;Phys.;-;-
+Sacrifice;Submission;Une charge violente qui blesse aussi le lanceur.;Combat;25;80;80;Phys.;-;-
+Saisie;Snatch;Vole les effets de la prochaine attaque ennemie.;Ténèbres;10;-;100;Autre;CT 49;CT 49
+Saumure;Brine;La puissance double si les PV de l'adversaire sont inférieurs à la moitié;Eau;10;65;100;Spéc.;-;CT 55
+Secretion;String Shot;Ligote l'ennemi afin de réduire sa VITESSE.;Insecte;40;-;95;Autre;-;-
+Seduction;Captivate;Diminue l'attaque spéciale du Pokémon ennemi de 2 niveaux s'il est de sexe opposé.;Normal;20;-;100;Autre;-;CT 78
+Seisme;Earthquake;Tremblement de terre sans effet sur les adv. volants.;Sol;10;100;100;Phys.;CT 26;CT 26
+Siffl'Herbe;Grasswhistle;Endort l'ennemi en sifflant une douce mélodie.;Plante;15;-;55;Autre;-;-
+Siphon;Whirlpool;Piège l'ennemi dans un tourbillon pendant 2 à 5 tours.;Eau;15;15;70;Spéc.;-;-
+Soin;Recover;Regagne jusqu'à la moitié des PV max du lanceur.;Normal;10;-;-;Autre;-;-
+Sonicboom;Sonicboom;Envoie des ondes de choc infligeant 20 PV de dégâts.;Normal;20;-;90;Spéc.;-;-
+Soucigraine;Worry Seed;Change la capacité spéciale de la cible pour Insomnia.;Plante;10;-;100;Autre;-;-
+Souplesse;Slam;Fouette l'ennemi avec sa queue, une liane, etc.;Normal;20;80;75;Phys.;-;-
+Souvenir;Memento;Le lanceur est mis K.O. et baisse les cap. ennemies.;Ténèbres;10;-;100;Autre;-;-
+Spatio-Rift;Spacial Rend;Haut taux de coups critiques;Dragon;5;100;95;Spéc.;-;-
+Spore;Spore;Répand un nuage de spores qui endort toujours.;Plante;15;-;100;Autre;-;-
+Spore Coton;Cotton Spore;Envoie des spores pour baisser la VITESSE.;Plante;40;-;85;Autre;-;-
+Stalagtite;Icicle Spear;Mitraille l'ennemi avec 2 à 5 glaçons à la suite.;Glace;30;10;100;Phys.;-;-
+Stimulant;Smellingsalt;Utilise contre les ennemis paralysés, mais les soigne.;Normal;10;60;100;Phys.;-;-
+Stockage;Stockpile;Accumule de la puissance pendant 3 tours maximum.;Normal;10;-;-;Autre;-;-
+Stratopercut;Sky Uppercut;Un uppercut porté en direction du ciel. Touche les ennemis en Vol.;Combat;15;85;90;Phys.;-;-
+Strido-Son;Metal Sound;Diminue la défense spéciale adverse de deux niveaux.;Acier;35;-;95;Autre;-;-
+Suc Digestif;Gastro Acid;Supprime l'effet de la capacité spéciale de l'adversaire. Effet transmis par Relais.;Poison;10;-;100;Autre;-;-
+Surchauffe;Overheat;Attaque à pleine puissance, mais baisse fortement ATQ. SPE.;Feu;5;140;90;Spéc.;CT 50;CT 50
+Surf;Surf;Crée une énorme vague qui s'écrase sur l'ennemi.;Eau;15;95;100;Spéc.;CS 3;CS 3
+Surpuissance;Superpower;Baisse l'ATTAQUE et la DEFENSE du lanceur d'un niveau.;Combat;5;120;100;Phys.;-;-
+Synthese;Synthesis;Restaure les PV. Varie suivant le temps.;Plante;5;-;-;Autre;-;-
+Taillade;Fury Cutter;Une attaque qui s'intensifie après chaque coup.;Insecte;20;10;95;Phys.;-;-
+Telekinesie;Kinesis;Diminue la précision de l'adversaire d'un niveau.;Psy;15;-;80;Autre;-;-
+Teleport;Teleport;Attaque PSY permettant de prendre aussitôt la fuite.;Psy;20;-;-;Autre;-;-
+Telluriforce;Earth Power;Peut diminuer la défense spéciale de l'adversaire.;Sol;10;90;100;Spéc.;-;-
+Tempetesable;Sandstorm;Une tempête de sable qui souffle plusieurs tours.;Roche;10;-;-;Autre;CT 37;CT 37
+Tempeteverte;Leaf Storm;Diminue l'Attaque Spéciale du lanceur de deux niveaux.;Plante;5;140;90;Spéc.;-;-
+Tenacite;Endure;Encaisse les attaques du tour et conserve 1 PV.;Normal;10;-;-;Autre;-;CT 58
+Tenebres;Night Shade;Inflige des dégâts selon le niveau du lanceur.;Spectre;15;-;100;Spéc.;-;-
+Tete de Fer;Iron Head;30 % de chance d'apeurer l'adversaire.;Acier;15;80;100;Phys.;-;-
+Tir De Boue;Mud Shot;Envoie de la boue à l'ennemi pour réduire sa VITESSE.;Sol;15;55;95;Spéc.;-;-
+Toile;Spider Web;Capture l'ennemi et empêche toute fuite ou changement.;Insecte;10;-;100;Autre;-;-
+Tomberoche;Rock Tomb;Immobilise l'ennemi ave des rochers. Baisse la VITESSE.;Roche;10;50;80;Phys.;CT 39;CT 39
+Tonnerre;Thunderbolt;Forte attaque électrique pouvant paralyser l'ennemi.;Electrik;15;95;100;Spéc.;CT 24;CT 24
+Torgnoles;Doubleslap;Gifle rapidement l'ennemi de 2 à 5 fois.;Normal;10;15;85;Phys.;-;-
+Tornade;Gust;Envoie une rafale de vent en battant des ailes.;Vol;35;40;100;Spéc.;-;-
+Tour Rapide;Rapid Spin;Frappe l'ennemi en tournant sur soi-même.;Normal;40;20;100;Phys.;-;-
+Tourbi-Sable;Sand Tomb;Piège l'ennemi dans un cyclone de 2 à 5 tours.;Sol;15;15;70;Phys.;-;-
+Tourmagik;Trick;Oblige la cible à échanger les objets tenus.;Psy;10;-;100;Autre;-;-
+Tourmente;Torment;Perturbe l'ennemi. Empêche la réutilisation d'un att.;Ténèbres;15;-;100;Autre;CT 41;CT 41
+Tourniquet;Water Sport;Mouille le lanceur et augmente sa résistance au feu.;Eau;15;-;100;Autre;-;-
+Toxik;Toxic;Empoisonne l'ennemi avec une puissante toxine.;Poison;10;-;85;Autre;CT 06;CT 06
+Tranch'Air;Air Cutter;Haut taux de Coup Critique (+ 1);Vol;25;55;95;Spéc.;-;-
+Tranch'Herbe;Razor Leaf;Tranche avec des feuilles. Taux de critiques élevé. (+1);Plante;25;55;95;Phys.;-;-
+Tranche;Slash;Coups de griffe, etc. Taux de critiques élevé.;Normal;20;70;100;Phys.;-;-
+Tranche-Nuit;Night Slash;Haut taux de coups critiques (+1);Ténèbres;15;70;100;Phys.;-;-
+Trempette;Splash;Eclabousse l'ennemi. N'a aucun effet.;Normal;40;-;-;Autre;-;-
+Triplattaque;Tri Attack;Envoie trois types de rayons en même temps.;Normal;10;80;100;Spéc.;-;-
+Triple Pied;Triple Kick;Trois coups de pied de plus en plus puissants.;Combat;10;10;90;Phys.;-;-
+Trou Noir;Dark Void;Endort tous les pokémon du terrain;Ténèbres;10;-;80;Autre;-;-
+Tunnel;Dig;Creuse sous terre au 1er tour et frappe au 2e.;Sol;10;80;100;Phys.;CT 28;CT 28
+Ultimapoing;Mega Punch;Un coup de poing d'une puissance incroyable.;Normal;20;80;85;Phys.;-;-
+Ultimawashi;Mega Kick;Un coup de pied super puissant et intense.;Normal;5;120;75;Phys.;-;-
+Ultralaser;Hyper Beam;Puissant, mais immobilise le lanceur pour un tour.;Normal;5;150;90;Spéc.;CT 15;CT 15
+Ultrason;Supersonic;Etranges ondes sonores pouvant rendre confus.;Normal;20;-;55;Autre;-;-
+Uppercut;Dizzy Punch;Un coup de poing cadencé. Peut rendre confus.;Normal;10;70;100;Phys.;-;-
+Vague Psy;Psywave;Envoie une onde PSY d'intensité variable.;Psy;15;-;80;Spéc.;-;-
+Vampigraine;Leech Seed;Plante des graines pour voler des PV à chaque tour.;Plante;10;-;90;Autre;-;-
+Vampipoing;Drain Punch;Le lanceur reçoit la moitié des dégâts provoqués;Combat;5;60;100;Phys.;-;CT 60
+Vampirisme;Leech Life;Une attaque qui aspire la moitié des dégâts infligés.;Insecte;15;20;100;Phys.;-;-
+Vantardise;Swagger;Rend l'ennemi confus et booste l'ATTAQUE.;Normal;15;-;90;Autre;-;CT 87
+Vege-Attak;Frenzy Plant;Puissant, mais immobilise le lanceur le tour suivant.;Plante;5;150;90;Spéc.;-;-
+Vendetta;Revenge;Gagne en puissance quand blessé par l'ennemi.;Combat;10;60;100;Phys.;-;-
+Vent Argente;Silver Wind;Attaque poudreuse qui peut augmenter les capacités.;Insecte;5;60;100;Spéc.;-;CT 62
+Vent Arriere;Tailwind;Les pokémon de l'équipe du lanceur augmentent leur vitesse pendant 3 tours;Vol;30;-;-;Autre;-;-
+Vent Glace;Icy Wind;Attaque glaciale. Baisse la Vitesse de l'ennemi d'un niveau.;Glace;15;55;95;Spéc.;-;-
+Vent Mauvais;Ominous Wind;Peut augmenter toutes les statistiques du lanceur;Spectre;5;60;100;Spéc.;-;-
+Verrouillage;Lock-On;Le coup suivant sera réussi à coup sûr.;Normal;5;-;100;Autre;-;-
+Vibraqua;Water Pulse;Envoi d'ondes aquatiques. Peut rendre confus.;Eau;20;60;100;Spéc.;CT 03;CT 03
+Vibrobscur;Dark Pulse;20% de chance d'apeurer le Pokémon adverse.;Ténèbres;15;80;100;Spéc.;-;CT 79
+Vit.Extreme;Extremespeed;Une attaque extrêmement rapide et puissante.;Normal;5;80;100;Phys.;-;-
+Vive-Attaque;Quick Attack;Attaque fulgurante qui permet de frapper d'abord.;Normal;30;40;100;Phys.;-;-
+Voeu;Wish;Un voeu qui restaure les PV. Demande un certain temps.;Normal;10;-;100;Autre;-;-
+Voeu Soin;Healing Wish;Le lanceur tombe KO, et restaure les PV et le statut du pokémon remplaçant.;Psy;10;-;-;Autre;-;-
+Voile Miroir;Mirror Coat;Renvoie l'attaque spéciale ennemie 2 fois plus fort.;Psy;20;-;100;Spéc.;-;-
+Vol;Fly;S'envole au premier tour et frappe au second tour.;Vol;15;90;95;Phys.;CS 2;CS 2
+Vol Magnetik;Magnet Rise;Rajoute la capacité spéciale Lévitation;Electrik;10;-;-;Autre;-;-
+Vol-Vie;Absorb;Une attaque absorbant la moitié des dégâts infligés.;Plante;20;20;100;Spéc.;-;-
+Vortex Magma;Magma Storm;Piège l'adversaire;Feu;5;120;70;Spéc.;-;-
+Yoga;Meditate;Méditation pacifique pour augmenter l'ATTAQUE;Psy;40;-;-;Autre;-;-
+Zenith;Sunny Day;Améliore les attaques FEU pendant 5 tours.;Feu;5;-;-;Autre;CT 11;CT 11

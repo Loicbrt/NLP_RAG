@@ -1,0 +1,124 @@
+Nom français;Nom anglais;Description
+Absentéisme;Truant;Le Pokémon n'agit pas un tour sur deux.
+Absorb Eau;Water Absorb;Immunise le Pokémon contre les capacités Eau. Il est soigné de 25% de ses PV max s'il en encaisse une.
+Absorb Volt;Volt Absorb;Immunise le Pokémon contre les capacités Électrik. Il est soigné de 25% de ses PV max s'il en encaisse une.
+Adaptabilité;Adaptability;Le bonus de dégâts pour les capacités du même type que le Pokémon ("STAB") passe de x1.5 à x2.
+Agitation;Hustle;Augmente l'Attaque de 50% mais baisse la Précision des capacités physiques de 20%. Hors combat en tête d'équipe, 50% de chance de forcer l'apparition d'un Pokémon à son plus haut niveau.
+Air Lock;Air Lock;Tant que le Pokémon est sur le terrain, le climat n'a aucun effet pour tous les Pokémon.
+Alerte Neige;Snow Warning;Le Pokémon invoque la grêle à son entrée au combat.
+Annule Garde;No Guard;Toutes les capacités utilisées par le Pokémon ou ciblant le Pokémon touchent à coup sûr. Hors combat en tête d'équipe, double les chances de rencontrer des Pokémon sauvages.
+Anti-Bruit;Soundproof;Immunise contre les capacités sonores comme Mégaphone ou Hurlement.
+Anticipation;Anticipation;Affiche un message préventif lorsque l'adversaire possède une capacité "OHKO" ou "super efficace" contre le Pokémon, à son entrée au combat.
+Armumagma;Magma Armor;Immunise contre le gel. Hors combat, les Œufs éclosent plus rapidement.
+Armurbaston;Battle Armor;Empêche l'adversaire d'asséner des coups critiques au Pokémon.
+Attention;Inner Focus;Immunise contre la peur.
+Benêt;Oblivious;Protège contre le talent Joli Sourire, et les capacités Attraction et Séduction.
+Boom Final;Aftermath;Si le Pokémon tombe K.O. par une capacité de contact adverse, alors l'adversaire perd 25% de ses PV max.
+Brasier;Blaze;Augmente la puissance des attaques Feu de 50% lorsque les PV du Pokémon sont inférieurs à 1/3 des PV max.
+Brise Moule;Mold Breaker;Ignore certains talents du Pokémon adverse lorsque le Pokémon attaque.
+Calque;Trace;Copie le talent du Pokémon adverse.
+Chanceux;Super Luck;Augmente le taux de coups critique d'un niveau.
+Cherche Miel;Honey Gather;Octroie une chance de ramasser du Miel après chaque combat remporté. La chance augmente en fonction du niveau du Pokémon.
+Chlorophyle;Chlorophyll;Double la Vitesse par temps de soleil.
+Ciel Gris;Cloud Nine;Tant que le Pokémon est sur le terrain, le climat n'a aucun effet pour tous les Pokémon.
+Colérique;Anger Point;Augmente l'Attaque au maximum lorsque le Pokémon subit un coup critique.
+Coloforce;Huge Power;Double l'Attaque du Pokémon.
+Coque Armure;Shell Armor;Empêche l'adversaire d'asséner des coups critiques au Pokémon.
+Corps Ardent;Flame Body;Octroie 30% de chance de brûler l'adversaire s'il utilise une capacité de contact contre le Pokémon. Hors combat, les Œufs éclosent plus rapidement.
+Corps Gel;Ice Body;Restaure 12.5% des PV max par temps de grêle.
+Corps Sain;Clear Body;Empêche les autres Pokémon de baisser les statistiques du Pokémon.
+Crachin;Drizzle;Le Pokémon invoque la pluie à son entrée au combat.
+Cran;Guts;Augmente l'Attaque de 50% si le Pokémon souffre d'un problème de statut.
+Cuvette;Rain Dish;Restaure 12.5% des PV max à la fin de chaque tour par temps de pluie.
+Début Calme;Slow Start;Divise par 2 l'Attaque et la Vitesse du Pokémon pendant les 5 premiers tours après qu'il soit entré en combat.
+Déguisement;Color Change;Le Pokémon change son type en celui de la dernière capacité offensive encaissée.
+Délestage;Unburden;Double la Vitesse si le Pokémon tenait un objet et qu'il l'a utilisé. L'effet disparaît après un switch.
+Don Floral;Flower Gift;Change la forme et augmente l'Attaque et la Défense Spéciale du Pokémon de 50% (et de ses alliés en Duo/Trio) par temps de soleil.
+Écaille Spé.;Marvel Scale;Augmente la Défense de 50% si le Pokémon souffre d'un problème de statut.
+Échauffement;Limber;Immunise contre la paralysie.
+Écran Fumée;White Smoke;Empêche les autres Pokémon de baisser les statistiques du Pokémon. Hors combat en tête d'équipe, diminue de 50% la probabilité de rencontrer des Pokémon sauvages
+Écran Poudre;Shield Dust;Annule les effets secondaires des capacités offensives adverses qui ciblent le Pokémon.
+Engrais;Overgrow;Augmente la puissance des attaques Plante de 50% lorsque les PV du Pokémon sont inférieurs à 1/3 des PV max.
+Esprit Vital;Vital Spirit;Immunise contre le sommeil. Hors combat en tête d'équipe, 50% de chance de forcer l'apparition d'un Pokémon à son plus haut niveau.
+Essaim;Swarm;Augmente la puissance des attaques Insecte de 50% lorsque les PV du Pokémon sont inférieurs à 1/3 des PV max.
+Fermeté;Sturdy;Immunise contre les capacités OHKO (Glaciation, Empal'korne, Guillotine et Abîme).
+Feuil. Garde;Leaf Guard;Immunise contre les problèmes de statut par temps de soleil.
+Filtre;Filter;Réduit de 25% les dégâts "super efficaces" contre le Pokémon.
+Force Pure;Pure Power;Double l'Attaque du Pokémon.
+Force Soleil;Solar Power;Par temps de soleil, augmente l'Attaque Spéciale de 50%, mais perd 12.5% des PV max à la fin de chaque tour.
+Fouille;Frisk;Permet de voir l'objet tenu par l'adversaire, à l'entrée du Pokémon au combat.
+Frein;Stall;Permet au Pokémon de toujours attaquer en dernier (pour une même priorité d'attaque que l'adversaire).
+Fuite;Run Away;Permet de fuir à coup sûr contre un Pokémon sauvage. N'a aucun effet sur le switch.
+Garde Magik;Magic Guard;Protège contre les dégâts résiduels (problèmes de statut, climats, Vampigraine, pièges, etc). Seules les capacités offensives peuvent infliger des dégâts au Pokémon.
+Garde Mystik;Wonder Guard;Immunise contre les capacités offensives qui ne sont pas "super efficaces".
+Glissade;Swift Swim;Double la Vitesse par temps de pluie.
+Gloutonnerie;Gluttony;Permet de consommer certaines Baies plus rapidement : le taux d'activation des Baies à 25% des PV max passe à 50% des PV max.
+Glue;Sticky Hold;Empêche le Pokémon de perdre son objet (via Larcin, Tourmagik ou Sabotage par exemple). Pas d'effet hors combat à cause d'un bug.
+Hydratation;Hydration;Guérit des problèmes de statut à la fin de chaque tour par temps de pluie.
+Hyper Cutter;Hyper Cutter;Empêche la baisse d'Attaque.
+Ignifu-Voile;Water Veil;Immunise contre la brûlure.
+Ignifuge;Heatproof;Divise par 2 les dégâts encaissés de type Feu ainsi que les dégâts occasionnés par la brûlure.
+Impassible;Steadfast;Augmente la Vitesse d'un niveau lorsque le Pokémon est apeuré.
+Inconscient;Unaware;Permet d'ignorer les changements de statistiques adverses lorsque le Pokémon attaque ou subit une attaque.
+Insomnia;Insomnia;Immunise contre le sommeil.
+Intimidation;Intimidate;Diminue l'Attaque des Pokémon adverses d'un niveau lorsque le Pokémon entre au combat. Hors combat en tête d'équipe, 50% de chance d'empêcher la rencontre d'un Pokémon sauvage qui possède au moins 5 niveaux de moins que le Pokémon.
+Isograisse;Thick Fat;Divise par 2 les dégâts encaissés de type Feu ou Glace.
+Joli Sourire;Cute Charm;Octroie 30% de chance de rendre amoureux l'adversaire s'il est de sexe opposé et qu'il utilise une capacité de contact contre le Pokémon. Hors combat en tête d'équipe, 66.7% de chance de forcer l'apparition d'un Pokémon sauvage du sexe opposé.
+Lavabo;Storm Drain;Attire les capacités Eau en Duo/Trio.
+Lentiteintée;Tinted Lens;Double la puissance des attaques "pas très efficaces".
+Lévitation;Levitate;Immunise contre les capacités offensives de type Sol. Le Pokémon ne touche plus le sol.
+Lumiattirance;Illuminate;Hors combat en tête d'équipe, double les chances de rencontrer des Pokémon sauvages.
+Magnépiège;Magnet Pull;Empêche la fuite ou la retraite des Pokémon adverses de type Acier. Hors combat en tête d'équipe, 50% de chance de forcer l'apparition d'un Pokémon sauvage de type Acier.
+Maladresse;Klutz;Empêche le Pokémon de bénéficier des effets des objets tenus en combat (sauf les effets affectant l'expérience / l'argent / les EV gagnés)
+Marque Ombre;Shadow Tag;Empêche la fuite ou la retraite des Pokémon adverses.
+Matinal;Early Bird;Divise par 2 le nombre de tours de sommeil (arrondi à l'inférieur).
+Mauvais Rêve;Bad Dreams;Inflige 12.5% des PV max de l'adversaire à la fin de chaque tour s'il est endormi.
+Médic Nature;Natural Cure;Soigne le Pokémon de ses problèmes de statut lorsqu'il est retiré du combat.
+Météo;Forecast;Change le type du Pokémon selon le climat.
+Minus;Minus;Augmente l'Attaque Spéciale de 50% en Duo/Trio lorsqu'un allié possède le talent Plus.
+Moiteur;Damp;Empêche tous les Pokémon sur le terrain d'utiliser les capacités explosives (Explosion et Destruction)
+Motorisé;Motor Drive;Immunise le Pokémon contre les capacités Électrik. Augmente sa Vitesse d'un niveau s'il en encaisse une.
+Mue;Shed Skin;Octroie 33% de chance de soigner son problème de statut à la fin de chaque tour.
+Multi-Coups;Skill Link;Les attaques "Multi-coups" portent toujours le nombre maximal de coups.
+Multi-Type;Multitype;Le type du Pokémon change en fonction de la Plaque qu'il porte.
+Normalise;Normalize;Toutes les capacités du Pokémon deviennent de type Normal.
+Oeil Composé;Compound Eyes;Augmente la Précision de 30%. Hors combat en tête d'équipe, augmente les chances que les Pokémon sauvages recontrés tiennent un objet, s'ils le peuvent.
+Paratonnerre;Lightning Rod;Attire les capacités Électrik en Duo/Trio.
+Peau Dure;Rough Skin;Inflige 1/8 des PV max à l'adversaire à chaque fois qu'il utilise une capacité de contact contre le Pokémon.
+Peau Sèche;Dry Skin;Restaure 25% des PV max si le Pokémon encaisse une capacité Eau mais augmente les dégâts subis par les capacités Feu de 25%. Restaure aussi 12.5% des PV max à la fin de chaque tour par temps de pluie mais perd 12.5% des PV max par temps de soleil.
+Pied Véloce;Quick Feet;Augmente la Vitesse de 50% si le Pokémon souffre d'un problème de statut. Hors combat en tête d'équipe, diminue de 50% la probabilité de rencontrer des Pokémon sauvages.
+Pieds Confus;Tangled Feet;Augmente l'Esquive de 50% lorsque le Pokémon est confus.
+Piège;Arena Trap;Empêche la fuite ou la retraite des Pokémon adverses s'ils ne sont pas de type Sol ou s'ils ne possèdent pas Lévitation. Hors combat en tête d'équipe, double les chances de rencontrer des Pokémon sauvages.
+Plus;Plus;Augmente l'Attaque Spéciale de 50% en Duo/Trio lorsqu'un allié possède le talent Minus.
+Poing de Fer;Iron Fist;Augmente la puissance des attaques "Poing" de 20%.
+Point Poison;Poison Point;Octroie 30% de chance d'empoisonner l'adversaire s'il utilise une capacité de contact contre le Pokémon.
+Pose Spore;Effect Spore;Octroie 30% de chance d'empoisonner, d'endormir ou de paralyser l'adversaire lorsqu'il utilise une capacité de contact contre le Pokémon.
+Prédiction;Forewarn;Affiche un message informant de la plus puissante capacité du Pokémon adverse, à l'entrée du Pokémon en combat.
+Pression;Pressure;Les capacités ciblant le Pokémon consomment 2 PP au lieu d'un. Hors combat en tête d'équipe, 50% de chance de forcer l'apparition d'un Pokémon à son plus haut niveau.
+Puanteur;Stench;Hors combat en tête d'équipe, diminue de 50% la probabilité de rencontrer des Pokémon sauvages.
+Querelleur;Scrappy;Permet au Pokémon de toucher les Pokémon Spectre avec des capacités Normal et Combat.
+Ramassage;Pickup;Octroie 10% de chance de ramasser un objet après chaque combat remporté. Les objets ramassés dépendent du niveau du Pokémon et du jeu.
+Regard Vif;Keen Eye;Empêche la baisse de Précision. Hors combat en tête d'équipe, 50% de chance d'empêcher la rencontre d'un Pokémon sauvage qui possède au moins 5 niveaux de moins que le Pokémon.
+Rideau Neige;Snow Cloak;Diminue la Précision des attaques qui le ciblent de 20 % par temps de grêle. Hors combat en tête d'équipe, diminue de 50% la probabilité de rencontrer des Pokémon sauvages par temps de grêle.
+Rivalité;Rivalry;Augmente la puissance des attaques de 25% si l'adversaire est du même sexe, baisse la puissance des attaques de 25% s'il est du sexe opposé. Aucun effet si le Pokémon ou l'adversaire est asexué.
+Sable Volant;Sand Stream;Le Pokémon invoque une tempête de sable à son entrée au combat.
+Sécheresse;Drought;Le Pokémon invoque le soleil à son entrée au combat.
+Sérénité;Serene Grace;Double les chances d'activation des effets secondaires des capacités offensives.
+Simple;Simple;Double tous les changements de statistiques du Pokémon.
+Sniper;Sniper;Augmente la puissance des coups critiques de 50%.
+Soin Poison;Poison Heal;Restaure 12.5% des PV max à la fin de chaque tour lorsque le Pokémon est empoisonné.
+Solide Roc;Solid Rock;Réduit de 25% les dégâts "super efficaces" contre le Pokémon.
+Statik;Static;Octroie 30% de chance de paralyser l'adversaire lorsqu'il attaque le Pokémon avec une capacité de contact. Hors combat en tête d'équipe, 50% de chance de forcer l'apparition d'un Pokémon sauvage de type Électrik.
+Suintement;Liquid Ooze;Les capacités adverses absorbant des PV comme Giga-Sangsue ou Vampigraine (utilisées contre le Pokémon) font perdre des PV à l'adversaire au lieu de les régénérer.
+Synchro;Synchronize;Lorsque le Pokémon subit un problème de statut d'un Pokémon, il inflige automatiquement le même problème de statut à ce dernier. Hors combat en tête d'équipe, 50% de chance de forcer l'apparition d'un Pokémon sauvage de la même nature que lui.
+Technicien;Technician;Augmente de 50% la puissance des capacités "faibles" (= dont la puissance de base est inférieure ou égale à 60).
+Télécharge;Download;Augmente l'Attaque ou l'Attaque Spéciale d'un niveau selon la Défense et la Défense Spéciale de l'adversaire.
+Téméraire;Reckless;Augmente la puissance des capacités à contrecoups de 20% (cela inclut les capacités comme Pied Voltige ou comme Damoclès).
+Tempo Perso;Own Tempo;Immunise contre la confusion.
+Tête de Roc;Rock Head;Protège le Pokémon des dégâts de recul de ses capacités à contrecoups comme Damoclès ou Martobois.
+Torche;Flash Fire;Immunise le Pokémon contre les capacités Feu. Augmente la puissance de ses propres capacités Feu de 50% s'il en encaisse une.
+Torrent;Torrent;Augmente la puissance des attaques Eau de 50% lorsque les PV du Pokémon sont inférieurs à 1/3 des PV max.
+Turbo;Speed Boost;La Vitesse du Pokémon augmente d'un niveau à la fin de chaque tour.
+Vaccin;Immunity;Immunise contre l'empoisonnement et l'empoisonnement grave.
+Ventouse;Suction Cups;Empêche le Pokémon d'être forcé de se retirer (Hurlement et Cyclone). Pas d'effet hors combat à cause d'un bug.
+Voile Sable;Sand Veil;Diminue la Précision des attaques qui le ciblent de 20 % par temps de tempête de sable. Protège aussi des dégâts de la tempête de sable si ce n'était pas le cas. Hors combat en tête d'équipe, diminue de 50% la probabilité de rencontrer des Pokémon sauvages par temps de tempête de sable.

@@ -1,0 +1,503 @@
+Index;Objet;Description officielle;Poche;Disponibilité Diamant Perle Platine Hearth Gold Soul Silver
+001;Master Ball;Assurément la Ball la plus performante. Elle permet de capturer à coup sûr un Pokémon sauvage.;2 Balls;✓
+002;Hyper Ball;Une Ball ultraperformante dont le taux de réussite est supérieur à celui de la Super Ball.;2 Balls;✓
+003;Super Ball;Une Ball très performante dont le taux de réussite est supérieur à celui de la Poké Ball.;2 Balls;✓
+004;Poké Ball;Un objet pareil à une capsule qui capture les Pokémon sauvages. Il suffit pour cela de le jeter comme une balle.;2 Balls;✓
+005;Safari Ball;Une Poké Ball spéciale dont l'usage est réservé au Parc Safari. Elle est décorée d'un motif camouflage.;2 Balls;La Safari Ball est utilisable dans le Grand Marais et le Parc Safari, mais n'est jamais contenue dans le sac du joueur ni dans ce contexte ni en dehors.
+006;Filet Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon Eau ou Insecte.;2 Balls;✓
+007;Scuba Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon sous-marins.;2 Balls;✓
+008;Faiblo Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon les plus faibles.;2 Balls;✓
+009;Bis Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les espèces de Pokémon déjà capturées.;2 Balls;✓
+010;Chrono Ball;Une Poké Ball un peu spéciale qui fonctionne de mieux en mieux à mesure que le combat s'éternise.;2 Balls;✓
+011;Luxe Ball;Une Poké Ball pratique qui permet de gagner rapidement l'amitié d'un Pokémon sauvage attrapé.;2 Balls;✓
+012;Honor Ball;Une Poké Ball assez rare qui fut créée pour un événement particulier.;2 Balls;✓
+013;Sombre Ball;Une Poké Ball efficace pour attraper les Pokémon de nuit ou dans des endroits sombres tels que les grottes.;2 Balls;✓
+014;Soin Ball;Une Poké Ball de soin qui rend tous les PV du Pokémon attrapé et qui soigne tous les changements de statut.;2 Balls;✓
+015;Rapide Ball;Une Poké Ball qui permet d'attraper un Pokémon sauvage plus facilement si on l'utilise au début du combat.;2 Balls;✓
+017;Potion;Un spray qui soigne les blessures. Restaure 20 PV à un Pokémon.;1 Médicaments;✓
+018;Antidote;Un médicament sous forme de spray. Guérit un Pokémon empoisonné.;1 Médicaments;✓
+019;Anti-Brûle;Un médicament sous forme de spray. Soigne les brûlures d'un Pokémon.;1 Médicaments;✓
+020;Antigel;Un médicament sous forme de spray. Réchauffe un Pokémon gelé.;1 Médicaments;✓
+021;Réveil;Un médicament sous forme de spray. Réveille un Pokémon endormi.;1 Médicaments;✓
+022;Anti-Para;Un médicament sous forme de spray. Soigne un Pokémon de la paralysie.;1 Médicaments;✓
+023;Guérison;Un médicament qui restaure tous les PV d'un Pokémon et soigne tous ses problèmes de statut.;1 Médicaments;✓
+024;Potion Max;Un spray qui soigne les blessures. Restaure tous les PV d'un Pokémon.;1 Médicaments;✓
+025;Hyper Potion;Un spray qui soigne les blessures. Restaure 200 PV à un Pokémon.;1 Médicaments;✓
+026;Super Potion;Un spray qui soigne les blessures. Restaure 50 PV à un Pokémon.;1 Médicaments;✓
+027;Total Soin;Un médicament sous forme de spray. Soigne tous les problèmes de statut d'un Pokémon.;1 Médicaments;✓
+028;Rappel;Un médicament qui ranime un Pokémon K.O. et restaure la moitié de ses PV max.;1 Médicaments;✓
+029;Rappel Max;Un médicament qui ranime un Pokémon K.O. et restaure tous ses PV.;1 Médicaments;✓
+030;Eau Fraîche;Une eau riche en minéraux. Restaure 50 PV à un Pokémon.;1 Médicaments;✓
+031;Soda Cool;Une boisson pétillante. Restaure 60 PV à un Pokémon.;1 Médicaments;✓
+032;Limonade;Une boisson très sucrée. Restaure 80 PV à un Pokémon.;1 Médicaments;✓
+033;Lait Meumeu;Un lait très nourrissant. Restaure 100 PV à un Pokémon.;1 Médicaments;✓
+034;Poudrénergie;Une poudre médicinale très amère. Restaure 50 PV à un Pokémon.;1 Médicaments;✓
+035;Racinénergie;Une racine très amère. Restaure 200 PV à un Pokémon.;1 Médicaments;✓
+036;Poudre Soin;Une poudre médicinale très amère. Soigne tous les problèmes de statut d'un Pokémon.;1 Médicaments;✓
+037;Herbe Rappel;Une herbe médicinale très amère. Ranime un Pokémon K.O. et restaure tous ses PV.;1 Médicaments;✓
+038;Huile;Restaure jusqu'à 10 PP d'une capacité sélectionnée.;1 Médicaments;✓
+039;Huile Max;Restaure tous les PP d'une capacité sélectionnée.;1 Médicaments;✓
+040;Élixir;Restaure 10 PP de toutes les capacités d'un Pokémon.;1 Médicaments;✓
+041;Max Élixir;Restaure tous les PP de toutes les capacités d'un Pokémon.;1 Médicaments;✓
+042;Lava Cookie;La spécialité de la ville de Vermilava. Soigne tous les problèmes de statut d'un Pokémon.;1 Médicaments;✓
+043;Jus de Baie;Une boisson 100% pur jus de Baies. Restaure 20 PV à un Pokémon.;1 Médicaments;✓
+044;Cendresacrée;Ranime tous les Pokémon K.O. et restaure tous leurs PV.;1 Médicaments;✓
+045;PV Plus;Une boisson très nutritive qui monte les PV d'un Pokémon.;1 Médicaments;✓
+046;Protéine;Une boisson très nutritive qui monte l'Attaque d'un Pokémon.;1 Médicaments;✓
+047;Fer;Une boisson très nutritive qui monte la Défense d'un Pokémon.;1 Médicaments;✓
+048;Carbone;Une boisson très nutritive qui monte la Vitesse d'un Pokémon.;1 Médicaments;✓
+049;Calcium;Une boisson très nutritive qui monte l'Atq. Spé. (Attaque Spéciale) d'un Pokémon.;1 Médicaments;✓
+050;Super Bonbon;Un bonbon plein d'énergie. Il permet à un Pokémon de gagner un niveau d'expérience.;1 Médicaments;✓
+051;PP Plus;Monte un peu les PP max. d'une capacité sélectionnée.;1 Médicaments;✓
+052;Zinc;Une boisson très nutritive qui monte la Déf. Spé. (Défense Spéciale) d'un Pokémon.;1 Médicaments;✓
+053;PP Max;Monte les PP d'une capacité à son maximum.;1 Médicaments;✓
+054;Vieux Gâteau;Spécialité du Vieux Château. Il soigne tous les problèmes de statut d'un Pokémon.;1 Médicaments;✓
+055;Défense Spéc;Empêche la réduction des stats de tous les Pokémon de l'équipe pendant 5 tours.;6 Objets Combat;✓
+056;Muscle +;Monte le taux de critiques pendant un combat. L'effet s'estompe si le Pokémon se retire.;6 Objets Combat;✓
+057;Attaque +;Monte l'Attaque pendant un combat. L'effet s'estompe si le Pokémon se retire.;6 Objets Combat;✓
+058;Défense +;Monte la Défense pendant un combat. L'effet s'estompe si le Pokémon se retire.;6 Objets Combat;✓
+059;Vitesse +;Monte la Vitesse pendant un combat. L'effet s'estompe si le Pokémon se retire.;6 Objets Combat;✓
+060;Précision +;Monte la précision d'un Pokémon pendant un combat. L'effet s'estompe si le Pokémon se retire.;6 Objets Combat;✓
+061;Spécial +;Monte l'Atq. Spé. pendant un combat. L'effet s'estompe si le Pokémon se retire.;6 Objets Combat;✓
+062;Déf. Spé. +;Monte la Déf. Spé. pendant un combat. L'effet s'estompe si le Pokémon se retire.;6 Objets Combat;✓
+063;Poképoupée;Poupée qui attire les Pokémon. Permet de s'enfuir d'un combat contre un Pokémon sauvage.;6 Objets Combat;✓
+064;Queue Skitty;Objet qui attire les Pokémon. Permet de s'enfuir d'un combat contre un Pokémon sauvage.;6 Objets Combat;✓
+065;Flûte Bleue;Une flûte en verre soufflé bleu dont les notes réveillent un Pokémon endormi.;6 Objets Combat;✓
+066;Flûte Jaune;Une flûte en verre soufflé jaune dont les notes sortent un Pokémon de sa confusion.;6 Objets Combat;✓
+067;Flûte Rouge;Une flûte en verre soufflé rouge dont les notes mettent fin à l'attirance.;6 Objets Combat;✓
+068;Flûte Noire;Une flûte en verre soufflé noir dont les notes aident à repousser les Pokémon sauvages.;0 Objets;✓
+069;Flûteblanche;Une flûte en verre soufflé blanc dont les notes attirent les Pokémon sauvages.;0 Objets;✓
+070;Sel Tréfonds;Sel pur provenant des profondeurs de la Grotte Tréfonds. Il est extrêmement salé.;0 Objets;✓
+071;Co. Tréfonds;Joli coquillage trouvé au fin fond de la Grotte Tréfonds. Il est orné de rayures bleues et blanches.;0 Objets;✓
+072;Tesson Rouge;Petit tesson rouge. Il semble provenir d'un outil très ancien.;0 Objets;✓
+073;Tesson Bleu;Petit tesson bleu. Il semble provenir d'un outil très ancien.;0 Objets;✓
+074;Tesson Jaune;Petit tesson jaune. Il semble provenir d'un outil très ancien.;0 Objets;✓
+075;Tesson Vert;Petit tesson vert. Il semble provenir d'un outil très ancien.;0 Objets;✓
+076;Superepousse;Repousse les Pokémon sauvages faibles pendant 200 pas.;0 Objets;✓
+077;Max Repousse;Repousse les Pokémon sauvages faibles pendant 250 pas.;0 Objets;✓
+078;Corde Sortie;Une corde longue et solide permettant de sortir rapidement d'une grotte ou d'un donjon.;0 Objets;✓
+079;Repousse;Repousse les Pokémon sauvages faibles pendant 100 pas.;0 Objets;✓
+080;Pierresoleil;Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est rouge comme le soleil.;0 Objets;✓
+081;Pierre Lune;Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est noire comme la nuit.;0 Objets;✓
+082;Pierre Feu;Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est jaune et orange.;0 Objets;✓
+083;Pierrefoudre;Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Un éclair est dessiné dessus.;0 Objets;✓
+084;Pierre Eau;Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est de couleur bleue.;0 Objets;✓
+085;Pierreplante;Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Une feuille est dessinée dessus.;0 Objets;✓
+086;Petit Champi;Un petit champignon plutôt rare. Il est plutôt populaire parmi certains fans dévoués.;0 Objets;✓
+087;Gros Champi;Un grand champignon plutôt rare. Il est très populaire parmi certains fans dévoués.;0 Objets;✓
+088;Perle;Une petite perle qui brille d'une jolie couleur argent. Peut être vendue à bas prix aux magasins.;0 Objets;✓
+089;Grande Perle;Une grande perle qui brille d'une jolie couleur argent. Peut être vendue à bon prix aux magasins.;0 Objets;✓
+090;Pouss.Étoile;Sable rouge ravissant, aux grains très fins. Peut être vendu à bon prix aux magasins.;0 Objets;✓
+091;Morc. Étoile;Fragment de gemme qui brille d'un éclat rouge. Peut se vendre à bon prix aux magasins.;0 Objets;✓
+092;Pépite;Pépite d'or pur qui brille magnifiquement. Peut être vendue à bon prix aux magasins.;0 Objets;✓
+093;Écaillecœur;Une jolie écaille en forme de cœur qui est très rare. Elle brille légèrement d'un éclat arc-en-ciel.;0 Objets;✓
+094;Miel;Un miel au parfum riche qui, utilisé dans l'herbe, une grotte ou sur des arbres spéciaux, attire les Pokémon sauvages.;0 Objets;✓
+095;Fertipousse;Un engrais utilisé sur sol meuble. Les Baies poussent plus vite, mais le sol s'assèche plus vite.;0 Objets;✓
+096;Fertihumide;Un engrais utilisé sur sol meuble. Les Baies poussent plus lentement, mais le sol s'assèche moins vite.;0 Objets;✓
+097;Fertistable;Un engrais utilisé sur sol meuble. Les Baies mûres tombent moins vite de la plante.;0 Objets;✓
+098;Fertiglu;Un engrais utilisé sur sol meuble. Augmente le nombre de nouveaux plants qui poussent quand la plante flétrit.;0 Objets;✓
+099;Foss. Racine;Fossile d'un ancien Pokémon aquatique. On dirait un morceau de racine de plante.;0 Objets;✓
+100;Foss. Griffe;Fossile d'un ancien Pokémon aquatique. On dirait un morceau de griffe.;0 Objets;✓
+101;Nautile;Fossile d'un ancien Pokémon aquatique. On dirait un morceau de coquillage.;0 Objets;✓
+102;Fossile Dôme;Fossile d'un ancien Pokémon aquatique. On dirait un morceau de carapace.;0 Objets;✓
+103;Vieil Ambre;Un morceau d'ambre contenant l'ADN d'un ancien Pokémon. Il est de couleur jaune.;0 Objets;✓
+104;Foss. Armure;Fossile d'un Pokémon préhistorique terrestre. On dirait une partie d'un collier.;0 Objets;✓
+105;Foss. Crâne;Fossile d'un Pokémon préhistorique terrestre. On dirait une partie d'un crâne.;0 Objets;✓
+106;Os Rare;Un os d'une grande valeur pour l'archéologie Pokémon. Peut être vendu à bon prix aux magasins.;0 Objets;✓
+107;Pierre Éclat;Pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle brille d'une lumière aveuglante.;0 Objets;✓
+108;Pierre Nuit;Pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est sombre comme une nuit sans lune.;0 Objets;✓
+109;Pierre Aube;Pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle brille comme un œil.;0 Objets;✓
+110;Pierre Ovale;Pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle a la forme d'un œuf.;0 Objets;✓
+111;Clé de Voûte;Objet très important qui empêche une tour en pierre de s'écrouler. Des bruits de voix en sortent parfois.;0 Objets;✓
+112;Orbe Platiné(??? dans Pokémon Diamant et Perle.);Mystérieux objet destiné à GIRATINA. Améliore les capacités de type Dragon ou Spectre.;0 Objets;✓
+135;Orbe Adamant;Orbe très brillant destiné à DIALGA. Augmente la puissance des capacités de type Dragon ou Acier.;0 Objets;✓
+136;Orbe Perlé;Bel orbe luisant destiné à PALKIA. Augmente la puissance des capacités de type Dragon ou Eau.;0 Objets;✓
+137;Lettre Herbe;Un papier à lettres représentant un champ d'herbe luxuriante. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+138;Lettre Feu;Un papier à lettres orné de flammes d'un rouge flamboyant. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+139;Lettre Mer;Un papier à lettres représentant le bleu du monde sous-marin. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+140;Lett. Pétale;Un papier à lettres orné de ravissants motifs floraux. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+141;Lettre Mine;Un papier à lettres représentant une mine de charbon peu éclairée. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+142;Lettre Acier;Un papier à lettres orné de motifs mécaniques assez froids. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+143;Lettre Cœur;Un papier à lettres orné de cœurs gigantesques. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+144;Lettre Neige;Un papier à lettres représentant un monde gelé, recouvert de neige. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+145;Lettre Cosmo;Un papier à lettres représentant le vide interstellaire. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+146;Lettre Avion;Un papier à lettres orné de lignes colorées. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+148;Lettre Brik;Un papier à lettres orné de briques qui ont vraiment l'air solides. Peut être tenu et livré par un Pokémon.;5 Lettres;✓
+149;Baie Ceriz;Utilisée ou tenue, cette Baie soigne la paralysie.;4 Baies;✓
+150;Baie Maron;Utilisée ou tenue, cette Baie réveille les Pokémon endormis.;4 Baies;✓
+151;Baie Pêcha;Utilisée ou tenue, cette Baie soigne du poison.;4 Baies;✓
+152;Baie Fraive;Utilisée ou tenue, cette Baie soigne une brûlure.;4 Baies;✓
+153;Baie Willia;Utilisée ou tenue, cette Baie dégèle les Pokémon.;4 Baies;✓
+154;Baie Mepo;Utilisée ou tenue, cette Baie restaure 10 PP d'une capacité.;4 Baies;✓
+155;Baie Oran;Utilisée ou tenue, cette Baie restaure 10 PV au Pokémon.;4 Baies;✓
+156;Baie Kika;Utilisée ou tenue, cette Baie soigne la confusion.;4 Baies;✓
+157;Baie Prine;Utilisée ou tenue, cette Baie soigne tous les problèmes de statut.;4 Baies;✓
+158;Baie Sitrus;Utilisée ou tenue, cette Baie restaure quelques PV au Pokémon.;4 Baies;✓
+159;Baie Figuy;Tenue, cette Baie restaure des PV en cas de besoin, mais elle rend confus si le Pokémon n'aime pas le goût épicé.;4 Baies;✓
+160;Baie Wiki;Tenue, cette Baie restaure des PV en cas de besoin, mais elle rend confus si le Pokémon n'aime pas le goût sec.;4 Baies;✓
+161;Baie Mago;Tenue, cette Baie restaure des PV en cas de besoin, mais elle rend confus si le Pokémon n'aime pas le goût sucré.;4 Baies;✓
+162;Baie Gowav;Tenue, cette Baie restaure des PV en cas de besoin, mais elle rend confus si le Pokémon n'aime pas le goût amer.;4 Baies;✓
+163;Baie Papaya;Tenue, cette Baie restaure des PV en cas de besoin, mais elle rend confus si le Pokémon n'aime pas le goût acide.;4 Baies;✓
+164;Baie Framby;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+165;Baie Remu;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+166;Baie Nanab;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+167;Baie Repoi;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+168;Baie Nanana;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+169;Baie Grena;Rend les Pokémon plus amicaux, mais baisse leurs PV de base.;4 Baies;✓
+170;Baie Alga;Rend les Pokémon plus amicaux, mais baisse leur stat Attaque de base.;4 Baies;✓
+171;Baie Qualot;Rend les Pokémon plus amicaux, mais baisse leur stat Défense de base.;4 Baies;✓
+172;Baie Lonme;Rend les Pokémon plus amicaux, mais baisse leur stat Atq. Spé. de base.;4 Baies;✓
+173;Baie Résin;Rend les Pokémon plus amicaux, mais baisse leur stat Déf. Spé. de base.;4 Baies;✓
+174;Baie Tamato;Rend les Pokémon plus amicaux, mais baisse leur stat Vitesse de base.;4 Baies;✓
+175;Baie Siam;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+176;Baie Mangou;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+177;Baie Rabuta;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+178;Baie Tronci;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+179;Baie Kiwan;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+180;Baie Palma;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+181;Baie Stekpa;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+182;Baie Durin;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+183;Baie Myrte;Un ingrédient pour Poffins, spécialités de la région de Sinnoh destinées aux Pokémon.;4 Baies;✓
+184;Baie Chocco;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Feu.;4 Baies;✓
+185;Baie Pocpoc;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Eau.;4 Baies;✓
+186;Baie Parma;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Electrik.;4 Baies;✓
+187;Baie Ratam;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Plante.;4 Baies;✓
+188;Baie Nanone;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Glace.;4 Baies;✓
+189;Baie Pomroz;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Combat.;4 Baies;✓
+190;Baie Kébia;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Poison.;4 Baies;✓
+191;Baie Jouca;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Sol.;4 Baies;✓
+192;Baie Cobaba;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Vol.;4 Baies;✓
+193;Baie Yapap;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Psy.;4 Baies;✓
+194;Baie Panga;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Insecte.;4 Baies;✓
+195;Baie Charti;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Roche.;4 Baies;✓
+196;Baie Sédra;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Spectre.;4 Baies;✓
+197;Baie Fraigo;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Dragon.;4 Baies;✓
+198;Baie Lampou;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Ténèbres.;4 Baies;✓
+199;Baie Babiri;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Acier.;4 Baies;✓
+200;Baie Zalis;Tenue, cette Baie affaiblit une attaque ennemie super efficace de type Normal.;4 Baies;✓
+201;Baie Lichii;Tenue, cette Baie monte l'Attaque en cas de besoin.;4 Baies;✓
+202;Baie Lingan;Tenue, cette Baie monte la Défense en cas de besoin.;4 Baies;✓
+203;Baie Sailak;Tenue, cette Baie monte la Vitesse en cas de besoin.;4 Baies;✓
+204;Baie Pitaye;Tenue, cette Baie monte l'Atq. Spé. en cas de besoin.;4 Baies;✓
+205;Baie Abriko;Tenue, cette Baie monte la Déf. Spé. en cas de besoin.;4 Baies;✓
+206;Baie Lansat;Tenue, cette Baie monte le taux de critiques en cas de besoin.;4 Baies;✓
+207;Baie Frista;Tenue, cette Baie monte beaucoup une des stats en cas de besoin.;4 Baies;✓
+208;Baie Enigma;Tenue, cette Baie augmente les PV du Pokémon s'il subit une attaque super efficace.;4 Baies;✓
+209;Baie Micle;Tenue, cette Baie augmente une fois la précision d'une capacité en cas de besoin.;4 Baies;✓
+210;Baie Chérim;Tenue, cette Baie permet d'attaquer en premier une fois en cas de besoin.;4 Baies;✓
+211;Baie Jaboca;Tenue, cette Baie fait subir des dommages au lanceur d'une attaque physique qui a atteint son but.;4 Baies;✓
+212;Baie Pommo;Tenue, cette Baie fait subir des dommages au lanceur d'une attaque spéciale qui a atteint son but.;4 Baies;✓
+213;Poudreclaire;Objet à tenir qui intimide et baisse la précision de l'ennemi.;0 Objets;✓
+214;Herbeblanche;Objet à tenir qui restaure les stats baissées. Ne peut être utilisé qu'une fois.;0 Objets;✓
+215;Brac. Macho;Objet à tenir. C'est un bracelet dur et lourd qui favorise la croissance, mais baisse la Vitesse.;0 Objets;✓
+216;Multi Exp;Objet à tenir. Le porteur reçoit une partie des points Exp. du combat sans avoir à combattre.;0 Objets;✓
+217;Vive Griffe;Objet à tenir. Griffe légère mais tranchante qui permet parfois de frapper le premier.;0 Objets;✓
+218;Grelot Zen;Objet à tenir. Grelot dont le carillon calme le porteur et favorise l'amitié.;0 Objets;✓
+219;Herbe Mental;Objet à tenir qui annule l'attirance d'un Pokémon. Ne peut être utilisé qu'une fois.;0 Objets;✓
+220;Band. Choix;Objet à tenir. Ce bandeau monte l'Attaque, mais ne permet d'utiliser qu'une sorte de capacité.;0 Objets;✓
+221;Roche Royale;Objet à tenir. Peut apeurer l'ennemi lorsque le porteur lui inflige des dégâts.;0 Objets;✓
+222;Poudre Arg.;Objet à tenir. Poudre d'argent brillante qui monte la puissance des capacités de type Insecte.;0 Objets;✓
+223;Pièce Rune;Objet à tenir. Double l'argent gagné si le porteur se joint au combat.;0 Objets;✓
+224;Rune Purif.;Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe.;0 Objets;✓
+225;Rosée Âme;Orbe prodigieux à faire tenir à LATIOS ou LATIAS qui monte leur Atq. Spé. et leur Déf. Spé.;0 Objets;✓
+226;Dent Océan;Objet à faire tenir à COQUIPERL. Dent de couleur argent montant son Atq. Spé.;0 Objets;✓
+227;Écailleocéan;Objet à faire tenir à COQUIPERL. Ecaille de couleur rose montant sa Déf. Spé.;0 Objets;✓
+228;Boule Fumée;Objet à tenir. Permet au porteur de s'enfuir à coup sûr face à un Pokémon sauvage.;0 Objets;✓
+229;Pierre Stase;Objet à tenir. Pierre merveilleuse empêchant l'évolution.;0 Objets;✓
+230;Bandeau;Objet à tenir pouvant parfois empêcher d'être mis K.O., ne laissant qu'un PV.;0 Objets;✓
+231;Œuf Chance;Objet à tenir. Oeuf rempli de joie qui augmente le nombre de points Exp. gagnés au combat.;0 Objets;✓
+232;Lentilscope;Objet à tenir. Lentille qui monte le taux de critiques du porteur.;0 Objets;✓
+233;Peau Métal;Objet à tenir. Pellicule métallique spéciale qui monte la puissance des capacités de type Acier.;0 Objets;✓
+234;Restes;Objet à tenir permettant de restaurer les PV du porteur graduellement durant le combat.;0 Objets;✓
+235;Écailledraco;Une écaille épaisse et dure tenue parfois par les Pokémon de type Dragon quand ils sont attrapés.;0 Objets;✓
+236;Ballelumière;Objet à faire tenir par PIKACHU. Orbe énigmatique qui monte son Attaque et son Atq. Spé.;0 Objets;✓
+237;Sable Doux;Objet à tenir. Sable fin et soyeux montant la puissance des capacités de type Sol.;0 Objets;✓
+238;Pierre Dure;Objet à tenir. Pierre incassable qui monte la puissance des capacités de type Roche.;0 Objets;✓
+239;Grain Miracl;Objet à tenir. Graine remplie de vie qui monte la puissance des capacités de type Plante.;0 Objets;✓
+240;Lunet.Noires;Objet à tenir. Paire de lunettes à l'aspect louche qui monte la puissance des capacités de type Ténèbres.;0 Objets;✓
+241;Ceint.Noire;Objet à tenir. Ceinture qui augmente la détermination et la puissance des capacités de type Combat.;0 Objets;✓
+242;Aimant;Objet à tenir. Aimant puissant montant la puissance des capacités de type Electrik.;0 Objets;✓
+243;Eau Mystique;Objet à tenir. Gemme en forme de goutte d'eau montant la puissance des capacités de type Eau.;0 Objets;✓
+244;Bec Pointu;Objet à tenir. Bec long et pointu montant la puissance des capacités de type Vol.;0 Objets;✓
+245;Pic Venin;Objet à tenir. Petit pic empoisonné montant la puissance des capacités de type Poison.;0 Objets;✓
+246;Glacéternel;Objet à tenir. Morceau de glace qui réfléchit la chaleur et monte la puissance des capacités de type Glace.;0 Objets;✓
+247;Rune Sort;Objet à tenir. Plaque sinistre et étrange montant la puissance des capacités de type Spectre.;0 Objets;✓
+248;Cuillertordu;Objet à tenir. Cuillère contenant un pouvoir télékinésique montant la puissance des capacités de type Psy.;0 Objets;✓
+249;Charbon;Objet à tenir. Combustible montant la puissance des capacités de type Feu.;0 Objets;✓
+250;Croc Dragon;Objet à tenir. Croc dur et pointu montant la puissance des capacités de type Dragon.;0 Objets;✓
+251;Mouch. Soie;Objet à tenir. Mouchoir somptueux montant la puissance des capacités de type Normal.;0 Objets;✓
+252;Améliorator;Dispositif transparent rempli de données diverses et variées. Fabriqué par la Sylphe SARL.;0 Objets;✓
+253;Grelot Coque;Objet à tenir. Restaure un peu les PV du porteur à chaque fois qu'il inflige des dégâts.;0 Objets;✓
+254;Encens Mer;Objet à tenir. Encens au parfum curieux qui augmente la puissance des capacités de type Eau.;0 Objets;✓
+255;Encens Doux;Objet à tenir. Le parfum trompeur de cet encens baisse la précision de l'ennemi.;0 Objets;✓
+256;Poing Chance;Objet à faire tenir à LEVEINARD. Paire de gants montant son taux de critiques.;0 Objets;✓
+257;Poudre Métal;Objet à faire tenir à METAMORPH. Cette poudre étrange, très fine mais résistante, booste sa Défense.;0 Objets;✓
+258;Masse Os;Objet à faire tenir à OSSELAIT et OSSATUEUR. Os dur qui monte leur Attaque.;0 Objets;✓
+259;Bâton;Objet à faire tenir à CANARTICHO. Poireau très long et solide qui monte son taux de critiques.;0 Objets;✓
+260;Foul. Rouge;Objet à tenir. Augmente le "Sang-froid" dans les Concours de la région de Sinnoh.;0 Objets;✓
+261;Foul. Bleu;Objet à tenir. Augmente la "Beauté" dans les Concours de la région de Sinnoh.;0 Objets;✓
+262;Foul. Rose;Objet à tenir. Augmente la "Grâce" dans les Concours de la région de Sinnoh.;0 Objets;✓
+263;Foul. Vert;Objet à tenir. Augmente l'"Intelligence" dans les Concours de la région de Sinnoh.;0 Objets;✓
+264;Foul. Jaune;Objet à tenir. Augmente la "Robustesse" dans les Concours de la région de Sinnoh.;0 Objets;✓
+265;Loupe;Objet à tenir. Magnifique loupe augmentant un peu la précision des capacités.;0 Objets;✓
+266;Band. Muscle;Objet à tenir. Bandeau augmentant légèrement la puissance des attaques physiques.;0 Objets;✓
+267;Lunet. Sages;Objet à tenir. Paire de lunettes épaisses augmentant un peu la puissance des attaques spéciales.;0 Objets;✓
+268;Ceinture Pro;Objet à tenir. Ceinture usée augmentant légèrement la puissance des capacités super efficaces.;0 Objets;✓
+269;Lumargile;Objet à tenir augmentant la durée de capacités barrières telles que Mur Lumière et Protection.;0 Objets;✓
+270;Orbe Vie;Objet à tenir augmentant la puissance des capacités, mais qui dépense des PV à chaque coup.;0 Objets;✓
+271;Herbe Pouv.;Objet à tenir et à usage unique. Permet d'utiliser immédiatement une capacité qui devrait se charger au premier tour.;0 Objets;✓
+272;Orbe Toxique;Objet à tenir. Orbe bizarre empoisonnant gravement son porteur durant le combat.;0 Objets;✓
+273;Orbe Flamme;Objet à tenir. Orbe bizarre brûlant son porteur durant le combat.;0 Objets;✓
+274;Poudre Vite;Objet à faire tenir à METAMORPH. Cette poudre étrange, très fine mais résistante, augmente sa Vitesse.;0 Objets;✓
+275;Ceint. Force;Objet à tenir permettant au porteur, s'il a ses PV pleins, d'éviter un potentiel K.O. en conservant un PV.;0 Objets;✓
+276;Lentil. Zoom;Objet à tenir. Augmente la précision du porteur s'il attaque après l'ennemi.;0 Objets;✓
+277;Métronome;Objet à tenir boostant une capacité utilisée à répétition. L'effet s'annule si une autre capacité est utilisée.;0 Objets;✓
+278;Balle Fer;Objet à tenir réduisant la Vitesse. Rend les porteurs de type Vol et lévitant sensibles aux capacités de type Sol.;0 Objets;✓
+279;Ralentiqueue;Objet à tenir extrêmement lourd qui ralentit le porteur.;0 Objets;✓
+280;Nœud Destin;Un long fil rouge vif à faire tenir à un Pokémon. Si le porteur succombe à l'attirance, l'ennemi aussi.;0 Objets;✓
+281;Boue Noire;Objet à tenir restaurant peu à peu les PV des Pokémon de type Poison. Inflige des dégâts à tous les autres types.;0 Objets;✓
+282;Roche Glace;Objet à tenir augmentant la durée de la capacité Grêle utilisée par le porteur.;0 Objets;✓
+283;Roche Lisse;Objet à tenir augmentant la durée de la capacité Tempêtesable utilisée par le porteur.;0 Objets;✓
+284;Roche Chaude;Objet à tenir augmentant la durée de la capacité Zénith utilisée par le porteur.;0 Objets;✓
+285;Roche Humide;Objet à tenir augmentant la durée de la capacité Danse Pluie utilisée par le porteur.;0 Objets;✓
+286;Accro Griffe;Objet à tenir augmentant la durée des attaques à tours multiples telles que Etreinte et Ligotage.;0 Objets;✓
+287;Mouch. Choix;Objet à tenir augmentant la Vitesse, mais ne permettant l'utilisation que d'une sorte de capacité.;0 Objets;✓
+288;Piquants;Objet à tenir blessant le porteur à chaque tour. Peut s'accrocher aux ennemis qui attaquent le porteur.;0 Objets;✓
+289;Poign. Pouv.;Objet à tenir augmentant l'Attaque lors des montées de niveau, mais réduisant la stat Vitesse.;0 Objets;✓
+290;Ceint. Pouv.;Objet à tenir augmentant la Défense lors des montées de niveau, mais réduisant la stat Vitesse.;0 Objets;✓
+291;Lent. Pouv.;Objet à tenir augmentant l'Atq. Spé. lors des montées de niveau, mais réduisant la stat Vitesse.;0 Objets;✓
+292;Band. Pouv.;Objet à tenir augmentant la Déf. Spé. lors des montées de niveau, mais réduisant la stat Vitesse.;0 Objets;✓
+293;Chaîne Pouv.;Objet à tenir augmentant la Vitesse lors des montées de niveau mais réduisant la stat Vitesse pendant le combat.;0 Objets;✓
+294;Poids Pouv.;Objet à tenir augmentant les PV lors des montées de niveau mais réduisant la stat Vitesse.;0 Objets;✓
+295;Carapace Mue;Carapace dure pouvant être tenue. Permet au porteur de changer de place avec un autre Pokémon lors de combats.;0 Objets;✓
+296;Grosseracine;Objet à tenir augmentant la puissance des attaques volant des PV.;0 Objets;✓
+297;Lunet. Choix;Objet à tenir augmentant l'Atq. Spé., mais ne permettant d'utiliser qu'une sorte de capacité.;0 Objets;✓
+298;Plaque Flam;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Feu.;0 Objets;✓
+299;Plaque Hydro;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Eau.;0 Objets;✓
+300;Plaque Volt;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Electrik.;0 Objets;✓
+301;Plaque Herbe;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Plante.;0 Objets;✓
+302;Plaque Glace;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Glace.;0 Objets;✓
+303;Plaque Poing;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Combat.;0 Objets;✓
+304;Plaque Toxic;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Poison.;0 Objets;✓
+305;Plaque Terre;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Sol.;0 Objets;✓
+306;Plaque Ciel;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Vol.;0 Objets;✓
+307;Plaquesprit;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Psy.;0 Objets;✓
+308;Plaquinsect;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Insecte.;0 Objets;✓
+309;Plaque Roc;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Roche.;0 Objets;✓
+310;Plaque Fantô;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Spectre.;0 Objets;✓
+311;Plaque Draco;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Dragon.;0 Objets;✓
+312;Plaque Ombre;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Ténèbres.;0 Objets;✓
+313;Plaque Fer;Objet à tenir. Tablette en pierre augmentant la puissance des capacités de type Acier.;0 Objets;✓
+314;Bizar.Encens;Objet à tenir. Encens au parfum exotique augmentant la puissance des attaques de type Psy.;0 Objets;✓
+315;Encens Roc;Objet à tenir. Encens au parfum exotique augmentant la puissance des attaques de type Roche.;0 Objets;✓
+316;Encens Plein;Objet à tenir. Encens au parfum exotique gonflant son porteur et le faisant se déplacer lentement.;0 Objets;✓
+317;Encens Vague;Objet à tenir. Encens au parfum exotique augmentant la puissance des capacités de type Eau.;0 Objets;✓
+318;Encens Fleur;Objet à tenir. Encens au parfum exotique augmentant la puissance des capacités de type Plante.;0 Objets;✓
+319;Encens Veine;Objet à tenir doublant l'argent gagné si le porteur se joint au combat.;0 Objets;✓
+320;Encens Pur;Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe.;0 Objets;✓
+321;Protecteur;Objet protecteur très dur et très lourd, apprécié d'un certain Pokémon.;0 Objets;✓
+322;Électiriseur;Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon.;0 Objets;✓
+323;Magmariseur;Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon.;0 Objets;✓
+324;CD Douteux;Appareil transparent rempli de données douteuses. Son fabricant n'est pas connu.;0 Objets;✓
+325;Tissu Fauche;Un tissu imprégné d'une énergie spirituelle horriblement puissante. Apprécié d'un certain Pokémon.;0 Objets;✓
+326;Grif. Rasoir;Objet à tenir. Griffe crochue et pointue augmentant le taux de critiques.;0 Objets;✓
+327;Croc Rasoir;Objet à tenir pouvant apeurer l'ennemi quand le porteur inflige des dégâts.;0 Objets;✓
+328;CT01 (Mitra-Poing);Le lanceur se concentre avant d'attaquer. Echoue s'il est touché avant d'avoir frappé.;3 CT & CS;✓
+329;CT02 (Dracogriffe);Le lanceur lacère l'ennemi de ses grandes griffes aiguisées.;3 CT & CS;✓
+330;CT03 (Vibraqua);Le lanceur envoie de puissants jets d'eau. Cela peut rendre l'ennemi confus.;3 CT & CS;✓
+331;CT04 (Plénitude);Le lanceur se concentre et fait le vide dans son esprit pour monter son Atq. Spé. et sa Déf. Spé.;3 CT & CS;✓
+332;CT05 (Hurlement);Effraie le Pokémon ennemi et le remplace par un autre. Dans la nature, met fin au combat.;3 CT & CS;✓
+333;CT06 (Toxik);Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour.;3 CT & CS;✓
+334;CT07 (Grêle);Invoque une tempête de grêle qui dure 5 tours. Ne blesse pas les Pokémon de type Glace.;3 CT & CS;✓
+335;CT08 (Gonflette);Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense.;3 CT & CS;✓
+336;CT09 (Balle Graine);Le lanceur mitraille l'ennemi avec une rafale de graines. De 2 à 5 rafales sont lancées à la suite.;3 CT & CS;✓
+337;CT10 (Puis. Cachée);La puissance et le type de la capacité dépendent de l'aptitude cachée du lanceur.;3 CT & CS;✓
+338;CT11 (Zénith);Fait briller le soleil pendant 5 tours et améliore les capacités de type Feu.;3 CT & CS;✓
+339;CT12 (Provoc);Provoque l'ennemi. L'oblige à n'utiliser que des attaques pendant 2 à 4 tours.;3 CT & CS;✓
+340;CT13 (Laser Glace);Un rayon de glace frappe l'ennemi. Peut aussi le geler.;3 CT & CS;✓
+341;CT14 (Blizzard);Une violente tempête de neige est déclenchée sur l'ennemi. Peut aussi le geler.;3 CT & CS;✓
+342;CT15 (Ultralaser);Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant.;3 CT & CS;✓
+343;CT16 (Mur Lumière);Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques spéciales durant 5 tours.;3 CT & CS;✓
+344;CT17 (Abri);Le lanceur esquive toutes les attaques. Plus la capacité est utilisée de fois à la suite, plus elle risque d'échouer.;3 CT & CS;✓
+345;CT18 (Danse Pluie);Invoque de fortes pluies qui durent 5 tours et améliorent les capacités de type Eau.;3 CT & CS;✓
+346;CT19 (Giga-Sangsue);Une attaque qui convertit la moitié des dégâts infligés en PV.;3 CT & CS;✓
+347;CT20 (Rune Protect);Champ protecteur empêchant les problèmes de statut comme poison, paralysie, brûlure et sommeil.;3 CT & CS;✓
+348;CT21 (Frustration);Moins le Pokémon aime son Dresseur, plus cette attaque est puissante.;3 CT & CS;✓
+349;CT22 (Lance-Soleil);Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant.;3 CT & CS;✓
+350;CT23 (Queue de Fer);Attaque l'ennemi avec une queue de fer. Peut aussi baisser la Défense de l'ennemi.;3 CT & CS;✓
+351;CT24 (Tonnerre);Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser.;3 CT & CS;✓
+352;CT25 (Fatal-Foudre);La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.;3 CT & CS;✓
+353;CT26 (Séisme);Le lanceur provoque un tremblement de terre touchant tous les autres Pokémon au combat.;3 CT & CS;✓
+354;CT27 (Retour);Une attaque furieuse dont la puissance augmente quand le Pokémon apprécie son Dresseur.;3 CT & CS;✓
+355;CT28 (Tunnel);Le lanceur creuse au 1ᵉʳ tour et frappe au 2ᵉ. Permet aussi de s'échapper d'un donjon.;3 CT & CS;✓
+356;CT29 (Psyko);Une puissante force télékinésique frappe l'ennemi. Peut aussi faire baisser sa Déf. Spé.;3 CT & CS;✓
+357;CT30 (Ball'Ombre);Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Déf. Spé.;3 CT & CS;✓
+358;CT31 (Casse-Brique);Une attaque avec la main ou autre. Peut briser les barrières comme Mur Lumière et Protection.;3 CT & CS;✓
+359;CT32 (Reflet);Le lanceur se déplace si vite qu'il crée des copies illusoires de lui, augmentant son esquive.;3 CT & CS;✓
+360;CT33 (Protection);Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques physiques durant 5 tours.;3 CT & CS;✓
+361;CT34 (Onde de Choc);Le lanceur envoie un choc électrique rapide à l'ennemi. Impossible à esquiver.;3 CT & CS;✓
+362;CT35 (Lance-Flamme);L'ennemi reçoit un torrent de flammes. Peut aussi le brûler.;3 CT & CS;✓
+363;CT36 (Bomb-Beurk);Envoie des détritus sur l'ennemi. Peut aussi l'empoisonner.;3 CT & CS;✓
+364;CT37 (Tempêtesable);Une tempête de sable de 5 tours qui blesse tous les Pokémon sauf les types Roche, Sol et Acier.;3 CT & CS;✓
+365;CT38 (Déflagration);Un déluge de flammes ardentes submerge l'ennemi. Peut le brûler.;3 CT & CS;✓
+366;CT39 (Tomberoche);Des rochers frappent l'ennemi. Réduit aussi sa Vitesse en l'empêchant de se déplacer.;3 CT & CS;✓
+367;CT40 (Aéropique);Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais.;3 CT & CS;✓
+368;CT41 (Tourmente);Le lanceur irrite l'ennemi pour l'empêcher d'utiliser la même capacité 2 fois de suite.;3 CT & CS;✓
+369;CT42 (Façade);Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé.;3 CT & CS;✓
+370;CT43 (Force Cachée);Les effets de cette attaque varient en fonction de l'environnement.;3 CT & CS;✓
+371;CT44 (Repos);Le lanceur dort pendant 2 tours. Il regagne tous ses PV et n'a plus de problèmes de statut.;3 CT & CS;✓
+372;CT45 (Attraction);Si l'ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer.;3 CT & CS;✓
+373;CT46 (Larcin);Le lanceur attaque l'ennemi et vole son objet. Le lanceur ne peut rien voler s'il tient déjà un objet.;3 CT & CS;✓
+374;CT47 (Aile d'Acier);Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur.;3 CT & CS;✓
+375;CT48 (Échange);Le lanceur utilise ses pouvoirs psychiques pour échanger sa capacité spéciale avec l'ennemi.;3 CT & CS;✓
+376;CT49 (Saisie);Le lanceur vole l'effet des capacités de soin ou de changement de stats utilisées par l'ennemi.;3 CT & CS;✓
+377;CT50 (Surchauffe);Attaque l'ennemi à pleine puissance. Le contrecoup baisse énormément l'Atq. Spé. du lanceur.;3 CT & CS;✓
+378;CT51 (Atterrissage);Le lanceur atterrit et se repose. Restaure jusqu'à la moitié de ses PV maximum.;3 CT & CS;✓
+379;CT52 (Exploforce);Le lanceur rassemble ses forces et laisse éclater son pouvoir. Peut aussi baisser la Déf. Spé. de l'ennemi.;3 CT & CS;✓
+380;CT53 (Éco-Sphère);Utilise les pouvoirs de la nature pour attaquer l'ennemi. Peut aussi baisser la Déf. Spé. de l'ennemi.;3 CT & CS;✓
+381;CT54 (Faux-Chage);Le lanceur retient ses coups pour que l'ennemi garde au moins 1 PV et ne tombe pas K.O.;3 CT & CS;✓
+382;CT55 (Saumure);Cette attaque est deux fois plus puissante lorsque l'ennemi a moins de la moitié de ses PV.;3 CT & CS;✓
+383;CT56 (Dégommage);Le lanceur envoie l'objet qu'il tient sur l'ennemi. La puissance et les effets dépendent de l'objet.;3 CT & CS;✓
+384;CT57 (Rayon Chargé);Le lanceur tire un rayon chargé d'électricité. Peut aussi augmenter son Atq. Spé.;3 CT & CS;✓
+385;CT58 (Ténacité);Le lanceur résiste aux attaques avec 1 PV. Peut échouer si utilisé plusieurs fois de suite.;3 CT & CS;✓
+386;CT59 (Dracochoc);Le lanceur ouvre la bouche pour envoyer une onde de choc qui frappe l'ennemi.;3 CT & CS;✓
+387;CT60 (Vampipoing);Un coup de poing qui draine l'énergie. Convertit la moitié des dégâts infligés en PV pour le lanceur.;3 CT & CS;✓
+388;CT61 (Feu Follet);Lance une sinistre flamme violette à l'ennemi pour lui infliger une brûlure.;3 CT & CS;✓
+389;CT62 (Vent Argenté);Vent qui projette des écailles poudreuses sur l'ennemi. Peut aussi monter toutes les stats du lanceur.;3 CT & CS;✓
+390;CT63 (Embargo);Empêche l'ennemi d'utiliser un objet tenu et son Dresseur d'utiliser un objet sur lui.;3 CT & CS;✓
+391;CT64 (Explosion);Le lanceur explose et inflige des dégâts à tous les autres Pokémon au combat. Met K.O. le lanceur.;3 CT & CS;✓
+392;CT65 (Griffe Ombre);Attaque avec une griffe puissante faite d'ombres. Taux de critiques élevé.;3 CT & CS;✓
+393;CT66 (Représailles);Le lanceur charge son énergie, puis attaque. La puissance est doublée si cela suit une capacité ennemie.;3 CT & CS;✓
+394;CT67 (Recyclage);Recycle un objet à usage unique déjà utilisé lors du combat pour pouvoir l'utiliser à nouveau.;3 CT & CS;✓
+395;CT68 (Giga Impact);Le lanceur charge l'ennemi de toute sa puissance. Il doit ensuite se reposer au tour suivant.;3 CT & CS;✓
+396;CT69 (Poliroche);Le lanceur polit son corps pour diminuer sa résistance au vent. Peut augmenter fortement la Vitesse.;3 CT & CS;✓
+397;CT70 (Flash);Explosion lumineuse qui fait baisser la précision de l'ennemi. Permet aussi d'éclairer les grottes.;3 CT & CS;✓
+398;CT71 (Lame de Roc);Fait surgir des pierres aiguisées sous l'ennemi. Taux de critiques élevé.;3 CT & CS;✓
+399;CT72 (Avalanche);Une attaque deux fois plus puissante si le lanceur a été blessé par l'ennemi durant le tour.;3 CT & CS;✓
+400;CT73 (Cage-Éclair);Un faible choc électrique frappe l'ennemi. Si l'attaque touche, l'ennemi est paralysé.;3 CT & CS;✓
+401;CT74 (Gyroballe);Le lanceur effectue une rotation et frappe l'ennemi. Plus le lanceur est lent, plus il fait de dégâts.;3 CT & CS;✓
+402;CT75 (Danse-Lames);Danse frénétique qui exalte l'esprit combatif. Augmente considérablement l'Attaque du lanceur.;3 CT & CS;✓
+403;CT76 (Piège de Roc);Lance des pierres flottantes autour de l'ennemi, qui blessent tout ennemi entrant au combat.;3 CT & CS;✓
+404;CT77 (Boost);Une autohypnose qui permet au lanceur de copier les changements de stats de l'ennemi.;3 CT & CS;✓
+405;CT78 (Séduction);Si l'ennemi est de sexe opposé au lanceur, il est séduit et sa stat Atq. Spé. baisse fortement.;3 CT & CS;✓
+406;CT79 (Vibrobscur);Le lanceur dégage une horrible aura chargée d'idées noires. Peut aussi apeurer l'ennemi.;3 CT & CS;✓
+407;CT80 (Éboulement);Envoie de gros rochers sur l'ennemi pour infliger des dégâts. Peut l'apeurer.;3 CT & CS;✓
+408;CT81 (Plaie-Croix);Le lanceur taillade l'ennemi en utilisant ses faux ou ses griffes comme une paire de ciseaux.;3 CT & CS;✓
+409;CT82 (Blabla Dodo);Le lanceur utilise un coup au hasard en dormant.;3 CT & CS;✓
+410;CT83 (Don Naturel);Avant d'attaquer, le lanceur rassemble ses forces grâce à sa Baie. Elle détermine le type et la puissance.;3 CT & CS;✓
+411;CT84 (Direct Toxik);Attaque l'ennemi avec un tentacule ou un bras plein de poison. Peut aussi l'empoisonner.;3 CT & CS;✓
+412;CT85 (Dévorêve);Attaque réservée aux ennemis endormis. Le lanceur récupère en PV la moitié des dégâts infligés.;3 CT & CS;✓
+413;CT86 (Nœud Herbe);L'ennemi est piégé dans de l'herbe qui le fait trébucher. Plus il est lourd, plus il y a de dégâts.;3 CT & CS;✓
+414;CT87 (Vantardise);Fait enrager l'ennemi et le plonge dans la confusion, mais augmente fortement son Attaque.;3 CT & CS;✓
+415;CT88 (Picore);Le lanceur picore l'ennemi. S'il tient une Baie, le lanceur s'en empare et profite de ses effets.;3 CT & CS;✓
+416;CT89 (Demi-Tour);Après avoir attaqué, le lanceur change de place avec un Pokémon de l'équipe qui attend son tour.;3 CT & CS;✓
+417;CT90 (Clonage);Le lanceur fait une copie de lui-même en sacrifiant quelques PV. La copie sert de leurre.;3 CT & CS;✓
+418;CT91 (Luminocanon);Le lanceur concentre son énergie lumineuse et la fait exploser. Peut aussi baisser la Déf. Spé. de l'ennemi.;3 CT & CS;✓
+419;CT92 (Distorsion);Le lanceur crée une zone étrange où les Pokémon les plus lents frappent en 1ᵉʳ pendant 5 tours.;3 CT & CS;✓
+420;CS01 (Coupe);Coupe l'ennemi avec des lames ou des griffes. Hors combat, permet de couper des arbres fins.;3 CT & CS;✓
+421;CS02 (Vol);Le lanceur s'envole au 1ᵉʳ tour et frappe au 2ᵉ. Permet aussi d'être porté dans une ville connue.;3 CT & CS;✓
+422;CS03 (Surf);Une énorme vague s'abat sur le champ de bataille. Permet aussi de voyager sur l'eau.;3 CT & CS;✓
+423;CS04 (Force);Le lanceur cogne l'ennemi de toute sa force. Permet aussi de déplacer des rochers.;3 CT & CS;✓
+424;CS05 CS05;Le lanceur enferme son adversaire dans une spirale d'eau furieuse. Permet aussi de traverser les tourbillons.;3 CT & CS;✓
+425;CS06 (Éclate-Roc);Le lanceur porte un coup dévastateur à l'ennemi. Permet aussi de briser des rochers fissurés.;3 CT & CS;✓
+426;CS07 (Cascade);Le lanceur charge l'ennemi à une vitesse remarquable. Permet aussi de franchir une cascade.;3 CT & CS;✓
+427;CS08 (Escalade);Charge pouvant rendre l'ennemi confus. Permet aussi d'escalader des parois rocheuses.;3 CT & CS;✓
+428;Explorakit;Sac rempli d'outils utiles pour l'exploration. Permet d'accéder au Souterrain.;7 Objets Rares;✓
+431;Poké Radar;Objet permettant de trouver les Pokémon qui se cachent dans l'herbe. Se recharge quand vous marchez.;7 Objets Rares;✓
+432;Carte Points;Carte indiquant le nombre de Points de Combat obtenus.;7 Objets Rares;✓
+433;Journal;Journal de bord qui garde en mémoire vos aventures quotidiennes.;7 Objets Rares;✓
+434;Boîte Sceaux;Boîte contenant les Sceaux pouvant être placés sur les capsules des Poké Balls.;7 Objets Rares;✓
+435;Coffret Mode;Jolie boîte permettant de ranger les Accessoires Pokémon.;7 Objets Rares;✓
+437;Registre Ami;Un carnet bien pratique pour enregistrer vos amis, les codes ami et des données de jeu.;7 Objets Rares;✓
+438;Clé Centrale;Grande clé servant à ouvrir la porte de la centrale Les Eoliennes du canyon. Un sbire de la Team Galaxie la détenait.;7 Objets Rares;✓
+439;Vieux Grigri;Un ancien porte-bonheur fait d'os de Pokémon à porter à la doyenne de Célestia.;7 Objets Rares;✓
+440;Clé Galaxie;Clé magnétique servant à désactiver les systèmes de sécurité du QG Galaxie. La perdre entraîne une punition.;7 Objets Rares;✓
+442;Carte;Une carte très pratique pouvant être consultée n'importe quand. Elle indique votre position actuelle.;7 Objets Rares;✓
+443;Cherche VS;Un appareil indiquant les Dresseurs prêts à se battre. La batterie se recharge quand vous marchez.;7 Objets Rares;✓
+444;Boîte Jetons;Une boîte pour conserver les Jetons obtenus au Casino. Peut contenir jusqu'à 50 000 Jetons.;7 Objets Rares;✓
+445;Canne;Une vieille canne usée. Utilisez-la pour pêcher des Pokémon sauvages dans les points d'eau.;7 Objets Rares;✓
+446;Super Canne;Une canne neuve et de bonne qualité. Utilisez-la pour pêcher des Pokémon sauvages dans les points d'eau.;7 Objets Rares;✓
+447;Méga Canne;Une canne à pêche ultramoderne. Utilisez-la pour pêcher des Pokémon sauvages dans les points d'eau.;7 Objets Rares;✓
+448;Kwakarrosoir;Arrosoir en forme de PSYKOKWAK. Aide à la croissance des Baies plantées dans les sols meubles.;7 Objets Rares;✓
+449;Boîte Poffin;Boîte pour ranger les Poffins faits à partir de Baies.;7 Objets Rares;✓
+450;Bicyclette;Une Bicyclette pliable permettant de se déplacer plus rapidement qu'avec les Chaussures de Sport.;7 Objets Rares;✓
+451;Clé Chambre;Clé de l'une des suites de l'hôtel de luxe se trouvant près du lac. Bizarrement, elle disparaît souvent.;7 Objets Rares;✓
+452;Lettre Chen;Lettre du Prof. Chen vous demandant de vous rendre sur la Route 224.;7 Objets Rares;✓
+453;Lun'Aile;Plume qui brille comme la lune. On dit qu'elle a le pouvoir de chasser les cauchemars.;7 Objets Rares;✓
+454;Carte Membre;Carte nécessaire pour entrer à l'auberge de Joliberges. Le dernier tampon date d'il y a 50 ans!;7 Objets Rares;✓
+456;Passe Bateau;Un ticket nécessaire pour embarquer sur le Bateau Express Aquaria. Il y a un bateau dessiné dessus.;7 Objets Rares;✓
+459;Colis;Paquet qu'on vous a confié. Vous devez le remettre à votre ami d'enfance qui a quitté Bonaugure.;7 Objets Rares;✓
+460;Bon 1;Un des trois bons à échanger contre une Pokémontre.;7 Objets Rares;✓
+461;Bon 2;Un des trois bons à échanger contre une Pokémontre.;7 Objets Rares;✓
+462;Bon 3;Un des trois bons à échanger contre une Pokémontre.;7 Objets Rares;✓
+463;Clé Stockage;La clé de l'entrepôt de la Team Galaxie situé à la périphérie de Voilaroc.;7 Objets Rares;✓
+464;Potionsecret;Médicament génial vendu à la pharmacie d'Irisia. Soigne totalement un Pokémon de tout problème de statut.;7 Objets Rares;✓
+465;Magnéto VS;Appareil utile permettant d'enregistrer les combats entre amis et ceux ayant lieu dans un bâtiment de combat.;7 Objets Rares;✓
+466;Gracidée;Fleur que l'on offre en gage de reconnaissance, notamment à l'occasion d'un anniversaire.;7 Objets Rares;✓
+467;Clé Secrète;Clé destinée à une serrure très complexe. Ouvre une porte en transmettant un signal électrique.;7 Objets Rares;✓
+468;Bte Noigrume;Une boîte bien pratique qui peut contenir jusqu'à 99 Noigrumes.;7 Objets Rares;✓
+469;Carnet Zarbi;Un carnet permettant de noter toutes les formes de ZARBI capturées.;7 Objets Rares;✓
+470;Plante-Baies;Un Accessoire portatif qui permet de cultiver des Baies en tout lieu et à tout moment.;7 Objets Rares;✓
+471;Cherch'Objet;Un appareil tout nouveau qui indique la localisation des objets invisibles en émettant un son et en clignotant.;7 Objets Rares;✓
+472;Carte Bleue;Une carte pour accumuler les points de l'émission "Le Mot de Passe de Buena".;7 Objets Rares;✓
+474;Glas Transp.;Une cloche antique au tintement apaisant.;7 Objets Rares;✓
+475;Carte Magn.;Une clé en forme de carte permettant d'ouvrir les cloisons de la Tour Radio.;7 Objets Rares;✓
+476;Clé Sous-Sol;Une clé qui permet d'ouvrir la porte au fond du Doublon-Tunnel.;7 Objets Rares;✓
+477;Carapuce à O;Un arrosoir qui permet de faire croître rapidement les Baies plantées dans le Plante-Baies.;7 Objets Rares;✓
+478;Écaillerouge;Une écaille du LEVIATOR apparu au Lac Colère. Elle rougeoie comme une flamme.;7 Objets Rares;✓
+479;Objet perdu;Poupée MELOFEE perdue par la Copieuse.;7 Objets Rares;✓
+480;Passe Train;Un ticket nécessaire pour monter à bord du Train Magnétique. Utilisable à volonté.;7 Objets Rares;✓
+481;Partie Mach.;Une pièce essentielle du générateur de la Centrale.;7 Objets Rares;✓
+482;Argent'Aile;Une étrange plume qui brille d'un éclat argenté.;7 Objets Rares;✓
+483;Arcenci'Aile;Une étrange plume qui brille d'un éclat arc-en-ciel.;7 Objets Rares;✓
+484;Œuf Mystère;Un Oeuf étrange confié par M. Pokémon. Personne ne sait ce qu'il contient.;7 Objets Rares;✓
+485;Noigrume Rge;Un Noigrume de couleur rouge. Il dégage un puissant arôme.;0 Objets;✓
+486;Noigrume Jne;Un Noigrume de couleur jaune. Il dégage un arôme délicat.;0 Objets;✓
+487;Noigrume Blu;Un Noigrume de couleur bleue. Il dégage un arôme un peu aigre.;0 Objets;✓
+488;Noigrume Ver;Un Noigrume de couleur verte. Il dégage un arôme étonnamment riche.;0 Objets;✓
+489;Noigrume Ros;Un Noigrume de couleur rose. Il dégage un arôme sucré.;0 Objets;✓
+490;Noigrume Blc;Un Noigrume de couleur blanche. Il ne dégage aucun arôme.;0 Objets;✓
+491;Noigrume Noi;Un Noigrume de couleur noire. Il dégage un arôme indéfinissable.;0 Objets;✓
+492;Speed Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon rapides.;2 Balls;✓
+493;Niveau Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon de niveau inférieur au sien.;2 Balls;✓
+494;Appât Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon ferrés avec une canne à pêche.;2 Balls;✓
+495;Masse Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon lourds.;2 Balls;✓
+496;Love Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon de sexe opposé au sien.;2 Balls;✓
+497;Copain Ball;Une Poké Ball un peu spéciale qui permet de rendre rapidement amicaux les Pokémon sauvages attrapés avec.;2 Balls;✓
+498;Lune Ball;Une Poké Ball un peu spéciale qui fonctionne particulièrement bien sur les Pokémon évoluant avec une Pierre Lune.;2 Balls;✓
+499;Compét'Ball;Une Poké Ball spéciale utilisée au Concours de Capture d'insecte.;2 Balls;La Compét'Ball est utilisable dans le Concours de Capture d'insecte, mais n'est jamais contenue dans le sac du joueur ni dans ce contexte ni en dehors.
+500;Parc Ball;Une Poké Ball spéciale utilisée au Parc des Amis.;2 Balls;La Parc Ball est utilisable dans le Parc des Amis, mais n'est pas programmée en tant qu'objet dans Pokémon Diamant, Perle et Platine.
+502;Lecteur GB;Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode.;7 Objets Rares;✓
+503;Glas Tempête;Une cloche antique au tintement apaisant.;7 Objets Rares;✓
+504;Bonbon Rage;Un bonbon, spécialité d'Acajou. Il constitue un cadeau très réputé.;7 Objets Rares;✓
+505;Carte Mémo01;Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires au Pokéathlon.;0 Objets;✓
+506;Carte Mémo02;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez fini en dernier.;0 Objets;✓
+507;Carte Mémo03;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de sprints de vos Pokémon.;0 Objets;✓
+508;Carte Mémo04;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de sauts de vos Pokémon.;0 Objets;✓
+509;Carte Mémo05;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires à la Cours'Obstacles.;0 Objets;✓
+510;Carte Mémo06;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires à la Course de Relais.;0 Objets;✓
+511;Carte Mémo07;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires au Capture Drapeau.;0 Objets;✓
+512;Carte Mémo08;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires au Casse Roc.;0 Objets;✓
+513;Carte Mémo09;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires à l'Attrap'Disques.;0 Objets;✓
+514;Carte Mémo10;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires à la Bataille Neige.;0 Objets;✓
+515;Carte Mémo11;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de points gagnés par vos Pokémon.;0 Objets;✓
+516;Carte Mémo12;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre d'erreurs de vos Pokémon.;0 Objets;✓
+517;Carte Mémo13;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de points perdus par vos Pokémon.;0 Objets;✓
+518;Carte Mémo14;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de charges de vos Pokémon.;0 Objets;✓
+519;Carte Mémo15;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vos Pokémon sont tombés.;0 Objets;✓
+520;Carte Mémo16;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires au Combat Ring-Out.;0 Objets;✓
+521;Carte Mémo17;Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires à Saute-Lumière.;0 Objets;✓
+522;Carte Mémo18;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires au Cercle Musical.;0 Objets;✓
+523;Carte Mémo19;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires en Link.;0 Objets;✓
+524;Carte Mémo20;Contient vos données du Pokéathlon. Il y est inscrit le nombre de fois où vous avez fini en dernier en Link.;0 Objets;✓
+525;Carte Mémo21;Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires aux épreuves.;0 Objets;✓
+526;Carte Mémo22;Contient vos données du Pokéathlon. Il y est inscrit le nombre de fois où vous avez fini en dernier aux épreuves.;0 Objets;✓
+527;Carte Mémo23;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez changé de Pokémon.;0 Objets;✓
+528;Carte Mémo24;Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de victoires à la Balle au But.;0 Objets;✓
+529;Carte Mémo25;Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de prix individuels.;0 Objets;✓
+530;Carte Mémo26;Contient vos données du Pokéathlon. Il y est inscrit le nombre de fois où vous avez touché vos Pokémon.;0 Objets;✓
+531;Carte Mémo27;Contient vos données du Pokéathlon. Sur cette carte est inscrit le temps que vous avez passé à y jouer.;0 Objets;✓
+532;Orbe Vert;Un orbe viride dont on dit qu'il a un lien très étroit avec les légendes de Hoenn.;7 Objets Rares;✓
+534;Orbe Rouge;Un orbe incarnat dont on dit qu'il a un lien très étroit avec les légendes de Hoenn.;7 Objets Rares;✓
+535;Orbe Bleu;Un orbe céruléen dont on dit qu'il a un lien très étroit avec les légendes de Hoenn.;7 Objets Rares;✓
+536;Mystécristal;Un orbe cristallin fraîchement déterré. Il est encore pris dans une gangue de terre et de roche.;7 Objets Rares;✓

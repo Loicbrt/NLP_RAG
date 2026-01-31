@@ -1,0 +1,35 @@
+Les Starters, qu'est-ce que c'est ?
+
+Qui ne sait pas aujourd'hui ce que l'on appelle Starter ? Un Pokémon dit Starter est le premier Pokémon obtenu dans le jeu, généralement donné par le Professeur de la région.
+
+Dans la région de Sinnoh, vous vous ferez attaquer par des Étourmi au Lac Vérité. Vous trouverez alors une petite mallette contenant trois Poké Balls. Votre partenaire vous demande d'en choisir une afin de vous défendre contre cette attaque. Choisissez avec soin, parce que le Pokémon choisit reste votre compagnon pour le reste de l'aventure. Plus tard, le Professeur Sorbier vous donnera le Pokémon choisi au Lac. Vous avez le choix entre Tortipouss, Ouisticram ou Tiplouf.
+
+Tortipouss, le Pokémon Minifeuille
+
+Tortipouss
+
+Tortipouss est le premier choix que vous pourrez faire. C'est un Pokémon de type Plante. Étant de type Plante, il sera très utile pour la première Arène, ainsi que la quatrième, mais difficile à utiliser pour d'autres Arènes. Il apporte tout de même une grande aide tout au long de votre aventure. Il gagne le type Sol lors de sa dernière évolution en Torterra.
+
+Concernant l'étymologie de son nom, on remarque une similitude avec la tortue, animal dont il est inspiré. De plus, il se lie très bien avec la nature, parce qu'au fur et à mesure de ses évolutions, il grandira. Enfin, on remarque deux mini-feuilles, ce qui caractérise son espèce. Il s'agit également d'une pousse vivante qui grandira avec lui.
+
+Si vous choisissez Tortipouss, il sera doté de la Capacité Spéciale Engrais, permettant de multiplier les dégâts des capacités Plante par 1,5 quand le Pokémon a moins de 1/3 de ses PV max. En outre, il possède les capacités Charge et Repli.
+
+Ouisticram, le Pokémon Chimpanzé
+
+Ouisticram
+
+Ouisticram est le second choix que vous pourrez faire. C'est un Pokémon de type Feu. Étant de type Feu, Ouisticram sera parfait pour les débutants. Néanmoins, il pourrait se retrouver en difficulté avec le premier Champion s'il n'est pas assez entrainé. En revanche, il vous sera fortement utile pour la deuxième Arène, la sixième Arène ainsi que la septième. Il gagne le type Combat lors de sa deuxième évolution en Chimpenfeu.
+
+Concernant l'étymologie de son nom, il ressemble au ouistiti, l'animal dont il est inspiré. On peut remarquer une petite flamme qui constitue sa queue, ce qui nous montre bien qu'il est de type Feu. Très espiègle, c'est un Pokémon qui adore jouer et qui est doté d'une agilité sans pareille. Il est également très rapide pour esquiver les coups de ses adversaires.
+
+Si vous choisissez Ouisticram, il sera doté de la Capacité Spéciale Brasier, permettant de multiplier les dégâts des capacités Feu par 1,5 quand le Pokémon a moins de 1/3 de ses PV max. Il possédera en outre les capacités Griffe et Groz'Yeux.
+
+Tiplouf, le Pokémon Pingouin
+
+Ouisticram
+
+Tiplouf est le troisième et dernier choix que vous pourrez faire. C'est un Pokémon de type Eau. Étant de type Eau, il convient à tout type de Dresseurs. Il sera en difficulté lors du deuxième Champion à affronter, mais d'une grande utilité à la première Arène. Il gagne le type Acier lors de sa dernière évolution en Pingoléon.
+
+Concernant l'étymologie de son nom, il ressemble fortement au pingouin, animal dont il est inspiré. Par ailleurs, "Plouf" nous rappelle l'eau qui est son type de nature. C'est un Pokémon fier et vantard, mais qui est un excellent nageur et plongeur.
+
+Si vous choisissez Tiplouf, il sera doté de la Capacité Spéciale Torrent, permettant de multiplier les dégâts des capacités Eau par 1,5 quand le Pokémon a moins de 1/3 de ses PV max. Il possédera en outre les capacités Écras'Face et Rugissement.
